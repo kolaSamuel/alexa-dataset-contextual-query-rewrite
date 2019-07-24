@@ -1,0 +1,784 @@
+<user> remind PRP$ me to take PSBL my pills.
+<user> remind PRP$ me to take PSBL my pills. <system> What time do PRP$ you need to take PSBL your pills? <user> PRP$ i need to take PSBL my pills at 7 pm.
+<user> What gas stations are here?
+<user> What gas stations are here? <system> There is a Chevron. <user> That's good! Please pick the quickest route to get there and avoid all heavy traffic!
+<user> What gas stations are here? <system> There is a Chevron. <user> That's good! Please pick the quickest route to get there and avoid all heavy traffic! <system> Taking PRP$ you to Chevron. <user> What is the address?
+<user> What gas stations are here? <system> There is a Chevron. <user> That's good! Please pick the quickest route to get there and avoid all heavy traffic! <system> Taking PRP$ you to Chevron. <user> What is the address? <system> 783 Arcadia Pl is the address for Chevron gas station. <user> Perfect. Thank PRP$ you.
+<user> Set reminder for dinner at 11AM with mom on Friday.
+<user> Set reminder for dinner at 11AM with mom on Friday. <system> Okay, scheduling Friday dinner with mom at 11 am. <user> Thank PRP$ you, PRP$ we are done for now.
+<user> show PRP$ me the weather for the next 7 days.
+<user> show PRP$ me the weather for the next 7 days. <system> What city would PRP$ you like the 7 day forecast for? <user> Will PRP$ it be humid in Compton?
+<user> show PRP$ me the weather for the next 7 days. <system> What city would PRP$ you like the 7 day forecast for? <user> Will PRP$ it be humid in Compton? <system> PRP$ It should not be humid in Compton next week. <user> Thanks.
+<user> Where does PSBL my friend live?
+<user> Where does PSBL my friend live? <system> Tom lives at 580 Van Ness Ave. <user> Ok set the GPS. Thanks.
+<user> remind PRP$ me to watch the football game on the 1st.
+<user> remind PRP$ me to watch the football game on the 1st. <system> QUESTION what time on the 1st should PRP$ I set a reminder to watch the football game? <user> At 2 pm please.
+<user> remind PRP$ me to watch the football game on the 1st. <system> QUESTION what time on the 1st should PRP$ I set a reminder to watch the football game? <user> At 2 pm please. <system> PRP$ I have set a reminder for the football game at 2 pm on the 1st. <user> Thanks.
+<user> give PRP$ me weather forecast for today.
+<user> give PRP$ me weather forecast for today. <system> What city do PRP$ you want the weather forecast for? <user> Downtown Chicago, please.
+<user> give PRP$ me weather forecast for today. <system> What city do PRP$ you want the weather forecast for? <user> Downtown Chicago, please. <system> Today in downtown chicago there should be hail with a high of 70F. <user> thanks.
+<user> Which temperature there will be in Alhambra on Thursday?
+<user> Which temperature there will be in Alhambra on Thursday? <system> On Thursday the temperature in Alhambra will be low of 20F, and high of 30F. <user> Thanks!
+<user> QUESTION what is the weather like in the city.
+<user> QUESTION what is the weather like in the city. <system> What city are PRP$ you inquiring about? <user> PRP$ I am in Durham.
+<user> QUESTION what is the weather like in the city. <system> What city are PRP$ you inquiring about? <user> PRP$ I am in Durham. <system> What would PRP$ you like to know about the weather in Durham? <user> Will there be a blizzard?
+<user> QUESTION what is the weather like in the city. <system> What city are PRP$ you inquiring about? <user> PRP$ I am in Durham. <system> What would PRP$ you like to know about the weather in Durham? <user> Will there be a blizzard? <system> The weekly forecast does not show that there will be a blizzard in Durham this week. <user> Thanks.
+<user> QUESTION what's the weather like in new york.
+<user> QUESTION what's the weather like in new york. <system> Is there a specific day PRP$ you would like to know the weather for in New York? <user> PRP$ I need to know about Friday please.
+<user> QUESTION what's the weather like in new york. <system> Is there a specific day PRP$ you would like to know the weather for in New York? <user> PRP$ I need to know about Friday please. <system> PRP$ It will be dry and between 30- 50F Friday in New York. <user> Thanks.
+<user> Is PRP$ it cloudy in Cleveland today?
+<user> Is PRP$ it cloudy in Cleveland today? <system> PRP$ It is cloudy right now in Cleveland. <user> Thanks.
+<user> PRP$ I need the closest hospital.
+<user> PRP$ I need the closest hospital. <system> The Palo Alto Medical Foundation is 4 miles away at 611 Ames Ave. Would PRP$ you like directions there? <user> Yes, please give PRP$ me directions via the route with no traffic.
+<user> PRP$ I need the closest hospital. <system> The Palo Alto Medical Foundation is 4 miles away at 611 Ames Ave. Would PRP$ you like directions there? <user> Yes, please give PRP$ me directions via the route with no traffic. <system> There is moderate traffic on PSBL our way and PRP$ you should be able to reach there fast. PRP$ I sent all the info on PSBL your screen, drive carefully! <user> Thank PRP$ you car!
+<user> Info about football please.
+<user> Info about football please. <system> PSBL Your football   activity is on Sunday at 9 am with PSBL your brother. <user> Thanks, that's all.
+<user> QUESTION what are the directions to the closest parking garage.
+<user> QUESTION what are the directions to the closest parking garage. <system> The closest parking garage is Civic Center Garage, located 4 miles away at 270 Altaire Walk. <user> Thank PRP$ you.
+<user> take PRP$ me to the nearest grocery store.
+<user> take PRP$ me to the nearest grocery store. <system> There is a Safeway 2 miles away: would PRP$ you like to get PSBL its address? <user> Yes.
+<user> take PRP$ me to the nearest grocery store. <system> There is a Safeway 2 miles away: would PRP$ you like to get PSBL its address? <user> Yes. <system> Safeway is at 452 Arcadia Pl. <user> Thank PRP$ you car, pick a route with no traffic and let PRP$'s go there!
+<user> take PRP$ me to the nearest grocery store. <system> There is a Safeway 2 miles away: would PRP$ you like to get PSBL its address? <user> Yes. <system> Safeway is at 452 Arcadia Pl. <user> Thank PRP$ you car, pick a route with no traffic and let PRP$'s go there! <system> The only route has moderate traffic is that going to be okay? <user> Where is the nearest grocery store with no traffic?
+<user> take PRP$ me to the nearest grocery store. <system> There is a Safeway 2 miles away: would PRP$ you like to get PSBL its address? <user> Yes. <system> Safeway is at 452 Arcadia Pl. <user> Thank PRP$ you car, pick a route with no traffic and let PRP$'s go there! <system> The only route has moderate traffic is that going to be okay? <user> Where is the nearest grocery store with no traffic? <system> Safeway is the only grocery store listed, PRP$ it has moderate traffic. Will that be ok? <user> Yes please set the GPS for there.
+<user> take PRP$ me to the nearest grocery store. <system> There is a Safeway 2 miles away: would PRP$ you like to get PSBL its address? <user> Yes. <system> Safeway is at 452 Arcadia Pl. <user> Thank PRP$ you car, pick a route with no traffic and let PRP$'s go there! <system> The only route has moderate traffic is that going to be okay? <user> Where is the nearest grocery store with no traffic? <system> Safeway is the only grocery store listed, PRP$ it has moderate traffic. Will that be ok? <user> Yes please set the GPS for there. <system> Setting destination now. <user> Thank PRP$ you.
+<user> Is PRP$ it currently hailing in Manhattan?
+<user> Is PRP$ it currently hailing in Manhattan? <system> PRP$ It is not hailing in Manhattan, the forecast says PRP$ it is dry today. <user> Thank PRP$ you car!
+<user> is PRP$ it going to be cloudy this week.
+<user> is PRP$ it going to be cloudy this week. <system> Could PRP$ you please let PRP$ me know QUESTION what place PRP$ I am looking up the data for? <user> Boston.
+<user> is PRP$ it going to be cloudy this week. <system> Could PRP$ you please let PRP$ me know QUESTION what place PRP$ I am looking up the data for? <user> Boston. <system> This week Boston does not have any weather predictions of PRP$ it being cloudy. <user> Thanks car, that works.
+<user> check weather for new york city.
+<user> check weather for new york city. <system> For QUESTION which time period did PRP$ you want weather information? <user> PRP$ I need current weather data about New York, specifically information about the temperature.
+<user> check weather for new york city. <system> For QUESTION which time period did PRP$ you want weather information? <user> PRP$ I need current weather data about New York, specifically information about the temperature. <system> PRP$ It is between 50- 70F in New York right now. <user> Awesome.
+<user> QUESTION what's the temperature going to be like this week.
+<user> QUESTION what's the temperature going to be like this week. <system> What city are PRP$ you in? <user> PRP$ I'm in manhattan.
+<user> QUESTION what's the temperature going to be like this week. <system> What city are PRP$ you in? <user> PRP$ I'm in manhattan. <system> This week in Manhattan the temperature will range from 20F to 100F. <user> Thank PRP$ you very much car!
+<user> Set a reminder for PRP$ me to take PSBL my medicine at 9 am on Sunday with by brother Frank.
+<user> Set a reminder for PRP$ me to take PSBL my medicine at 9 am on Sunday with by brother Frank. <system> Okay, setting a reminder to take medicine with PSBL your brother Frank at 9 am on Sunday. <user> Thank PRP$ you.
+<user> PRP$ I need to know PSBL my conference agenda, date and QUESTION who is attending.
+<user> PRP$ I need to know PSBL my conference agenda, date and QUESTION who is attending. <system> PSBL Your conference is set for Monday with PSBL your boss to go over budget. <user> Great, and QUESTION who all will be there?
+<user> PRP$ I need to know PSBL my conference agenda, date and QUESTION who is attending. <system> PSBL Your conference is set for Monday with PSBL your boss to go over budget. <user> Great, and QUESTION who all will be there? <system> The conference is with PSBL your boss. <user> Thanks.
+<user> PRP$ I need to know PSBL my conference agenda, date and QUESTION who is attending. <system> PSBL Your conference is set for Monday with PSBL your boss to go over budget. <user> Great, and QUESTION who all will be there? <system> The conference is with PSBL your boss. <user> Thanks. <system> PRP$ You're welcome. Do n't forget PRP$ it's held in conference room 102. <user> Thank PRP$ you.
+<user> Where does PSBL my friend live?
+<user> Where does PSBL my friend live? <system> Jack lives at 864 Almanor Ln. <user> Thanks.
+<user> get PRP$ me directions to the nearest starbucks.
+<user> get PRP$ me directions to the nearest starbucks. <system> There is no Starbucks locally. <user> Any coffee shops locally?
+<user> get PRP$ me directions to the nearest starbucks. <system> There is no Starbucks locally. <user> Any coffee shops locally? <system> Teavana is 5 miles away at 145 Amherst St. with moderate traffic. <user> OK, please give PRP$ me the directions via the fastest route.
+<user> get PRP$ me directions to the nearest starbucks. <system> There is no Starbucks locally. <user> Any coffee shops locally? <system> Teavana is 5 miles away at 145 Amherst St. with moderate traffic. <user> OK, please give PRP$ me the directions via the fastest route. <system> The current route is the fastest one PRP$ I can find. <user> Great, thank PRP$ you.
+<user> Where can PRP$ I find a parking garage?
+<user> Where can PRP$ I find a parking garage? <system> Palo Alto Garage R 	 is at 481 Amaranta Ave. <user> Is that the quickest route?
+<user> Where can PRP$ I find a parking garage? <system> Palo Alto Garage R 	 is at 481 Amaranta Ave. <user> Is that the quickest route? <system> PRP$ I will send on PSBL your screen the quickest route, sure, there is heavy traffic now and PRP$ we will have to make the route slightly longer. <user> Ok thanks for the notification.
+<user> give PRP$ me directions to the nearest shopping center.
+<user> give PRP$ me directions to the nearest shopping center. <system> PRP$ I've set the GPS to Stanford Shopping Center, 773 Alger Dr, PRP$ it's 2 miles away. <user> Thanks.
+<user> Will there be clear skies in fresno on wednesday?
+<user> Will there be clear skies in fresno on wednesday? <system> The forecast says there will be snow in fresno, there is no mention of clear skies on wednesday. <user> thank PRP$ you.
+<user> directions to the grocery store.
+<user> directions to the grocery store. <system> Whole Foods located at 819 Alma St is 1 mile away although there is a car collision nearby. <user> OK, please give PRP$ me directions via the quickest route.
+<user> directions to the grocery store. <system> Whole Foods located at 819 Alma St is 1 mile away although there is a car collision nearby. <user> OK, please give PRP$ me directions via the quickest route. <system> The current route is the quickest. <user> OK, thank PRP$ you.
+<user> What time is PSBL my next dinner event and QUESTION who will be attending?
+<user> What time is PSBL my next dinner event and QUESTION who will be attending? <system> The one at 6 pm with Jon is on the 11th. <user> That will do, thanks.
+<user> is there a chance of snow in this weeks weather forecast.
+<user> is there a chance of snow in this weeks weather forecast. <system> What city would PRP$ you like to hear this weather information for? <user> San Mateo, please.
+<user> is there a chance of snow in this weeks weather forecast. <system> What city would PRP$ you like to hear this weather information for? <user> San Mateo, please. <system> PRP$ It will not snow in san mateo this week. <user> Thank PRP$ you!
+<user> QUESTION what is the current temperature.
+<user> QUESTION what is the current temperature. <system> Which location do PRP$ you want to know the current temperature of? <user> Alameda.
+<user> QUESTION what is the current temperature. <system> Which location do PRP$ you want to know the current temperature of? <user> Alameda. <system> The temperature in Alameda now is low 60F, and high 80F. <user> Okay, thank PRP$ you.
+<user> Will there be clear skies in San Francisco on Friday?
+<user> Will there be clear skies in San Francisco on Friday? <system> On Friday on San Francisco the weather will be dry with a high of 80F. <user> Thanks.
+<user> find PRP$ me a hotel somewhere near PSBL my current location.
+<user> find PRP$ me a hotel somewhere near PSBL my current location. <system> The Clement Hotel is 8 miles away at 657 Ames Ave. <user> Can PRP$ you send PRP$ me the fastest route to go there?
+<user> find PRP$ me a hotel somewhere near PSBL my current location. <system> The Clement Hotel is 8 miles away at 657 Ames Ave. <user> Can PRP$ you send PRP$ me the fastest route to go there? <system> There is currently moderate traffic on the way to the hotel; setting directions now. <user> Thank PRP$ you.
+<user> QUESTION what is the weather going to be like today and tomorrow.
+<user> QUESTION what is the weather going to be like today and tomorrow. <system> What city are PRP$ you wanting to know the weather for? <user> Los Angeles.
+<user> QUESTION what is the weather going to be like today and tomorrow. <system> What city are PRP$ you wanting to know the weather for? <user> Los Angeles. <system> In Los Angeles, PRP$ it is going to be hot today with a low of 40F and a high of 60F.   Tomorrow will be rainy with a low of 40F and a high of 60F. <user> Awesome, thanks.
+<user> QUESTION what's the weather forecast.
+<user> QUESTION what's the weather forecast. <system> What city are PRP$ you inquiring about? <user> Find out if there is hail outside right now, for Seattle please.
+<user> QUESTION what's the weather forecast. <system> What city are PRP$ you inquiring about? <user> Find out if there is hail outside right now, for Seattle please. <system> In Seattle there is snow right now. <user> Thank PRP$ you!
+<user> will PRP$ it snow this week.
+<user> will PRP$ it snow this week. <system> What city can PRP$ I check for snow for PRP$ you? <user> alameda.
+<user> will PRP$ it snow this week. <system> What city can PRP$ I check for snow for PRP$ you? <user> alameda. <system> Snow is predicted to fall on Saturday in alameda. <user> Thank PRP$ you car!
+<user> Find the address to a hospital or clinic.
+<user> Find the address to a hospital or clinic. <system> Stanford Express Care is at 214 El Camino Real. <user> Thank PRP$ you.
+<user> remind PRP$ me to watch football on sunday.
+<user> remind PRP$ me to watch football on sunday. <system> What time would like the reminder? <user> 2 pm.
+<user> remind PRP$ me to watch football on sunday. <system> What time would like the reminder? <user> 2 pm. <system> PRP$ I have set a reminder for Sunday at 2 pm. <user> Thank PRP$ you.
+<user> schedule a dentist appointment at 3 next month on the 12th.
+<user> schedule a dentist appointment at 3 next month on the 12th. <system> PRP$ I've scheduled a dentist appointment for 3 pm on the 12th, anything else? <user> Can PRP$ you confirm PRP$ you set the dentist appointment for NEXT MONTH on the 12th?
+<user> Where is the closest tea house?
+<user> Where is the closest tea house? <system> Peets Coffee also serves tea. PRP$ They are 2 miles away at 9981 Archuleta Ave. <user> How's the traffic?
+<user> Where is the closest tea house? <system> Peets Coffee also serves tea. PRP$ They are 2 miles away at 9981 Archuleta Ave. <user> How's the traffic? <system> Moderate traffic is listed to Peets coffee. <user> Sounds good, let PRP$'s get going.
+<user> Where is the closest tea house? <system> Peets Coffee also serves tea. PRP$ They are 2 miles away at 9981 Archuleta Ave. <user> How's the traffic? <system> Moderate traffic is listed to Peets coffee. <user> Sounds good, let PRP$'s get going. <system> Displaying directions now. <user> Thanks for the help.
+<user> Will PRP$ you find PRP$ me the fastest route to a rest stop.
+<user> Will PRP$ you find PRP$ me the fastest route to a rest stop. <system> The westin is located 7 miles away with no traffic. Setting directions now to 329 El Camino Real. <user> Pick the fastest route please, thank PRP$ you car!
+<user> Will PRP$ you find PRP$ me the fastest route to a rest stop. <system> The westin is located 7 miles away with no traffic. Setting directions now to 329 El Camino Real. <user> Pick the fastest route please, thank PRP$ you car! <system> Setting navigation now. <user> Thank PRP$ you car!
+<user> Who's showing up for tennis, and QUESTION what's the date on that?
+<user> Who's showing up for tennis, and QUESTION what's the date on that? <system> Jon and Jeff will be attending PSBL your tennis activity. <user> What time will PRP$ they be there?
+<user> Who's showing up for tennis, and QUESTION what's the date on that? <system> Jon and Jeff will be attending PSBL your tennis activity. <user> What time will PRP$ they be there? <system> PRP$ They will be there at 1 pm. <user> Thank PRP$ you assistant!
+<user> QUESTION what's the forecast report.
+<user> QUESTION what's the forecast report. <system> What city do PRP$ you want to hear the forecast report from? <user> Camarillo, please. Tell PRP$ me if PRP$ it will be foggy on Friday.
+<user> QUESTION what's the forecast report. <system> What city do PRP$ you want to hear the forecast report from? <user> Camarillo, please. Tell PRP$ me if PRP$ it will be foggy on Friday. <system> PRP$ It will be stormy in Camarillon on Friday. <user> Thank PRP$ you.
+<user> Will PRP$ it snow in Fresno during this week?
+<user> Will PRP$ it snow in Fresno during this week? <system> Saturday PRP$ it will snow in Fresno. <user> Thank PRP$ you very much!
+<user> check PSBL my agenda for PSBL my meetings.
+<user> check PSBL my agenda for PSBL my meetings. <system> The agenda for PSBL your meeting is to discuss the merger. <user> Okay, PRP$ I want to find out QUESTION what time PSBL my meeting is and QUESTION where and QUESTION what day please.
+<user> check PSBL my agenda for PSBL my meetings. <system> The agenda for PSBL your meeting is to discuss the merger. <user> Okay, PRP$ I want to find out QUESTION what time PSBL my meeting is and QUESTION where and QUESTION what day please. <system> PSBL Your meeting is on Wednesday at 3PM in conference room 100. <user> Perfect, thank PRP$ you.
+<user> Will PRP$ it be cloudy in Inglewood next week?
+<user> Will PRP$ it be cloudy in Inglewood next week? <system> There are n't any cloudy days in the forecast for Inglewood. <user> Okay, thanks.
+<user> QUESTION when am PRP$ i going swimming?
+<user> QUESTION when am PRP$ i going swimming? <system> PRP$ You have two swimming activities scheduled. One on Wednesday at 5 pm and the other on the 5th at 4 pm. <user> Thank PRP$ you kindly.
+<user> is PRP$ it going to snow this week.
+<user> is PRP$ it going to snow this week. <system> Where should PRP$ I check for snow? <user> Corona.
+<user> is PRP$ it going to snow this week. <system> Where should PRP$ I check for snow? <user> Corona. <system> There will be no snow in Corona this week. <user> Thank PRP$ you car!
+<user> navigate home.
+<user> navigate home. <system> Home is 5 miles away at 5671 Barringer Street. <user> Is that route avoiding heavy traffic?
+<user> navigate home. <system> Home is 5 miles away at 5671 Barringer Street. <user> Is that route avoiding heavy traffic? <system> No the only route available has heavy traffic. PRP$ I'm sorry. <user> That is ok.
+<user> Schedule a swimming activity with Marie on Sunday at 6 pm.
+<user> Schedule a swimming activity with Marie on Sunday at 6 pm. <system> Okay, PRP$ I will set a schedule for a swimming activity with Marie on Sunday at 6 pm. <user> Thank PRP$ you.
+<user> find the nearest hotel.
+<user> find the nearest hotel. <system> The nearest hotel is Hotel Keen, PRP$ it's 3 miles away. Do PRP$ you want PSBL its address? <user> Yes sounds great.
+<user> find the nearest hotel. <system> The nearest hotel is Hotel Keen, PRP$ it's 3 miles away. Do PRP$ you want PSBL its address? <user> Yes sounds great. <system> 578 Arbol Dr, there is no traffic and PRP$ you should arrive in a couple minutes. <user> Set PSBL my GPS for the quickest route possible please.
+<user> find the nearest hotel. <system> The nearest hotel is Hotel Keen, PRP$ it's 3 miles away. Do PRP$ you want PSBL its address? <user> Yes sounds great. <system> 578 Arbol Dr, there is no traffic and PRP$ you should arrive in a couple minutes. <user> Set PSBL my GPS for the quickest route possible please. <system> PRP$ I picked the best route for PRP$ you, drive carefully! <user> Thank PRP$ you car!
+<user> What is a quick route home?
+<user> What is a quick route home? <system> There is heavy traffic in this moment but PRP$ we're just 1 miles away, PRP$ it should n't take too long to reach there. <user> Please direct PRP$ me via the quickest possible route.
+<user> What is a quick route home? <system> There is heavy traffic in this moment but PRP$ we're just 1 miles away, PRP$ it should n't take too long to reach there. <user> Please direct PRP$ me via the quickest possible route. <system> PRP$ I sent all the info on PSBL your screen, drive carefully! <user> Thank PRP$ you car!
+<user> will the weather be cloudy next week.
+<user> will the weather be cloudy next week. <system> Okay, QUESTION what city should PRP$ I look in? <user> grand rapids.
+<user> will the weather be cloudy next week. <system> Okay, QUESTION what city should PRP$ I look in? <user> grand rapids. <system> During the week PRP$ it will be cloudy in Grand Rapids only today. <user> Thanks.
+<user> Where is there a parking garage?
+<user> Where is there a parking garage? <system> PRP$ I have located a parking garage 2 miles away at 880 Ames Ct. called Webster Garage. <user> What is the quickest route there?
+<user> Where is there a parking garage? <system> PRP$ I have located a parking garage 2 miles away at 880 Ames Ct. called Webster Garage. <user> What is the quickest route there? <system> PRP$ It is located 2 miles away, with moderate traffic en route. <user> Okay perfect, thanks!
+<user> What time is PSBL my PSBL doctor's appointment and QUESTION who is going with PRP$ me?
+<user> What time is PSBL my PSBL doctor's appointment and QUESTION who is going with PRP$ me? <system> PSBL Your PSBL doctor's appointment at 2 pm, PSBL your aunt will be going. <user> Okay perfect, thank PRP$ you!
+<user> assistant schedule an appointment at the dentist, 9 am of the 12th of current month. bring Martha with PRP$ me.
+<user> assistant schedule an appointment at the dentist, 9 am of the 12th of current month. bring Martha with PRP$ me. <system> PRP$ I am setting an appointment at the dentist on the 12th of current month at 9 am with Martha. <user> Thank PRP$ you!
+<user> set a reminder for PSBL my swimming plans.
+<user> set a reminder for PSBL my swimming plans. <system> swimming plans. <user> at 11 am on friday.
+<user> set a reminder for PSBL my swimming plans. <system> swimming plans. <user> at 11 am on friday. <system> Swimming plans on Friday at 11 am have been added to the calendar. <user> Perfect. Nothing else for now.
+<user> Where can PRP$ I get tea?
+<user> Where can PRP$ I get tea? <system> There is 2 tea shops near PRP$ you; Teavana is 4 miles away and Cafe Venetia is 5 miles away. Which one do PRP$ you want? <user> Which one is the quickest, is there any traffic?
+<user> Where can PRP$ I get tea? <system> There is 2 tea shops near PRP$ you; Teavana is 4 miles away and Cafe Venetia is 5 miles away. Which one do PRP$ you want? <user> Which one is the quickest, is there any traffic? <system> Teavana is the fastest journey, because there is no traffic on the way there. Cafe Venetia has moderate traffic. Should PRP$ we go to Teavana? <user> Yes Teavana please.
+<user> Where can PRP$ I get tea? <system> There is 2 tea shops near PRP$ you; Teavana is 4 miles away and Cafe Venetia is 5 miles away. Which one do PRP$ you want? <user> Which one is the quickest, is there any traffic? <system> Teavana is the fastest journey, because there is no traffic on the way there. Cafe Venetia has moderate traffic. Should PRP$ we go to Teavana? <user> Yes Teavana please. <system> PRP$ I sent on PSBL your screen PSBL its position and the fastest route to get there. <user> Ok can PRP$ you tell PRP$ me the address please?
+<user> Where can PRP$ I get tea? <system> There is 2 tea shops near PRP$ you; Teavana is 4 miles away and Cafe Venetia is 5 miles away. Which one do PRP$ you want? <user> Which one is the quickest, is there any traffic? <system> Teavana is the fastest journey, because there is no traffic on the way there. Cafe Venetia has moderate traffic. Should PRP$ we go to Teavana? <user> Yes Teavana please. <system> PRP$ I sent on PSBL your screen PSBL its position and the fastest route to get there. <user> Ok can PRP$ you tell PRP$ me the address please? <system> Teavana is located at 145 Amherst St. <user> Thanks for all the help.
+<user> PRP$ I need a reminder for dinner.
+<user> PRP$ I need a reminder for dinner. <system> What time shall PRP$ I set a dinner reminder? <user> Set PSBL my reminder for dinner at 7 pm, for the 6th of this month with PSBL my beloved Marie.
+<user> PRP$ I need a reminder for dinner. <system> What time shall PRP$ I set a dinner reminder? <user> Set PSBL my reminder for dinner at 7 pm, for the 6th of this month with PSBL my beloved Marie. <system> PRP$ I will set a reminder for dinner at 7 pm, for the 6th of this month with Marie. <user> thanks.
+<user> Is PRP$ it gon na be any blizzard on Tuesday in Alhambra?
+<user> Is PRP$ it gon na be any blizzard on Tuesday in Alhambra? <system> There is not gon na be any blizzard this week in Alhambra; on Tuesday PRP$ it will rain. <user> Thank PRP$ you.
+<user> Is PRP$ it gon na be foggy in Exeter on next week?
+<user> Is PRP$ it gon na be foggy in Exeter on next week? <system> There is no fog in the forecast for Exeter next week. <user> Thanks.
+<user> give PRP$ me directions to the local starbucks.
+<user> give PRP$ me directions to the local starbucks. <system> PRP$ I do not have info on the local Starbucks but PRP$ i do see another coffee place. Would PRP$ you like to hear info on PRP$ it? <user> Yes, please! Which one is PSBL its address? There is any quick route available?
+<user> give PRP$ me directions to the local starbucks. <system> PRP$ I do not have info on the local Starbucks but PRP$ i do see another coffee place. Would PRP$ you like to hear info on PRP$ it? <user> Yes, please! Which one is PSBL its address? There is any quick route available? <system> There is Coupa located at 394 Van Ness Ave, there is moderate traffic but PRP$ you're just 6 miles away. <user> Perfect!
+<user> What's the highest temperature going to be in Cleveland this week?
+<user> What's the highest temperature going to be in Cleveland this week? <system> This week the highest temperature in Cleveland will be 100F on Saturday. <user> Thank PRP$ you.
+<user> PRP$ I need a route to the shopping center with no traffic.
+<user> PRP$ I need a route to the shopping center with no traffic. <system> Stanford Shopping Center is the only nearby shopping center. <user> What does the traffic look like?
+<user> PRP$ I need a route to the shopping center with no traffic. <system> Stanford Shopping Center is the only nearby shopping center. <user> What does the traffic look like? <system> There is a car collision nearby Stanford Shopping Center. <user> Ouch, patience, please pick the route with least traffic and let PRP$'s go there, thank PRP$ you!
+<user> PRP$ I need a route to the shopping center with no traffic. <system> Stanford Shopping Center is the only nearby shopping center. <user> What does the traffic look like? <system> There is a car collision nearby Stanford Shopping Center. <user> Ouch, patience, please pick the route with least traffic and let PRP$'s go there, thank PRP$ you! <system> The route to 773 Alger Dr set to the quickest possible. <user> Thank PRP$ you car!
+<user> Find out the date and parties attending for PSBL my optometrist appointment.
+<user> Find out the date and parties attending for PSBL my optometrist appointment. <system> PRP$ You have 3 optometrist appointments scheduled, one with Marie on the 2nd, Martha on Saturday, and PSBL your brother on the 16th. <user> Thanks for the info.
+<user> find a coffee place.
+<user> find a coffee place. <system> Philz serves coffee and is 6 miles away at 583 Alester Ave. <user> Sounds great, let PRP$'s go there.
+<user> find a coffee place. <system> Philz serves coffee and is 6 miles away at 583 Alester Ave. <user> Sounds great, let PRP$'s go there. <system> There is no traffic on the 6 mile route to Philz; enjoy. <user> Thank PRP$ you.
+<user> can PRP$ you give PRP$ me the weather this week for new york city.
+<user> can PRP$ you give PRP$ me the weather this week for new york city. <system> In New York, PRP$ it will be raining Monday and Tuesday, snowing Wednesday, windy on Thursday, frost on Friday, dew on Saturday, and overcast on Sunday. <user> Then no clear skies for PRP$ me, PRP$ I'm sad.. Thank PRP$ you car!
+<user> PRP$ I need the quickest route to a pizza restaurant near PRP$ me.
+<user> PRP$ I need the quickest route to a pizza restaurant near PRP$ me. <system> There is n't any traffic to Pizza PSBL My Heart at 528 Anton Ct. PRP$ It will be a 6 mile drive. <user> Pick the quickest route and let PRP$'s go there please.
+<user> Where are there Chinese restaurants around?
+<user> Where are there Chinese restaurants around? <system> There is a Chef Chu's and a Tai Pan. <user> Whichever is the fastest to get to.
+<user> Where are there Chinese restaurants around? <system> There is a Chef Chu's and a Tai Pan. <user> Whichever is the fastest to get to. <system> That would be Chef Chu's <user> What is the address?
+<user> Where are there Chinese restaurants around? <system> There is a Chef Chu's and a Tai Pan. <user> Whichever is the fastest to get to. <system> That would be Chef Chu's <user> What is the address? <system> Chef Chu's is at 593 Arrowhead Way. <user> Thank PRP$ you.
+<user> Will PRP$ it be warm in Compton on Wednesday?
+<user> Will PRP$ it be warm in Compton on Wednesday? <system> PRP$ It will not be warm in Compton on Wednesday. <user> Thank PRP$ you.
+<user> What is the rest stop with the quickest route nearby?
+<user> What is the rest stop with the quickest route nearby? <system> Hotel Keen is a rest stop located 3 miles away. There is a car collision nearby but should delay PRP$ you to long. <user> What is the address?
+<user> What is the rest stop with the quickest route nearby? <system> Hotel Keen is a rest stop located 3 miles away. There is a car collision nearby but should delay PRP$ you to long. <user> What is the address? <system> The address for Hotel Keen is 578 Arbol Dr, 3 miles away with a car collision nearby. <user> Is there a quick route to reach?
+<user> What is the rest stop with the quickest route nearby? <system> Hotel Keen is a rest stop located 3 miles away. There is a car collision nearby but should delay PRP$ you to long. <user> What is the address? <system> The address for Hotel Keen is 578 Arbol Dr, 3 miles away with a car collision nearby. <user> Is there a quick route to reach? <system> PRP$ I sent the quickest route on PSBL your screen. <user> Thank PRP$ you car!
+<user> What is the rest stop with the quickest route nearby? <system> Hotel Keen is a rest stop located 3 miles away. There is a car collision nearby but should delay PRP$ you to long. <user> What is the address? <system> The address for Hotel Keen is 578 Arbol Dr, 3 miles away with a car collision nearby. <user> Is there a quick route to reach? <system> PRP$ I sent the quickest route on PSBL your screen. <user> Thank PRP$ you car! <system> PRP$ You're welcome; drive safely. <user> Have a good day.
+<user> check the weather forecast.
+<user> check the weather forecast. <system> What city do PRP$ you want the weather for? <user> PRP$ I want to know if PRP$ it will be stormy in manhattan over the next 7 days.
+<user> check the weather forecast. <system> What city do PRP$ you want the weather for? <user> PRP$ I want to know if PRP$ it will be stormy in manhattan over the next 7 days. <system> In Manhattan PRP$ it will be stormy on Wednesday and Thursday. <user> Thank PRP$ you car!
+<user> Please give PRP$ me the address and directions via a route with no traffic to the nearest pizza restaurant.
+<user> Please give PRP$ me the address and directions via a route with no traffic to the nearest pizza restaurant. <system> The nearest pizza restaurant with no traffic is 3 miles away at 113 Anton Ct. Do PRP$ you want to go to the Round Table? <user> Yes, let PRP$'s go, thank PRP$ you!
+<user> This week will PRP$ it be warm in Los Angeles?
+<user> This week will PRP$ it be warm in Los Angeles? <system> In Los Angeles PRP$ it is gon na be warm on Tuesday. <user> Thank PRP$ you car!
+<user> Find location and address to home that is nearest PRP$ me.
+<user> Find location and address to home that is nearest PRP$ me. <system> PSBL Your home is at 56 cadwell street. <user> Thanks, set the GPS for there.
+<user> Please give PRP$ me the address and directions via a route that avoids all heavy traffic to a hospital around PRP$ me.
+<user> Please give PRP$ me the address and directions via a route that avoids all heavy traffic to a hospital around PRP$ me. <system> Palo Alto Medical Foundation at 611 Ames Ave is 4 miles away but there is no traffic on the way. Setting navigation now. <user> Thank PRP$ you very much car!
+<user> set an appointment to swim next week.
+<user> set an appointment to swim next week. <system> What date and time is PSBL your swim appointment? <user> Thursday at 10 am please.
+<user> set an appointment to swim next week. <system> What date and time is PSBL your swim appointment? <user> Thursday at 10 am please. <system> PRP$ I have added swim appointment to PSBL your calendar at 10 am on Thursday. <user> Thanks.
+<user> PRP$ I need to find out the parties attending and the date for PSBL my lab appointment, thanks.
+<user> PRP$ I need to find out the parties attending and the date for PSBL my lab appointment, thanks. <system> PSBL Your lab appointment is on the 5th and PSBL your aunt will be attending. <user> Great, thank PRP$ you so much!
+<user> PRP$ I need to find out the parties attending and the date for PSBL my lab appointment, thanks. <system> PSBL Your lab appointment is on the 5th and PSBL your aunt will be attending. <user> Great, thank PRP$ you so much! <system> The lab appointment is schedule for 2 pm on the 5th and PSBL your aunt will be attending. <user> Thank PRP$ you.
+<user> Find PRP$ me the nearest gas station.
+<user> Find PRP$ me the nearest gas station. <system> The nearest gas station is located 5 miles away. Need more info? <user> Please pick the quickest route to get there, thank PRP$ you!
+<user> Find PRP$ me the nearest gas station. <system> The nearest gas station is located 5 miles away. Need more info? <user> Please pick the quickest route to get there, thank PRP$ you! <system> Setting GPS for quickest route to Valero gas station now. <user> Display address on screen please.
+<user> Find PRP$ me the nearest gas station. <system> The nearest gas station is located 5 miles away. Need more info? <user> Please pick the quickest route to get there, thank PRP$ you! <system> Setting GPS for quickest route to Valero gas station now. <user> Display address on screen please. <system> Valero is located at 200 Alester Ave. <user> Thanks for the information.
+<user> What is the weather forecast in Cleveland for Thursday?
+<user> What is the weather forecast in Cleveland for Thursday? <system> The weather in Cleveland on Thursday will have dew and a high of 30F. <user> Thanks.
+<user> Set PRP$ me a reminder for football activity at 1 pm, this month on the 11th, with Marie.
+<user> Set PRP$ me a reminder for football activity at 1 pm, this month on the 11th, with Marie. <system> Reminder for football on the 11th of this month at 1 pm with Marie is set. <user> Thanks buddy.
+<user> Need the quickest route to home.
+<user> Need the quickest route to home. <system> PSBL Your home is 4 miles away but there is heavy traffic on PSBL our way, PRP$ I sent the best available route on PSBL your screen. <user> Could PRP$ you confirm the address for PRP$ me please?
+<user> Need the quickest route to home. <system> PSBL Your home is 4 miles away but there is heavy traffic on PSBL our way, PRP$ I sent the best available route on PSBL your screen. <user> Could PRP$ you confirm the address for PRP$ me please? <system> Sure, PRP$ it's 56 cadwell street, PRP$ you can see PRP$ it on PSBL your screen. <user> Thank PRP$ you.
+<user> Is PRP$ it going to be hot this weekend in Boston?
+<user> Is PRP$ it going to be hot this weekend in Boston? <system> The temperatures in Seattle will be high this week and the hottest days will be Monday and Tuesday with 100F( but pay attention, PRP$ it's gon na rain too) <user> PRP$ I was asking about Boston not Seattle, do PRP$ you have information for Boston, too?
+<user> Is PRP$ it going to be hot this weekend in Boston? <system> The temperatures in Seattle will be high this week and the hottest days will be Monday and Tuesday with 100F( but pay attention, PRP$ it's gon na rain too) <user> PRP$ I was asking about Boston not Seattle, do PRP$ you have information for Boston, too? <system> The highs for Boston this weekend are in the 90s while the lows are supposed to be 70s. <user> Thank PRP$ you so much for the information.
+<user> Schedule a swimming activity with PSBL my brother for the 7th at 11 am.
+<user> Schedule a swimming activity with PSBL my brother for the 7th at 11 am. <system> Okay, scheduling a swimming activity with PSBL your brother for the 7th at 11 am. <user> Great, thank PRP$ you.
+<user> Where is the nearby shopping center?
+<user> Where is the nearby shopping center? <system> Stanford Shopping Center is 4 miles away. <user> Please pick the quickest route to go there and send PRP$ me the info on screen, thanks!
+<user> Where is the nearby shopping center? <system> Stanford Shopping Center is 4 miles away. <user> Please pick the quickest route to go there and send PRP$ me the info on screen, thanks! <system> Ok, PRP$ you will headed toward Stanford Shopping center at 773 Alger Dr, located 4 miles away. <user> Thanks!
+<user> What is the date and location for PSBL my conference and QUESTION who is attending?
+<user> What is the date and location for PSBL my conference and QUESTION who is attending? <system> For QUESTION which one? PRP$ I have two, one at 6 pm and one at 3 pm. <user> The one at 6 pm please.
+<user> What is the date and location for PSBL my conference and QUESTION who is attending? <system> For QUESTION which one? PRP$ I have two, one at 6 pm and one at 3 pm. <user> The one at 6 pm please. <system> The event is on Sunday at 6 pm in conference room 102 and management will be attending. <user> Thanks!
+<user> Will PRP$ it be windy in Los Angeles on Sunday?
+<user> Will PRP$ it be windy in Los Angeles on Sunday? <system> The weather forecast predicts that PRP$ it will be stormy in Los Angeles on Sunday. <user> Thanks.
+<user> Schedule a dentist appointment on the 8th at 1 pm. Ana will be joining PRP$ you.
+<user> Schedule a dentist appointment on the 8th at 1 pm. Ana will be joining PRP$ you. <system> Okay, scheduling a dentist appointment with Ana on the 8th at 1 pm. <user> Thanks!
+<user> PRP$ I need a rest stop within a 2 mile radius.
+<user> PRP$ I need a rest stop within a 2 mile radius. <system> There is a Travelers Lodge one mile away. <user> What is the address?
+<user> PRP$ I need a rest stop within a 2 mile radius. <system> There is a Travelers Lodge one mile away. <user> What is the address? <system> Travelers Lodge 333 Arbol Dr. <user> Set GPS for shortest route.
+<user> PRP$ I need a rest stop within a 2 mile radius. <system> There is a Travelers Lodge one mile away. <user> What is the address? <system> Travelers Lodge 333 Arbol Dr. <user> Set GPS for shortest route. <system> GPS set for shortest route. <user> Thanks!
+<user> What date is PSBL my dentist appointment and QUESTION who is attending?
+<user> What date is PSBL my dentist appointment and QUESTION who is attending? <system> PRP$ You have two dentist appointments, one with PSBL your aunt and one with PSBL your sister, both on Monday. <user> Thank PRP$ you, that was helpful.
+<user> What is the date of PSBL my yoga activity and QUESTION who will be attending PRP$ it?
+<user> What is the date of PSBL my yoga activity and QUESTION who will be attending PRP$ it? <system> PRP$ You have four yoga activities scheduled; one on Monday with Alex, two on Friday with sister and one with Marie, and one on the 17th with Martha. <user> Thank PRP$ you.
+<user> set an appointment for swimming.
+<user> set an appointment for swimming. <system> What time would like PRP$ me to set the appointment? <user> at 3 pm on Saturday please.
+<user> Schedule taking medicine with Martha at 5PM next Wednesday.
+<user> Schedule taking medicine with Martha at 5PM next Wednesday. <system> Okay scheduling taking medicine with Martha at 5PM next Wednesday. <user> Thank PRP$ you!
+<user> is the weather cloudy right now.
+<user> is the weather cloudy right now. <system> What city do PRP$ you want the weather for? <user> Fresno.
+<user> is the weather cloudy right now. <system> What city do PRP$ you want the weather for? <user> Fresno. <system> There are no clouds in Fresno right now. <user> Thanks.
+<user> give PRP$ me the location for the nearest starbucks.
+<user> give PRP$ me the location for the nearest starbucks. <system> There is no Starbucks listed locally but PRP$ I have another coffee shop listed would PRP$ you like the address to PRP$ it? <user> Yes please.
+<user> give PRP$ me the location for the nearest starbucks. <system> There is no Starbucks listed locally but PRP$ I have another coffee shop listed would PRP$ you like the address to PRP$ it? <user> Yes please. <system> Then let PRP$'s go at Cafe Venetia, 269 Alger Dr. <user> Okay thank PRP$ you.
+<user> give PRP$ me the location for the nearest starbucks. <system> There is no Starbucks listed locally but PRP$ I have another coffee shop listed would PRP$ you like the address to PRP$ it? <user> Yes please. <system> Then let PRP$'s go at Cafe Venetia, 269 Alger Dr. <user> Okay thank PRP$ you. <system> The destination is 4 miles away in no traffic. <user> Please set the GPS to avoid all heavy traffic and let PRP$'s go there, thank PRP$ you!
+<user> find directions to the nearest starbucks.
+<user> find directions to the nearest starbucks. <system> There is no Starbucks close but there is two others; one is Coupa that is 6 miles away and the other is Cafe Venetia QUESTION which is 3 miles away. Which one do PRP$ you want? <user> Let PRP$'s go at Cafe Venetia please, send the address on PSBL my screen and pich the quickest route.
+<user> find directions to the nearest starbucks. <system> There is no Starbucks close but there is two others; one is Coupa that is 6 miles away and the other is Cafe Venetia QUESTION which is 3 miles away. Which one do PRP$ you want? <user> Let PRP$'s go at Cafe Venetia please, send the address on PSBL my screen and pich the quickest route. <system> Cafe Venetia is located at 269 Alger Drive with heavy traffic. Is that going to be okay? <user> Yes. Set GPS for the quickest route now.
+<user> find directions to the nearest starbucks. <system> There is no Starbucks close but there is two others; one is Coupa that is 6 miles away and the other is Cafe Venetia QUESTION which is 3 miles away. Which one do PRP$ you want? <user> Let PRP$'s go at Cafe Venetia please, send the address on PSBL my screen and pich the quickest route. <system> Cafe Venetia is located at 269 Alger Drive with heavy traffic. Is that going to be okay? <user> Yes. Set GPS for the quickest route now. <system> PRP$ I sent the info on PSBL your screen, drive carefully! <user> Thanks.
+<user> is PRP$ it supposed to snow today.
+<user> is PRP$ it supposed to snow today. <system> Where would PRP$ you like to know if PRP$ it will snow? <user> PRP$ I want to know about Corona please.
+<user> is PRP$ it supposed to snow today. <system> Where would PRP$ you like to know if PRP$ it will snow? <user> PRP$ I want to know about Corona please. <system> No PRP$ it's not forecast to snow in Corona today; the forecast is humid with a low of 70F and a high of 90F. <user> Thank PRP$ you so much.
+<user> give PRP$ me directions to a place to sleep.
+<user> give PRP$ me directions to a place to sleep. <system> The Travelers Lodge is closest to PRP$ you at 6 miles away in moderate traffic. Would PRP$ you like directions there? <user> Yes, please, pick a quick route!
+<user> give PRP$ me directions to a place to sleep. <system> The Travelers Lodge is closest to PRP$ you at 6 miles away in moderate traffic. Would PRP$ you like directions there? <user> Yes, please, pick a quick route! <system> PRP$ I'm setting the GPS for 333 Arbol Dr. <user> Thanks.
+<user> PRP$ I'm desiring to eat at some Chinese restaurant, is there anything in this local area?
+<user> PRP$ I'm desiring to eat at some Chinese restaurant, is there anything in this local area? <system> PRP$ We're 5 miles away from P.F. Changs: do PRP$ you want to go there? <user> Yes, please, and pick a route to avoid all heavy traffic.
+<user> PRP$ I'm desiring to eat at some Chinese restaurant, is there anything in this local area? <system> PRP$ We're 5 miles away from P.F. Changs: do PRP$ you want to go there? <user> Yes, please, and pick a route to avoid all heavy traffic. <system> Taking PRP$ you to PF Changs. <user> What is the address?
+<user> PRP$ I'm desiring to eat at some Chinese restaurant, is there anything in this local area? <system> PRP$ We're 5 miles away from P.F. Changs: do PRP$ you want to go there? <user> Yes, please, and pick a route to avoid all heavy traffic. <system> Taking PRP$ you to PF Changs. <user> What is the address? <system> The addres of P.F.Changs is 669 El Camino real. <user> Sounds good, set the navigation there please.
+<user> QUESTION which days are rain forecasted.
+<user> QUESTION which days are rain forecasted. <system> What city would PRP$ you like weather information about? <user> Tell PRP$ me if PRP$ it is raining in Oakland right now.
+<user> QUESTION which days are rain forecasted. <system> What city would PRP$ you like weather information about? <user> Tell PRP$ me if PRP$ it is raining in Oakland right now. <system> The weather forecast for Oakland does not show rain right now. <user> Thanks.
+<user> Schedule a conference at 6 pm on the tenth with sales team.
+<user> Schedule a conference at 6 pm on the tenth with sales team. <system> PRP$ I will schedule a conference at 6 pm on the tenth with Sales team. <user> Thank PRP$ you.
+<user> Please set a reminder to take medicine at 7 pm Tuesday with Ana.
+<user> Please set a reminder to take medicine at 7 pm Tuesday with Ana. <system> Okay, setting a reminder to take PSBL your medicine with Ana at 7 pm on Tuesday. <user> Thanks.
+<user> PRP$ I need gas.
+<user> PRP$ I need gas. <system> Valero is 4 miles away. <user> What is the address?
+<user> PRP$ I need gas. <system> Valero is 4 miles away. <user> What is the address? <system> Valero is at 200 Alester Avenue. <user> Can PRP$ I have some route details? PRP$ I would like to avoid any heavy traffic there.
+<user> PRP$ I need gas. <system> Valero is 4 miles away. <user> What is the address? <system> Valero is at 200 Alester Avenue. <user> Can PRP$ I have some route details? PRP$ I would like to avoid any heavy traffic there. <system> PRP$ I sent the best possible route on screen but there will be heavy traffic anyway, PRP$ I'm sorry. <user> PRP$ It's okay, thank PRP$ you car!
+<user> Find PRP$ me a gas station.
+<user> Find PRP$ me a gas station. <system> Chevron is 6 miles away. <user> Are there any other locations that will take less time to reach?
+<user> Find PRP$ me a gas station. <system> Chevron is 6 miles away. <user> Are there any other locations that will take less time to reach? <system> PRP$ I'm sorry, Chevron is the only gas station PRP$ I am able to locate. <user> Ok send PRP$ me the address please.
+<user> Find PRP$ me a gas station. <system> Chevron is 6 miles away. <user> Are there any other locations that will take less time to reach? <system> PRP$ I'm sorry, Chevron is the only gas station PRP$ I am able to locate. <user> Ok send PRP$ me the address please. <system> PSBL Its address is 783 Arcadia Pl, PRP$ I sent PRP$ it on PSBL your screen. <user> Thank PRP$ you.
+<user> Find PRP$ me a gas station. <system> Chevron is 6 miles away. <user> Are there any other locations that will take less time to reach? <system> PRP$ I'm sorry, Chevron is the only gas station PRP$ I am able to locate. <user> Ok send PRP$ me the address please. <system> PSBL Its address is 783 Arcadia Pl, PRP$ I sent PRP$ it on PSBL your screen. <user> Thank PRP$ you. <system> PRP$ You're welcome; drive safely. <user> Great!
+<user> Are there any chinese restaurants nearby?
+<user> Are there any chinese restaurants nearby? <system> PRP$ We're 3 miles away from Chef Chu's and 6 miles away from Mandarin Roots. <user> Which PRP$ one has the fastest route?
+<user> Are there any chinese restaurants nearby? <system> PRP$ We're 3 miles away from Chef Chu's and 6 miles away from Mandarin Roots. <user> Which PRP$ one has the fastest route? <system> Chef Chu's is closer. <user> What is the address?
+<user> Are there any chinese restaurants nearby? <system> PRP$ We're 3 miles away from Chef Chu's and 6 miles away from Mandarin Roots. <user> Which PRP$ one has the fastest route? <system> Chef Chu's is closer. <user> What is the address? <system> Chef Chu's is located at 593 Arrowhead Way. <user> How long will PRP$ it take to get there?
+<user> Are there any chinese restaurants nearby? <system> PRP$ We're 3 miles away from Chef Chu's and 6 miles away from Mandarin Roots. <user> Which PRP$ one has the fastest route? <system> Chef Chu's is closer. <user> What is the address? <system> Chef Chu's is located at 593 Arrowhead Way. <user> How long will PRP$ it take to get there? <system> Chef Chu's is 3 miles away through moderate traffic. <user> Thank PRP$ you.
+<user> Where is the nearest hospital that PRP$ we can get to quick?
+<user> Where is the nearest hospital that PRP$ we can get to quick? <system> Stanford Express Care is 7 miles away, though there is a car collision nearby. Would PRP$ you like directions there? <user> Yes sounds great.
+<user> give PRP$ me the location for the nearest starbucks.
+<user> give PRP$ me the location for the nearest starbucks. <system> There are no Starbucks around here but PRP$ we're 4 miles away from Cafe Venetia: is PRP$ it okay to go there? <user> Sure, just pick the fastest route for PRP$ me, thanks!
+<user> remind PRP$ me to go swimming at 4:50
+<user> remind PRP$ me to go swimming at 4:50 <system> am or pm? <user> At 4:50 pm the 12th of this month.
+<user> remind PRP$ me to go swimming at 4:50 <system> am or pm? <user> At 4:50 pm the 12th of this month. <system> Swimming reminder has been set for the 12th at 4:50PM. <user> Thanks.
+<user> Please tell PRP$ me the location, time and parties that are attending PSBL my meeting.
+<user> Please tell PRP$ me the location, time and parties that are attending PSBL my meeting. <system> PSBL Your next meeting is with PSBL your boss at 10 am in conference room 102. <user> Great, thank PRP$ you so much!
+<user> Please tell PRP$ me the location, time and parties that are attending PSBL my meeting. <system> PSBL Your next meeting is with PSBL your boss at 10 am in conference room 102. <user> Great, thank PRP$ you so much! <system> PRP$ You're welcome!   Did PRP$ you also want to know the agenda for the meeting? <user> That is all, thanks!
+<user> What's the current weather in San Francisco?
+<user> What's the current weather in San Francisco? <system> There is currently snow in san francisco. <user> Okay thanks.
+<user> What time is the doctors appointment and QUESTION who is attending?
+<user> What time is the doctors appointment and QUESTION who is attending? <system> Which one? PRP$ I have two, one   with PSBL your Father on the 3rd, and one with Tom on the 9th. <user> The 9th. Thank PRP$ you.
+<user> Set a reminder for the conference.
+<user> Set a reminder for the conference. <system> What day and time is the conference. <user> PRP$ It is on August 14th at 4 pm.
+<user> Set a reminder for the conference. <system> What day and time is the conference. <user> PRP$ It is on August 14th at 4 pm. <system> PRP$ I have that conference set up for PRP$ you to be reminded of. Is there anything else PRP$ you need? <user> Make sure PRP$ you add the executive team to that reminder.
+<user> Set a reminder for the conference. <system> What day and time is the conference. <user> PRP$ It is on August 14th at 4 pm. <system> PRP$ I have that conference set up for PRP$ you to be reminded of. Is there anything else PRP$ you need? <user> Make sure PRP$ you add the executive team to that reminder. <system> PSBL Your reminder for the conference with the executive team on August the 14th at 4 pm is all set. <user> Thanks.
+<user> Car, find out the time and parties attending for PSBL my tennis activity.
+<user> Car, find out the time and parties attending for PSBL my tennis activity. <system> PSBL Your tennis activity is set for 11 am with Jon in attendance. <user> Thanks.
+<user> QUESTION what's the temperature going to be like on friday.
+<user> QUESTION what's the temperature going to be like on friday. <system> What city should PRP$ I find PSBL Friday's temperature for? <user> alhambra.
+<user> QUESTION what's the temperature going to be like on friday. <system> What city should PRP$ I find PSBL Friday's temperature for? <user> alhambra. <system> On Friday there will be clear skies in Alhambra. <user> And the temperature?
+<user> QUESTION what's the temperature going to be like on friday. <system> What city should PRP$ I find PSBL Friday's temperature for? <user> alhambra. <system> On Friday there will be clear skies in Alhambra. <user> And the temperature? <system> PRP$ It will be between 20- 30F in Alhambra on Friday. <user> Thank PRP$ you.
+<user> take PRP$ me to PSBL my PSBL friend's house.
+<user> take PRP$ me to PSBL my PSBL friend's house. <system> PSBL Your friends house is on 5677 southwest 4th street, there is moderate traffic on PSBL our way but PRP$ we're just 1 miles away. <user> What about the address of PSBL my home.
+<user> take PRP$ me to PSBL my PSBL friend's house. <system> PSBL Your friends house is on 5677 southwest 4th street, there is moderate traffic on PSBL our way but PRP$ we're just 1 miles away. <user> What about the address of PSBL my home. <system> PRP$ It must have been a hard day for PRP$ you if PRP$ you do n't remember the address of PSBL your home.. 56 cadwell street, PRP$ I was kidding, do n't crash PRP$ me, please. <user> Thanks for the help.
+<user> QUESTION what's the temperature going to be this week.
+<user> QUESTION what's the temperature going to be this week. <system> What city would PRP$ you like weather information about? <user> San Jose please.
+<user> QUESTION what's the temperature going to be this week. <system> What city would PRP$ you like weather information about? <user> San Jose please. <system> In San Jose, PRP$ it is expected to be between 40- 60F Monday and Tuesday, 70- 80F Wednesday, 90- 100F Thursday, 70- 90F Friday, 30- 40F Saturday, and 40- 60F on Sunday. <user> Thanks!
+<user> How is gon na be the weather forecast in San Mateo for the next weekend?
+<user> How is gon na be the weather forecast in San Mateo for the next weekend? <system> In San Mateo PRP$ it will be stormy on Saturday, and hail on Sunday. <user> Okay, thank PRP$ you.
+<user> QUESTION what's the temperature going to be like this week.
+<user> QUESTION what's the temperature going to be like this week. <system> QUESTION what city are PRP$ you interested in. <user> Los Angeles.
+<user> QUESTION what's the temperature going to be like this week. <system> QUESTION what city are PRP$ you interested in. <user> Los Angeles. <system> The temperature in los angeles this week reaches a low of 40F and the highest will be 100F. <user> Thanks!
+<user> please check the weather for this week.
+<user> please check the weather for this week. <system> Where are PRP$ you interested in? <user> Will PRP$ it be stormy in Camarillo?
+<user> please check the weather for this week. <system> Where are PRP$ you interested in? <user> Will PRP$ it be stormy in Camarillo? <system> In Camarillo PRP$ it will be stormy on Tuesday. <user> Thank PRP$ you!
+<user> Schedule a conference with the boss for this month on the 5th at 1 pm.
+<user> Schedule a conference with the boss for this month on the 5th at 1 pm. <system> Okay, PRP$ i am scheduling a conference with PSBL your boss for the 5th of this month at 1 pm. <user> Great, thanks.
+<user> Schedule a tennis activity with Martha for Friday at 4 pm.
+<user> Schedule a tennis activity with Martha for Friday at 4 pm. <system> Okay, scheduling a tennis activity with Martha for Friday at 4 pm. <user> Thanks.
+<user> Will PRP$ it be windy in Atherton in the next two days?
+<user> Will PRP$ it be windy in Atherton in the next two days? <system> PRP$ It will not be windy in Atherton in the next few days. <user> Thanks.
+<user> Where is a nearby rest stop?
+<user> Where is a nearby rest stop? <system> The Travelers Lodge is located 4 miles away at 333 Arbol Dr. Would PRP$ you like directions there? <user> Yes, please give PRP$ me directions via the fastest route.
+<user> Where is a nearby rest stop? <system> The Travelers Lodge is located 4 miles away at 333 Arbol Dr. Would PRP$ you like directions there? <user> Yes, please give PRP$ me directions via the fastest route. <system> Ok, PRP$ I am setting GPS for 333 Arbol Dr. <user> Thank PRP$ you.
+<user> Hi car PRP$ I would like to schedule a reminder for PSBL my tennis activity at 5 pm on the tenth with Jon.
+<user> Hi car PRP$ I would like to schedule a reminder for PSBL my tennis activity at 5 pm on the tenth with Jon. <system> Okay, scheduling a reminder for PSBL your tennis activity at 5 pm on the 10th with Jon. <user> Perfect, thank PRP$ you!
+<user> What is the address of PSBL my PSBL friend's house?
+<user> What is the address of PSBL my PSBL friend's house? <system> Jacks house is at 864 Almanor Ln. <user> Get PRP$ me the address to PSBL my friends house nearest PSBL my current location.
+<user> What is the address of PSBL my PSBL friend's house? <system> Jacks house is at 864 Almanor Ln. <user> Get PRP$ me the address to PSBL my friends house nearest PSBL my current location. <system> Taking PRP$ you to PSBL Jack's house. <user> Set the GPS for the quickest route possible.
+<user> What is the address of PSBL my PSBL friend's house? <system> Jacks house is at 864 Almanor Ln. <user> Get PRP$ me the address to PSBL my friends house nearest PSBL my current location. <system> Taking PRP$ you to PSBL Jack's house. <user> Set the GPS for the quickest route possible. <system> PRP$ I sent all the info on PSBL your screen, drive carefully! <user> Thanks!
+<user> Where can PRP$ I go shopping?
+<user> Where can PRP$ I go shopping? <system> PRP$ We're 3 miles away from Midtown Shopping Center and there is no traffic on PSBL our way. <user> Sounds amazing. Set the GPS to go there.
+<user> Where can PRP$ I go shopping? <system> PRP$ We're 3 miles away from Midtown Shopping Center and there is no traffic on PSBL our way. <user> Sounds amazing. Set the GPS to go there. <system> PRP$ You got PRP$ it, GPS set. <user> Thanks!
+<user> PRP$ I need to find out some info for PSBL my Optometrist appointment, the date and time please.
+<user> PRP$ I need to find out some info for PSBL my Optometrist appointment, the date and time please. <system> Okay, QUESTION which one? PRP$ I have one for the 12th at 9 am, and one for the 4th at 5 pm. <user> That will do, thanks.
+<user> get PRP$ me directions to the mall.
+<user> get PRP$ me directions to the mall. <system> There are the Ravenswood Shopping Center and the Stanford Shopping Center both 3 miles away: do PRP$ you want PRP$ me to flip a coin between PRP$ them or will PRP$ you pick QUESTION where to go? <user> Let PRP$'s go at Ravenswood Shopping Center and pick a route with no traffic please!
+<user> get PRP$ me directions to the mall. <system> There are the Ravenswood Shopping Center and the Stanford Shopping Center both 3 miles away: do PRP$ you want PRP$ me to flip a coin between PRP$ them or will PRP$ you pick QUESTION where to go? <user> Let PRP$'s go at Ravenswood Shopping Center and pick a route with no traffic please! <system> Navigating PRP$ you to Ravenswood Shopping Center. <user> What's the address?
+<user> get PRP$ me directions to the mall. <system> There are the Ravenswood Shopping Center and the Stanford Shopping Center both 3 miles away: do PRP$ you want PRP$ me to flip a coin between PRP$ them or will PRP$ you pick QUESTION where to go? <user> Let PRP$'s go at Ravenswood Shopping Center and pick a route with no traffic please! <system> Navigating PRP$ you to Ravenswood Shopping Center. <user> What's the address? <system> The address to Ravenswood Shopping Center is 434 Arastradero Rd. <user> Thanks so much for all PSBL your help.
+<user> Is there a grocery store within 3 miles of PRP$ me?
+<user> Is there a grocery store within 3 miles of PRP$ me? <system> Trader Joes is 2 miles away at 408 University Ave there is currently heavy traffic on the route. <user> OK, please give PRP$ me directions via the route with least traffic.
+<user> Is there a grocery store within 3 miles of PRP$ me? <system> Trader Joes is 2 miles away at 408 University Ave there is currently heavy traffic on the route. <user> OK, please give PRP$ me directions via the route with least traffic. <system> Setting navigation now. There is heavy traffic on the way, so drive carefully. <user> Thank PRP$ you.
+<user> find out if PRP$ it's supposed to rain.
+<user> find out if PRP$ it's supposed to rain. <system> What city are PRP$ you wanting to know if PRP$ it's going to rain? <user> Redwood City.
+<user> find out if PRP$ it's supposed to rain. <system> What city are PRP$ you wanting to know if PRP$ it's going to rain? <user> Redwood City. <system> PRP$ It will rain on Wednesday in Redwood City. <user> Thank PRP$ you.
+<user> show PRP$ me the nearby hospital.
+<user> show PRP$ me the nearby hospital. <system> Stanford Express Care is nearby. <user> Does Stanford Express Care have heavy traffic nearby?
+<user> show PRP$ me the nearby hospital. <system> Stanford Express Care is nearby. <user> Does Stanford Express Care have heavy traffic nearby? <system> Does Stanford Express Care have heavy traffic nearby? <user> Does Stanford Express Care have heavy traffic nearby?
+<user> show PRP$ me the nearby hospital. <system> Stanford Express Care is nearby. <user> Does Stanford Express Care have heavy traffic nearby? <system> Does Stanford Express Care have heavy traffic nearby? <user> Does Stanford Express Care have heavy traffic nearby? <system> The route to Stanford Express Care does have heavy traffic. <user> Any other local hospital's with no heavy traffic?
+<user> show PRP$ me the nearby hospital. <system> Stanford Express Care is nearby. <user> Does Stanford Express Care have heavy traffic nearby? <system> Does Stanford Express Care have heavy traffic nearby? <user> Does Stanford Express Care have heavy traffic nearby? <system> The route to Stanford Express Care does have heavy traffic. <user> Any other local hospital's with no heavy traffic? <system> Yes Stanford Childrens Health is 1 mile away with no traffic. Do PRP$ you want the address? <user> Yes, please give PRP$ me the address.
+<user> show PRP$ me the nearby hospital. <system> Stanford Express Care is nearby. <user> Does Stanford Express Care have heavy traffic nearby? <system> Does Stanford Express Care have heavy traffic nearby? <user> Does Stanford Express Care have heavy traffic nearby? <system> The route to Stanford Express Care does have heavy traffic. <user> Any other local hospital's with no heavy traffic? <system> Yes Stanford Childrens Health is 1 mile away with no traffic. Do PRP$ you want the address? <user> Yes, please give PRP$ me the address. <system> . <user> Quickly reboot PSBL your system car and then send PRP$ me the address, thank PRP$ you!
+<user> PRP$ I need a coffee shop within 4 miles.
+<user> PRP$ I need a coffee shop within 4 miles. <system> Cafe Venetia is 2 miles away at 269 Alger Dr. <user> Is there a quickest route to reach PRP$ it?
+<user> PRP$ I need a coffee shop within 4 miles. <system> Cafe Venetia is 2 miles away at 269 Alger Dr. <user> Is there a quickest route to reach PRP$ it? <system> Setting navigation now for the quickest route. There is a road block nearby, so drive carefully. <user> Thanks!
+<user> Find PRP$ me a hotel that is near PSBL my location.
+<user> Find PRP$ me a hotel that is near PSBL my location. <system> The Westin is 6 miles away. <user> Please pick a quick route to go there.
+<user> Find PRP$ me a hotel that is near PSBL my location. <system> The Westin is 6 miles away. <user> Please pick a quick route to go there. <system> Navigating to The Westin. <user> Thanks!   What is the address?
+<user> Find PRP$ me a hotel that is near PSBL my location. <system> The Westin is 6 miles away. <user> Please pick a quick route to go there. <system> Navigating to The Westin. <user> Thanks!   What is the address? <system> The address is 329 El Camino Real. <user> Ok set the GPS please. Thanks for the help.
+<user> Where can PRP$ I buy groceries?
+<user> Where can PRP$ I buy groceries? <system> There is a Safeway 4 miles away. <user> What is the address?
+<user> Where can PRP$ I buy groceries? <system> There is a Safeway 4 miles away. <user> What is the address? <system> Safeway is located at 452 Arcadia Pl. with a road block nearby. <user> Ouch, this sounds awful.. But patience, please set the GPS to go there.
+<user> Where can PRP$ I buy groceries? <system> There is a Safeway 4 miles away. <user> What is the address? <system> Safeway is located at 452 Arcadia Pl. with a road block nearby. <user> Ouch, this sounds awful.. But patience, please set the GPS to go there. <system> PRP$ I sent the fastest route on PSBL your GPS, drive carefully! <user> Thank PRP$ you car!
+<user> QUESTION what's the temperature going to be this week.
+<user> QUESTION what's the temperature going to be this week. <system> What city are PRP$ you wanting to know the temperature for? <user> Fresno.
+<user> QUESTION what's the temperature going to be this week. <system> What city are PRP$ you wanting to know the temperature for? <user> Fresno. <system> The lowest temperature in Fresno this week is predicted to be 60F, the highest, 100F. <user> Thanks.
+<user> QUESTION what is the weather going to be like today and tomorrow.
+<user> QUESTION what is the weather going to be like today and tomorrow. <system> Which city are PRP$ you wanting to know the weather for? <user> Seatlle, will PRP$ it be windy?
+<user> QUESTION what is the weather going to be like today and tomorrow. <system> Which city are PRP$ you wanting to know the weather for? <user> Seatlle, will PRP$ it be windy? <system> PRP$ It will be windy tomorrow in Seattle. <user> Thank PRP$ you.
+<user> does the forecast call for snow today.
+<user> does the forecast call for snow today. <system> Tell PRP$ me QUESTION what city PRP$ you would like to know about snow today? <user> Cleveland.
+<user> does the forecast call for snow today. <system> Tell PRP$ me QUESTION what city PRP$ you would like to know about snow today? <user> Cleveland. <system> PRP$ It will not snow in Cleveland today. <user> Thanks.
+<user> get PRP$ me directions to the nearest starbucks.
+<user> get PRP$ me directions to the nearest starbucks. <system> PRP$ I am unable to locate starbucks. There is a coffee or tea place called Coupa mile away. <user> Then let PRP$'s go there car! Please send PRP$ me PSBL its address on screen and pick the fastest route for PRP$ me.
+<user> get PRP$ me directions to the nearest starbucks. <system> PRP$ I am unable to locate starbucks. There is a coffee or tea place called Coupa mile away. <user> Then let PRP$'s go there car! Please send PRP$ me PSBL its address on screen and pick the fastest route for PRP$ me. <system> Coupa is 1 mile away with heavy traffic. PRP$ It should n't take PRP$ us long. PRP$ It's located at 394 Van Ness Avenue. <user> Thanks so much for the information.
+<user> Is PRP$ it gon na be dry in Redwood City in next few days?
+<user> Is PRP$ it gon na be dry in Redwood City in next few days? <system> What day would PRP$ you like the forcast for? <user> the next few days please.
+<user> Is PRP$ it gon na be dry in Redwood City in next few days? <system> What day would PRP$ you like the forcast for? <user> the next few days please. <system> PRP$ It will not be dry in Redwood City next week. <user> Thanks.
+<user> Which one is gon na be the highest temperature in Fresno this week?
+<user> Which one is gon na be the highest temperature in Fresno this week? <system> Monday in fresno will have the highest temperature of 90F. <user> Thank PRP$ you.
+<user> Schedule a swimming activity with Tom on the 6th of this month at 2 pm.
+<user> Schedule a swimming activity with Tom on the 6th of this month at 2 pm. <system> Okay, PRP$ I am scheduling a swimming event with Tom on the 6th at 2 pm. <user> Thank PRP$ you.
+<user> take PRP$ me to the mall to buy some clothes.
+<user> take PRP$ me to the mall to buy some clothes. <system> Midtown Shopping Center is the closest shopping center to PRP$ you. Would PRP$ you like the address? <user> Yes.
+<user> take PRP$ me to the mall to buy some clothes. <system> Midtown Shopping Center is the closest shopping center to PRP$ you. Would PRP$ you like the address? <user> Yes. <system> PRP$ We're going to 338 Alester Ave, there is heavy traffic but PRP$ it's just 2 miles away. <user> PRP$ I wish to find a route with no traffic but PRP$ it's okay, please send the info on the GPS, thanks!
+<user> take PRP$ me to the mall to buy some clothes. <system> Midtown Shopping Center is the closest shopping center to PRP$ you. Would PRP$ you like the address? <user> Yes. <system> PRP$ We're going to 338 Alester Ave, there is heavy traffic but PRP$ it's just 2 miles away. <user> PRP$ I wish to find a route with no traffic but PRP$ it's okay, please send the info on the GPS, thanks! <system> Sending the address for the Midtown Shopping Center at 338 Alester Ave to PSBL your GPS. <user> Thank PRP$ you car!
+<user> PRP$ I need the address to PSBL my PSBL friend's house please.
+<user> PRP$ I need the address to PSBL my PSBL friend's house please. <system> Jills house is located at 347 Alta Mesa Ave. <user> Could PRP$ you please send on PSBL my screen the fastest route to get there?
+<user> PRP$ I need the address to PSBL my PSBL friend's house please. <system> Jills house is located at 347 Alta Mesa Ave. <user> Could PRP$ you please send on PSBL my screen the fastest route to get there? <system> Certainly. Setting navigation details now. There's a car collision nearby, so take care on the roads. <user> Will do, thank PRP$ you.
+<user> find PRP$ me a tea house.
+<user> find PRP$ me a tea house. <system> There is Cafe Venetia that's 4 miles away at 269 Alger Dr. <user> Is there an alternate route, and is this the quickest way there?
+<user> find PRP$ me a tea house. <system> There is Cafe Venetia that's 4 miles away at 269 Alger Dr. <user> Is there an alternate route, and is this the quickest way there? <system> There is no traffic on PSBL our route, PRP$ I've set the navigation there. <user> Thank PRP$ you.
+<user> QUESTION when is the football game.
+<user> QUESTION when is the football game. <system> The football game is Wednesday at 10 am. <user> Thank PRP$ you.
+<user> QUESTION what's the temperature going to be for the week.
+<user> QUESTION what's the temperature going to be for the week. <system> In QUESTION what city are PRP$ you asking? <user> Durham.
+<user> QUESTION what's the temperature going to be for the week. <system> In QUESTION what city are PRP$ you asking? <user> Durham. <system> The temperature in Durham will be: lowest temperature, low of 70F, high of 90F Tuesday. Highest temperature, low of 40F, high of 60F Thursday. <user> Thank PRP$ you car.
+<user> Where do PRP$ I live?
+<user> Where do PRP$ I live? <system> Home is listed as 56 Caldwell Street. <user> PRP$ It should be nearby, please pick a quick route to get there.
+<user> Where do PRP$ I live? <system> Home is listed as 56 Caldwell Street. <user> PRP$ It should be nearby, please pick a quick route to get there. <system> Setting quickest route home now. <user> Thanks!
+<user> get PRP$ me directions to a local cafe.
+<user> get PRP$ me directions to a local cafe. <system> PRP$ We're 5 miles away from Starbucks: would PRP$ you like to go there? <user> Yes.
+<user> get PRP$ me directions to a local cafe. <system> PRP$ We're 5 miles away from Starbucks: would PRP$ you like to go there? <user> Yes. <system> Navigating PRP$ you to Starbucks. <user> Thanks can PRP$ you provide the address and is this the fastest route?
+<user> Car please give PRP$ me the address of a good pizza restaurant in the shortest possible distance.
+<user> Car please give PRP$ me the address of a good pizza restaurant in the shortest possible distance. <system> Pizza Chicago 	 is 2 miles away. <user> Nice, QUESTION what's the address there?
+<user> Car please give PRP$ me the address of a good pizza restaurant in the shortest possible distance. <system> Pizza Chicago 	 is 2 miles away. <user> Nice, QUESTION what's the address there? <system> The address is 915 Arbol Dr. Would PRP$ you like directions there? <user> Set GPS for shortest route now.
+<user> find the nearest shopping mall on the map.
+<user> find the nearest shopping mall on the map. <system> The nearest one is Midtown Shopping Center but there is a road block nearby. There is also Ravenswood Shopping Center 2 miles farther but with no traffic on PSBL its direction. <user> Let PRP$'s go to Ravenswood then.
+<user> find the nearest shopping mall on the map. <system> The nearest one is Midtown Shopping Center but there is a road block nearby. There is also Ravenswood Shopping Center 2 miles farther but with no traffic on PSBL its direction. <user> Let PRP$'s go to Ravenswood then. <system> Setting directions to 434 Arastradero Rd. <user> Okay, thanks.
+<user> Where can PRP$ I get groceries?
+<user> Where can PRP$ I get groceries? <system> Whole Foods is 4 miles away. <user> Okay, tell PRP$ me the quickest route there.
+<user> Where can PRP$ I get groceries? <system> Whole Foods is 4 miles away. <user> Okay, tell PRP$ me the quickest route there. <system> The quickest route to Whole Foods at 819 Alma Street does not have any traffic. <user> Sounds great, set the navigation for there.
+<user> PRP$ I want tea.
+<user> PRP$ I want tea. <system> PRP$ We're 5 miles away from Starbucks: do PRP$ you like PSBL their tea? <user> Yes, QUESTION what is the address?
+<user> PRP$ I want tea. <system> PRP$ We're 5 miles away from Starbucks: do PRP$ you like PSBL their tea? <user> Yes, QUESTION what is the address? <system> PRP$ You will find Starbucks at 792 Bedoin Street. <user> Thanks!
+<user> take PRP$ me to a place QUESTION where PRP$ i can get some hot tea.
+<user> take PRP$ me to a place QUESTION where PRP$ i can get some hot tea. <system> Coupa is nearby and serves tea. <user> How's the traffic?
+<user> take PRP$ me to a place QUESTION where PRP$ i can get some hot tea. <system> Coupa is nearby and serves tea. <user> How's the traffic? <system> Moderate traffic to Coupa. <user> Give PRP$ me the address.
+<user> take PRP$ me to a place QUESTION where PRP$ i can get some hot tea. <system> Coupa is nearby and serves tea. <user> How's the traffic? <system> Moderate traffic to Coupa. <user> Give PRP$ me the address. <system> PSBL Coupa's address is 394 Van Ness Ave. <user> Is there an alternate route with no traffic?
+<user> take PRP$ me to a place QUESTION where PRP$ i can get some hot tea. <system> Coupa is nearby and serves tea. <user> How's the traffic? <system> Moderate traffic to Coupa. <user> Give PRP$ me the address. <system> PSBL Coupa's address is 394 Van Ness Ave. <user> Is there an alternate route with no traffic? <system> No but Palo Alto Cafe is just 1 mile away and has moderate traffic so PRP$ we should be able to get there quicker. How does that sound? <user> PRP$ It sounds great! Thank PRP$ you car, let PRP$'s navigate there please!
+<user> directions to nearest barista.
+<user> directions to nearest barista. <system> The nearer cafe is Cafe Venetia, PRP$ it's 2 miles away and there is a car collision nearby. <user> Is there another coffee shop that situated on a route with no traffic?
+<user> directions to nearest barista. <system> The nearer cafe is Cafe Venetia, PRP$ it's 2 miles away and there is a car collision nearby. <user> Is there another coffee shop that situated on a route with no traffic? <system> PRP$ I'm afraid that Cafe Venetia is the best option in this moment. PRP$ I sent on PSBL your screen the directions to reach there through another route. <user> OK thank PRP$ you.
+<user> QUESTION when is the next cloudy day.
+<user> QUESTION when is the next cloudy day. <system> What city are PRP$ you asking about? <user> Manhattan, please. Will PRP$ it be cloudy on Monday?
+<user> QUESTION when is the next cloudy day. <system> What city are PRP$ you asking about? <user> Manhattan, please. Will PRP$ it be cloudy on Monday? <system> Monday will be foggy, with low's of 30F and high's of 40F. Similar heh. <user> Thank PRP$ you.
+<user> QUESTION what's the weather forecast for tomorrow.
+<user> QUESTION what's the weather forecast for tomorrow. <system> What city are PRP$ you asking about? <user> Will PRP$ it be hot in Atherton tomorrow?
+<user> QUESTION what's the weather forecast for tomorrow. <system> What city are PRP$ you asking about? <user> Will PRP$ it be hot in Atherton tomorrow? <system> Tomorrow will not be hot in Atherton, PRP$ it will be dry, low of 30F, high of 50F. <user> Thank PRP$ you!
+<user> are there clear skies in the forecast today.
+<user> are there clear skies in the forecast today. <system> What location would PRP$ you like the weather information for? <user> PRP$ I would like to know about San Jose.
+<user> are there clear skies in the forecast today. <system> What location would PRP$ you like the weather information for? <user> PRP$ I would like to know about San Jose. <system> Today in San Jose there will be an overcast, co clear skies. <user> Thanks.
+<user> Closest coffee.
+<user> Closest coffee. <system> The closest coffee place is Coupa but there is heavy traffic, would PRP$ you like a different location? <user> Is there any available?
+<user> Closest coffee. <system> The closest coffee place is Coupa but there is heavy traffic, would PRP$ you like a different location? <user> Is there any available? <system> Starbucks at 792 Bedoin Street is 3 miles away with no traffic. <user> Please direct PRP$ me there via the shortest distance.
+<user> Closest coffee. <system> The closest coffee place is Coupa but there is heavy traffic, would PRP$ you like a different location? <user> Is there any available? <system> Starbucks at 792 Bedoin Street is 3 miles away with no traffic. <user> Please direct PRP$ me there via the shortest distance. <system> Sending PRP$ you direction now. <user> Thank PRP$ you car!
+<user> Schedule conference with sales team on the 11th of this month 9 am.
+<user> Schedule conference with sales team on the 11th of this month 9 am. <system> Okay, scheduling a conference with the sales team at 9 am on the 11th of this month. <user> Thanks.
+<user> Is PRP$ it going to be windy in San Francisco tomorrow?
+<user> Is PRP$ it going to be windy in San Francisco tomorrow? <system> PRP$ It will be warm in san francisco tomorrow, PRP$ it should not be windy. <user> Thank PRP$ you car!
+<user> please let PRP$ me know the weather forecast for tomorrow.
+<user> please let PRP$ me know the weather forecast for tomorrow. <system> What city are PRP$ you interested in the forecast for? <user> Los Angeles.
+<user> please let PRP$ me know the weather forecast for tomorrow. <system> What city are PRP$ you interested in the forecast for? <user> Los Angeles. <system> PRP$ It will snow in Los Angeles tomorrow, with a low of 70F and a high of 90F. <user> Thank PRP$ you.
+<user> Please give PRP$ me information about PSBL my conference.
+<user> Please give PRP$ me information about PSBL my conference. <system> PRP$ you have a conference on the 13th at 9 am with HR. <user> Thanks.
+<user> QUESTION what time is PSBL my meeting tomorrow and QUESTION what is the agenda.
+<user> QUESTION what time is PSBL my meeting tomorrow and QUESTION what is the agenda. <system> PSBL Your meeting is scheduled for 2 pm tomorrow. The agenda is to discuss the merger. <user> Thanks.
+<user> QUESTION what time is PSBL my meeting tomorrow and QUESTION what is the agenda. <system> PSBL Your meeting is scheduled for 2 pm tomorrow. The agenda is to discuss the merger. <user> Thanks. <system> PRP$ You are welcome. <user> Thanks again.
+<user> is there snow in the forecast for the week.
+<user> is there snow in the forecast for the week. <system> What city can PRP$ I give PRP$ you this weather information for? <user> PRP$ I need PRP$ it for San Jose.
+<user> is there snow in the forecast for the week. <system> What city can PRP$ I give PRP$ you this weather information for? <user> PRP$ I need PRP$ it for San Jose. <system> Snow is predicted to fall in San Jose on Thursday this week. <user> Thanks.
+<user> When's the football activity and QUESTION who's attending?
+<user> When's the football activity and QUESTION who's attending? <system> PRP$ You have four football activities scheduled, one on Monday at 6 pm with Alex, one on the 13th at 9 am with Alex, one on Wednesday at 1 pm with Jeff, and one on Saturday at 5 pm with Ana. <user> Thanks.
+<user> Set a reminder for a football activity at 10 am, on Friday, with Tom.
+<user> Set a reminder for a football activity at 10 am, on Friday, with Tom. <system> Okay, scheduling a football activity with Tom for Friday at 10 am. <user> Thanks for PSBL your help.
+<user> Please give the directions to a nearby hospital.
+<user> Please give the directions to a nearby hospital. <system> The only nearby hospital is   Stanford Express Care QUESTION which is 5 miles away. <user> And QUESTION how is the traffic?
+<user> Please give the directions to a nearby hospital. <system> The only nearby hospital is   Stanford Express Care QUESTION which is 5 miles away. <user> And QUESTION how is the traffic? <system> There is currently a road block nearby on the 5 mile route to Stanford Express Care. <user> Could PRP$ you give PRP$ me the address and directions via a quick route?
+<user> Please give the directions to a nearby hospital. <system> The only nearby hospital is   Stanford Express Care QUESTION which is 5 miles away. <user> And QUESTION how is the traffic? <system> There is currently a road block nearby on the 5 mile route to Stanford Express Care. <user> Could PRP$ you give PRP$ me the address and directions via a quick route? <system> The only route to Stanford is reporting a road block but PRP$ I am finding PRP$ you the quickest route to 214 El Camino Real. <user> Okay thank PRP$ you.
+<user> set reminder for PSBL doctor's appointment for the tenth.
+<user> set reminder for PSBL doctor's appointment for the tenth. <system> Okay setting reminder for PSBL Doctor's appointment on the tenth, would PRP$ you like PRP$ me to include a time? <user> yes, please... 1 pm.
+<user> give PRP$ me directions to the closest shopping mall.
+<user> give PRP$ me directions to the closest shopping mall. <system> PRP$ We are 3 miles away from Town and County shopping center. Does PRP$ it sound good to PRP$ you? <user> Is the route to Town and County shopping center the fastest?
+<user> give PRP$ me directions to the closest shopping mall. <system> PRP$ We are 3 miles away from Town and County shopping center. Does PRP$ it sound good to PRP$ you? <user> Is the route to Town and County shopping center the fastest? <system> Yes PRP$ it is. <user> Give PRP$ me the address.
+<user> give PRP$ me directions to the closest shopping mall. <system> PRP$ We are 3 miles away from Town and County shopping center. Does PRP$ it sound good to PRP$ you? <user> Is the route to Town and County shopping center the fastest? <system> Yes PRP$ it is. <user> Give PRP$ me the address. <system> Town and Country is located at 383 University Avenue. <user> Thanks.
+<user> What time is PSBL my Doctor apartment and QUESTION who is PRP$ it with?
+<user> What time is PSBL my Doctor apartment and QUESTION who is PRP$ it with? <system> Are PRP$ you talking about the doctor appointment on Wednesday or the one on the 5th? <user> the one on Wednesday.
+<user> What time is PSBL my Doctor apartment and QUESTION who is PRP$ it with? <system> Are PRP$ you talking about the doctor appointment on Wednesday or the one on the 5th? <user> the one on Wednesday. <system> PSBL Your doctor appointment on Wednesday is at 7 pm with PSBL your father. <user> And QUESTION how about the one on the 5th?
+<user> What time is PSBL my Doctor apartment and QUESTION who is PRP$ it with? <system> Are PRP$ you talking about the doctor appointment on Wednesday or the one on the 5th? <user> the one on Wednesday. <system> PSBL Your doctor appointment on Wednesday is at 7 pm with PSBL your father. <user> And QUESTION how about the one on the 5th? <system> PSBL Your Doctors appointment on the 5th is at 6 pm with Alex. <user> Very good, thank PRP$ you.
+<user> car QUESTION what is the temperature going to be today and tomorrow.
+<user> car QUESTION what is the temperature going to be today and tomorrow. <system> What city do PRP$ you need the 2 day temperature for? <user> Grand Rapids.
+<user> car QUESTION what is the temperature going to be today and tomorrow. <system> What city do PRP$ you need the 2 day temperature for? <user> Grand Rapids. <system> In Grand Rapids, PRP$ it will be 50- 70F today and 20- 40F tomorrow. <user> Thanks.
+<user> Where can PRP$ I get coffee?
+<user> Where can PRP$ I get coffee? <system> Coupa is 5 miles away. <user> Is that the shortest route available?
+<user> Where can PRP$ I get coffee? <system> Coupa is 5 miles away. <user> Is that the shortest route available? <system> PRP$ I will pick the shortest route available for PRP$ you, do n't worry, do PRP$ you want to get the info on PSBL your screen? <user> Yes please. Thanks.
+<user> is PRP$ it going to snow today.
+<user> is PRP$ it going to snow today. <system> What city do PRP$ you wanna know if PRP$ it will snow today? <user> Please check for Oakland.
+<user> is PRP$ it going to snow today. <system> What city do PRP$ you wanna know if PRP$ it will snow today? <user> Please check for Oakland. <system> Today is gon na be warm in Oakland. <user> Thank PRP$ you car!
+<user> What day is the swimming party and QUESTION who will be attending?
+<user> What day is the swimming party and QUESTION who will be attending? <system> PSBL Your swimming activity is on the 5th, with PSBL your father. <user> Thanks!
+<user> What time is PSBL my lab appointment and QUESTION who will be attending?
+<user> What time is PSBL my lab appointment and QUESTION who will be attending? <system> PSBL Your lab appointment is at 7 pm with Jon and another one at 2 pm with Alex. <user> Thanks!
+<user> What time is PSBL my lab appointment and QUESTION who will be attending? <system> PSBL Your lab appointment is at 7 pm with Jon and another one at 2 pm with Alex. <user> Thanks! <system> PSBL My pleasure. <user> Great.
+<user> What is a good Chinese restaurant?
+<user> What is a good Chinese restaurant? <system> PRP$ I have a few chinese restaurants listed. Which PRP$ one would PRP$ you like to know about? <user> The nearby one please.
+<user> What is a good Chinese restaurant? <system> PRP$ I have a few chinese restaurants listed. Which PRP$ one would PRP$ you like to know about? <user> The nearby one please. <system> P.F.Changs is 3 miles away but there is currently heavy traffic on the route. Panda Express is farther at 4 miles away, but there is n't any traffic. <user> Is that the fastest option?
+<user> What is a good Chinese restaurant? <system> PRP$ I have a few chinese restaurants listed. Which PRP$ one would PRP$ you like to know about? <user> The nearby one please. <system> P.F.Changs is 3 miles away but there is currently heavy traffic on the route. Panda Express is farther at 4 miles away, but there is n't any traffic. <user> Is that the fastest option? <system> Yes Panda Express seems to be the fastest. <user> Okay great, please set the navigation to take PRP$ me there.
+<user> What is a good Chinese restaurant? <system> PRP$ I have a few chinese restaurants listed. Which PRP$ one would PRP$ you like to know about? <user> The nearby one please. <system> P.F.Changs is 3 miles away but there is currently heavy traffic on the route. Panda Express is farther at 4 miles away, but there is n't any traffic. <user> Is that the fastest option? <system> Yes Panda Express seems to be the fastest. <user> Okay great, please set the navigation to take PRP$ me there. <system> All right! Navigating to Panda Express at 842 Arrowhead Way. <user> Thank PRP$ you car!
+<user> What is the date and time of PSBL my next meeting and QUESTION who will be attending PRP$ it?
+<user> What is the date and time of PSBL my next meeting and QUESTION who will be attending PRP$ it? <system> PSBL Your next meeting is with PSBL your boss on the 5th at 2 pm. <user> Thank PRP$ you.
+<user> check PSBL today's forecast for rain.
+<user> check PSBL today's forecast for rain. <system> What city do PRP$ you want to know if PRP$ it's going to rain or not? <user> Fresno thanks.
+<user> check PSBL today's forecast for rain. <system> What city do PRP$ you want to know if PRP$ it's going to rain or not? <user> Fresno thanks. <system> There is no rain in Fresno today but PRP$ it will be cloudy. <user> thank PRP$ you.
+<user> PRP$ I need to find out the date and time for PSBL my swimming activity!
+<user> PRP$ I need to find out the date and time for PSBL my swimming activity! <system> PRP$ I have two, QUESTION which one? PRP$ I have one for the 14th at 6 pm and one for the 12th at 7 pm. <user> Thanks!
+<user> search PSBL today's forecast.
+<user> search PSBL today's forecast. <system> What city can PRP$ i give PRP$ you the weather forecast for? <user> Will PRP$ it be humid in Oakland today?
+<user> search PSBL today's forecast. <system> What city can PRP$ i give PRP$ you the weather forecast for? <user> Will PRP$ it be humid in Oakland today? <system> Today is gon na be dry on Oakland. <user> Thank PRP$ you.
+<user> QUESTION what's the weather forecast for today and tomorrow.
+<user> QUESTION what's the weather forecast for today and tomorrow. <system> In QUESTION what city are PRP$ you interested? <user> Los Angeles.
+<user> QUESTION what's the weather forecast for today and tomorrow. <system> In QUESTION what city are PRP$ you interested? <user> Los Angeles. <system> In Los Angeles, PRP$ it will rain today and be 40- 60F.   Tomorrow, PRP$ it will be warm and 60- 80F. <user> Thanks.
+<user> QUESTION what's the weather like in grand rapids.
+<user> QUESTION what's the weather like in grand rapids. <system> Is there a specific day PRP$ you would like PRP$ me to check the weather in grand rapids for? <user> PRP$ I would like to know the weather for Friday.
+<user> QUESTION what's the weather like in grand rapids. <system> Is there a specific day PRP$ you would like PRP$ me to check the weather in grand rapids for? <user> PRP$ I would like to know the weather for Friday. <system> Grand Rapids on Friday will be windy between 60- 70F. <user> Thank PRP$ you.
+<user> QUESTION what's the weather like in grand rapids. <system> Is there a specific day PRP$ you would like PRP$ me to check the weather in grand rapids for? <user> PRP$ I would like to know the weather for Friday. <system> Grand Rapids on Friday will be windy between 60- 70F. <user> Thank PRP$ you. <system> PRP$ You are welcome. <user> Thanks again!
+<user> QUESTION what is the weather like in new york city.
+<user> QUESTION what is the weather like in new york city. <system> Did PRP$ you want the current weather? <user> Yes, PSBL today's weather report please.
+<user> QUESTION what is the weather like in new york city. <system> Did PRP$ you want the current weather? <user> Yes, PSBL today's weather report please. <system> PSBL Today's weather forecast is foggy, the low temperature of 40F and high of 60F. <user> Thank PRP$ you.
+<user> is PRP$ it raining today.
+<user> is PRP$ it raining today. <system> What city would PRP$ you like weather information about? <user> PRP$ I need PRP$ it for New York.
+<user> is PRP$ it raining today. <system> What city would PRP$ you like weather information about? <user> PRP$ I need PRP$ it for New York. <system> Yes the forecast calls for rain in New York today. <user> Thank PRP$ you.
+<user> remind PRP$ me about PSBL my lab appointment.
+<user> remind PRP$ me about PSBL my lab appointment. <system> What date is PSBL your appointment? <user> PSBL My PSBL doctor's appointment is at 7 pm on Monday the 1st.
+<user> remind PRP$ me about PSBL my lab appointment. <system> What date is PSBL your appointment? <user> PSBL My PSBL doctor's appointment is at 7 pm on Monday the 1st. <system> A reminder has been set for PSBL your PSBL doctor's appointment at 7 pm on Monday. <user> OK, thanks.
+<user> Please give PRP$ me the address and directions to home within 5 miles of here, avoiding all heavy traffic.
+<user> Please give PRP$ me the address and directions to home within 5 miles of here, avoiding all heavy traffic. <system> PRP$ I'm sorry the only route home has heavy traffic. PRP$ It will be a 7 mile drive to 10 ames street. <user> Ok that will do. Thank PRP$ you.
+<user> Is PRP$ it snowing in Redwood City right now?
+<user> Is PRP$ it snowing in Redwood City right now? <system> PRP$ It is cloudy in redwood city today. <user> But PRP$ it's not snowing?
+<user> Is PRP$ it snowing in Redwood City right now? <system> PRP$ It is cloudy in redwood city today. <user> But PRP$ it's not snowing? <system> No, PRP$ it is not snowing in redwood city today. <user> Thank PRP$ you.
+<user> take PRP$ me to the mall to buy some clothes.
+<user> take PRP$ me to the mall to buy some clothes. <system> Would PRP$ you prefer Stanford Shopping Center QUESTION which is 7 miles away with no traffic or Ravenswood Shopping Center QUESTION which is 1 mile away with a road block nearby? <user> PRP$ I am guessing Ravenswood would be faster. Let PRP$'s go there.
+<user> take PRP$ me to the mall to buy some clothes. <system> Would PRP$ you prefer Stanford Shopping Center QUESTION which is 7 miles away with no traffic or Ravenswood Shopping Center QUESTION which is 1 mile away with a road block nearby? <user> PRP$ I am guessing Ravenswood would be faster. Let PRP$'s go there. <system> Setting directions to 434 Arastradero Rd now. <user> Thank PRP$ you very much car!
+<user> What is the date and time for PSBL my yoga activity?
+<user> What is the date and time for PSBL my yoga activity? <system> PRP$ You have two yoga activities scheduled. One on Monday at 5 pm and another on the 5th at 4 pm. <user> Thank PRP$ you.
+<user> navigate home.
+<user> navigate home. <system> There is moderate traffic on the 4 mile route home to 56 cadwell street. <user> Okay, thank PRP$ you.
+<user> navigate home. <system> There is moderate traffic on the 4 mile route home to 56 cadwell street. <user> Okay, thank PRP$ you. <system> PRP$ You're welcome; drive carefully. <user> [ end conversation]
+<user> PRP$ i'm in the mood for some tea can PRP$ you show PRP$ me directions to the nearest cafe.
+<user> PRP$ i'm in the mood for some tea can PRP$ you show PRP$ me directions to the nearest cafe. <system> Here are directions to Cafe Venetia. <user> Hope PRP$ it does n't have any traffic.
+<user> PRP$ i'm in the mood for some tea can PRP$ you show PRP$ me directions to the nearest cafe. <system> Here are directions to Cafe Venetia. <user> Hope PRP$ it does n't have any traffic. <system> Unfortunately there is heavy traffic but PRP$ it's just 2 miles away, PRP$ you should be able to reach PRP$ it quickly anyway. <user> What is the address?
+<user> PRP$ i'm in the mood for some tea can PRP$ you show PRP$ me directions to the nearest cafe. <system> Here are directions to Cafe Venetia. <user> Hope PRP$ it does n't have any traffic. <system> Unfortunately there is heavy traffic but PRP$ it's just 2 miles away, PRP$ you should be able to reach PRP$ it quickly anyway. <user> What is the address? <system> 269 Alger Dr is the location of Cafe Venetia. <user> Thank PRP$ you very much car!
+<user> give PRP$ me directions to the nearest shopping mall.
+<user> give PRP$ me directions to the nearest shopping mall. <system> There is the Midtown Shopping Center 3 miles away and no traffic on the route: set this destination on PSBL your GPS? <user> Yes please that sounds perfect.
+<user> give PRP$ me directions to the nearest shopping mall. <system> There is the Midtown Shopping Center 3 miles away and no traffic on the route: set this destination on PSBL your GPS? <user> Yes please that sounds perfect. <system> Setting GPS to Midtown Shopping Center. Anything else? <user> That will be all, thanks.
+<user> Remind PRP$ me about tennis at 10 am at the end of March with Martha.
+<user> Remind PRP$ me about tennis at 10 am at the end of March with Martha. <system> Okay a reminder is set for tennis with Martha at 10 am. What is the date for the scheduled tennis event? <user> Just set PRP$ it for the end of march.
+<user> Remind PRP$ me about tennis at 10 am at the end of March with Martha. <system> Okay a reminder is set for tennis with Martha at 10 am. What is the date for the scheduled tennis event? <user> Just set PRP$ it for the end of march. <system> Ok setting reminder for PSBL your tennis with Martha at 10 am for the last week of march. <user> Thanks.
+<user> Please give PRP$ me the address and directions via the shortest distance to the nearest pizza place.
+<user> Please give PRP$ me the address and directions via the shortest distance to the nearest pizza place. <system> The closest is Pizza Chicago, 5 miles away at 915 Arbol Dr. Would PRP$ you like directions there? <user> Yes, please show PRP$ me the route with the shortest distance, thank PRP$ you!
+<user> Please give PRP$ me the address and directions via the shortest distance to the nearest pizza place. <system> The closest is Pizza Chicago, 5 miles away at 915 Arbol Dr. Would PRP$ you like directions there? <user> Yes, please show PRP$ me the route with the shortest distance, thank PRP$ you! <system> Here is the shortest route to Pizza Chicago. <user> Thank PRP$ you car!
+<user> give PRP$ me a location to a local parking lot.
+<user> give PRP$ me a location to a local parking lot. <system> There's a parking garage 2 miles away. Would PRP$ you like the name and address of PRP$ it? <user> Yes and please provide a quick route to get there.
+<user> give PRP$ me a location to a local parking lot. <system> There's a parking garage 2 miles away. Would PRP$ you like the name and address of PRP$ it? <user> Yes and please provide a quick route to get there. <system> Navigating to Palo Alto Garage R. <user> Please pick the quickest route, thank PRP$ you!
+<user> QUESTION what is the forecast for the next 7 days.
+<user> QUESTION what is the forecast for the next 7 days. <system> For QUESTION what city are PRP$ you interested in? <user> Cleveland, will PRP$ it be windy?
+<user> QUESTION what is the forecast for the next 7 days. <system> For QUESTION what city are PRP$ you interested in? <user> Cleveland, will PRP$ it be windy? <system> PRP$ It will not be windy in Cleveland next week. <user> Thank PRP$ you.
+<user> show PRP$ me directions to the nearest grocery store.
+<user> show PRP$ me directions to the nearest grocery store. <system> The nearest grocery store is located 6 miles away at 452 Arcadia Pl. <user> Pick the fastest route and with least traffic, then send the address on PSBL my screen please.
+<user> show PRP$ me directions to the nearest grocery store. <system> The nearest grocery store is located 6 miles away at 452 Arcadia Pl. <user> Pick the fastest route and with least traffic, then send the address on PSBL my screen please. <system> Safeway is located at 452 Arcadia Pl. and navigation is set. <user> Hope PRP$ you picked the fastest route or no more gasoline for PRP$ you, car.. Just kidding, thank PRP$ you!
+<user> Schedule a conference with the executive team for the 15th of this month at 9 am.
+<user> Schedule a conference with the executive team for the 15th of this month at 9 am. <system> Okay, scheduling a conference with the executive team for the 15th at 9 am. <user> Thanks.
+<user> Find PRP$ me the quickest route to the grocery store.
+<user> Find PRP$ me the quickest route to the grocery store. <system> Hacienda Market is the closest grocery store 1 mile away. <user> OK, please give PRP$ me the address and directions via the quickest route.
+<user> Find PRP$ me the quickest route to the grocery store. <system> Hacienda Market is the closest grocery store 1 mile away. <user> OK, please give PRP$ me the address and directions via the quickest route. <system> Setting navigation to 1313 Chester Ave now. There is a road block nearby, so drive carefully. <user> Thank PRP$ you.
+<user> give PRP$ me the forecast for the next 7 days.
+<user> give PRP$ me the forecast for the next 7 days. <system> For QUESTION what city? <user> downtown chicago.
+<user> give PRP$ me the forecast for the next 7 days. <system> For QUESTION what city? <user> downtown chicago. <system> In Downtown Chicago PRP$ it will be humid on Monday, snow on Tueday, dry on Wednesday, frost on Thursday, drizzle on Friday, clear skies on Saturday and Sunday. <user> Okay, thank PRP$ you car!
+<user> give PRP$ me directions to the closest grocery store.
+<user> give PRP$ me directions to the closest grocery store. <system> There are Whole Foods 2 miles away and Sigona Farmers Market 4 miles away. Where do PRP$ we go? <user> PRP$ I need the one that avoids all heavy traffic.
+<user> give PRP$ me directions to the closest grocery store. <system> There are Whole Foods 2 miles away and Sigona Farmers Market 4 miles away. Where do PRP$ we go? <user> PRP$ I need the one that avoids all heavy traffic. <system> Sigona Farmers Market is located 4 miles away with no traffic. PRP$ It's located at 638 Amherst St. <user> Thank PRP$ you.
+<user> Car, find the date and time for PSBL my Tennis activity.
+<user> Car, find the date and time for PSBL my Tennis activity. <system> PSBL Your tennis activity is on the 4th at 5 pm and PSBL your sister will be attending. <user> Thanks.
+<user> schedule meeting.
+<user> schedule meeting. <system> Schedule a meeting for QUESTION what time and day? <user> PRP$ I need PRP$ it for Saturday at 1 pm with Sales Team to go over budget.
+<user> schedule meeting. <system> Schedule a meeting for QUESTION what time and day? <user> PRP$ I need PRP$ it for Saturday at 1 pm with Sales Team to go over budget. <system> Setting meeting for Saturday at 1 pm with Sales Team to go over budget. <user> Okay nice, thank PRP$ you.
+<user> QUESTION what is the weather going to be today and tomorrow.
+<user> QUESTION what is the weather going to be today and tomorrow. <system> What city would PRP$ you like to know the weather about? <user> PRP$ I want to know if PRP$ it will drizzle in Durham.
+<user> QUESTION what is the weather going to be today and tomorrow. <system> What city would PRP$ you like to know the weather about? <user> PRP$ I want to know if PRP$ it will drizzle in Durham. <system> PRP$ It is not predicted to drizzle any today or tomorrow in Durham. <user> Thank PRP$ you.
+<user> check forecast for today and tomorrow.
+<user> check forecast for today and tomorrow. <system> What city do PRP$ you want to hear the forecast for? <user> mountain view.
+<user> check forecast for today and tomorrow. <system> What city do PRP$ you want to hear the forecast for? <user> mountain view. <system> PRP$ It will be overcast today and stormy tomorrow in Mountain View. <user> Thanks.
+<user> QUESTION what's the weather going to be like this week.
+<user> QUESTION what's the weather going to be like this week. <system> What location should PRP$ I look up the weekly forecast for? <user> Will PRP$ it be hot in Brentwood?
+<user> QUESTION what's the weather going to be like this week. <system> What location should PRP$ I look up the weekly forecast for? <user> Will PRP$ it be hot in Brentwood? <system> PRP$ It should not be hot in Brentwood this week. <user> Thank PRP$ you.
+<user> Where is a nearby parking garage?
+<user> Where is a nearby parking garage? <system> The nearest one is Palo Alto Garage R, PRP$ it's just 1 miles away. <user> Oh great job. Thanks.
+<user> Will there be drizzle in Redwood City this weekend?
+<user> Will there be drizzle in Redwood City this weekend? <system> There will be no drizzle in Redwood City this weekend. <user> Thanks.
+<user> Car please send PRP$ me the fastest route to go back home.
+<user> Car please send PRP$ me the fastest route to go back home. <system> Taking PRP$ you home. <user> What is the address?
+<user> Car please send PRP$ me the fastest route to go back home. <system> Taking PRP$ you home. <user> What is the address? <system> Home is 5671 Barringer Street. Anything else PRP$ I can help PRP$ you with? <user> Please send PRP$ me the fastest route on screen and let PRP$'s go there, thank PRP$ you!
+<user> Car please send PRP$ me the fastest route to go back home. <system> Taking PRP$ you home. <user> What is the address? <system> Home is 5671 Barringer Street. Anything else PRP$ I can help PRP$ you with? <user> Please send PRP$ me the fastest route on screen and let PRP$'s go there, thank PRP$ you! <system> Got PRP$ it, will do! <user> Thanks for all PSBL your help.
+<user> make an appointment for the doctor on the 12th.
+<user> make an appointment for the doctor on the 12th. <system> At QUESTION what time should PRP$ I set the appointment? <user> Set PRP$ it at 7 pm please.
+<user> make an appointment for the doctor on the 12th. <system> At QUESTION what time should PRP$ I set the appointment? <user> Set PRP$ it at 7 pm please. <system> PRP$ I have made an appointment for the doctor on the 12th at 7 pm. <user> Thank PRP$ you.
+<user> QUESTION what is the temperature for the next 7 days weather forecast.
+<user> QUESTION what is the temperature for the next 7 days weather forecast. <system> What city are PRP$ you interested in? <user> Compton.
+<user> QUESTION what is the temperature for the next 7 days weather forecast. <system> What city are PRP$ you interested in? <user> Compton. <system> The temperature in Compton will be between 70F and 100F on Monday and Friday. During the other days of the week PRP$ it will remain between 30F and 70F. <user> Thank PRP$ you very much car!
+<user> What will the weather in Fresno be in the next 48 hours?
+<user> What will the weather in Fresno be in the next 48 hours? <system> The weather in fresno over the next 48 hours will be cloudy with snow. <user> Thanks.
+<user> What will be the highest temperature on friday in mountain view?
+<user> What will be the highest temperature on friday in mountain view? <system> On friday, the highest temperature in mountain view is predicted to be 50F. <user> Thanks.
+<user> Remind PRP$ me about PSBL my yoga activity with mother on the 15th of this month, PRP$ it is at 3 pm.
+<user> Remind PRP$ me about PSBL my yoga activity with mother on the 15th of this month, PRP$ it is at 3 pm. <system> Okay, PRP$ i will remind PRP$ you of PSBL your yoga activity with PSBL your mother scheduled on the 15th of this month. <user> Schedule PRP$ it for 3 pm.
+<user> Remind PRP$ me about PSBL my yoga activity with mother on the 15th of this month, PRP$ it is at 3 pm. <system> Okay, PRP$ i will remind PRP$ you of PSBL your yoga activity with PSBL your mother scheduled on the 15th of this month. <user> Schedule PRP$ it for 3 pm. <system> Setting reminder for yoga activity with PSBL your mother on the 15th at 3 pm. <user> Thank PRP$ you.
+<user> What time is PSBL my next tennis activity and QUESTION who will be attending?
+<user> What time is PSBL my next tennis activity and QUESTION who will be attending? <system> PSBL Your next tennis activity is on the 4th at 5 pm with PSBL your mother. <user> Thanks!
+<user> Car PRP$ I need a hospital, please send PRP$ me a quick route to the one near PRP$ me in the direction PRP$ we're driving.
+<user> Car PRP$ I need a hospital, please send PRP$ me a quick route to the one near PRP$ me in the direction PRP$ we're driving. <system> Stanford Express Care is on the way. <user> Please pick a quick route and let PRP$'s go there, thank PRP$ you!
+<user> Car PRP$ I need a hospital, please send PRP$ me a quick route to the one near PRP$ me in the direction PRP$ we're driving. <system> Stanford Express Care is on the way. <user> Please pick a quick route and let PRP$'s go there, thank PRP$ you! <system> Navigating to Stanford Express Care at 214 El Camino Real. There is heavy traffic on the way there, however. <user> Ok, thanks car!
+<user> Schedule a swimming activity on Monday the 1st with PSBL my father at 4 pm.
+<user> Schedule a swimming activity on Monday the 1st with PSBL my father at 4 pm. <system> PRP$ I will promptly schedule a swimming activity on Monday the 1st with PSBL your father at 4 pm. <user> Thanks.
+<user> Will there be clear skies in Danville on Thursday?
+<user> Will there be clear skies in Danville on Thursday? <system> Dew is predicted in danville on thursday. <user> Thank PRP$ you!
+<user> Is PRP$ it gon na snow in Durham during the week?
+<user> Is PRP$ it gon na snow in Durham during the week? <system> Durham does not have any snow predicted this week. <user> Thank PRP$ you.
+<user> QUESTION what is the weather like this week.
+<user> QUESTION what is the weather like this week. <system> What city do PRP$ you want the weather for? <user> Cleveland.
+<user> QUESTION what is the weather like this week. <system> What city do PRP$ you want the weather for? <user> Cleveland. <system> This week in Cleveland the weather will be clear skies on Monday, dew on Tuesday, stormy on Wednesday, drizzle on Thrusday, cloudy on Friday, overcast on Saturday, and raining on Sunday. <user> Thank.
+<user> Will PRP$ it be dry in New York on Wednesday?
+<user> Will PRP$ it be dry in New York on Wednesday? <system> PRP$ It will be dry Wednesday in New York. <user> Thank PRP$ you so much.
+<user> check weather forecast for seattle.
+<user> check weather forecast for seattle. <system> For QUESTION what day would PRP$ you like to know? <user> Please tell PRP$ me the forecast in Seattle this week.
+<user> check weather forecast for seattle. <system> For QUESTION what day would PRP$ you like to know? <user> Please tell PRP$ me the forecast in Seattle this week. <system> This week in Seattle the weather is forecasted to be overcast, cloudy, windy, foggy, drzzle, warm, and dry. <user> Thank PRP$ you.
+<user> Where is home.
+<user> Where is home. <system> Home is QUESTION where is PSBL your heart is, at 56 cadwell street. <user> Okay, QUESTION how far away am PRP$ I and send PRP$ me the quickest route.
+<user> Where is home. <system> Home is QUESTION where is PSBL your heart is, at 56 cadwell street. <user> Okay, QUESTION how far away am PRP$ I and send PRP$ me the quickest route. <system> PRP$ You are 3 miles away from home with heavy traffic noted. <user> Thank PRP$ you very much car!
+<user> Where is home. <system> Home is QUESTION where is PSBL your heart is, at 56 cadwell street. <user> Okay, QUESTION how far away am PRP$ I and send PRP$ me the quickest route. <system> PRP$ You are 3 miles away from home with heavy traffic noted. <user> Thank PRP$ you very much car! <system> PRP$ You are welcome driver! <user> no response needed.
+<user> Find PRP$ me a chinese restaurant with a no traffic route.
+<user> Find PRP$ me a chinese restaurant with a no traffic route. <system> Chef Chu's is the only Chinese restaurant but here is heavy traffic. <user> Send PRP$ me the address anyway.
+<user> Find PRP$ me a chinese restaurant with a no traffic route. <system> Chef Chu's is the only Chinese restaurant but here is heavy traffic. <user> Send PRP$ me the address anyway. <system> Chef Chu's is at 593 Arrowhead Way. <user> Please pick a route with no traffic to get there, thanks!
+<user> Find PRP$ me a chinese restaurant with a no traffic route. <system> Chef Chu's is the only Chinese restaurant but here is heavy traffic. <user> Send PRP$ me the address anyway. <system> Chef Chu's is at 593 Arrowhead Way. <user> Please pick a route with no traffic to get there, thanks! <system> There will be heavy traffic sorry. <user> That is ok, thank PRP$ you.
+<user> Can PRP$ you find PRP$ me a Chinese restaurant that is within 5 miles?
+<user> Can PRP$ you find PRP$ me a Chinese restaurant that is within 5 miles? <system> Chef Chu's is 5 miles away. <user> How is the traffic to there?
+<user> Can PRP$ you find PRP$ me a Chinese restaurant that is within 5 miles? <system> Chef Chu's is 5 miles away. <user> How is the traffic to there? <system> There is currently no traffic. <user> Sounds good, set the GPS please.
+<user> QUESTION what is the weather forecast for the weekend.
+<user> QUESTION what is the weather forecast for the weekend. <system> For QUESTION what city would PRP$ you like to know that? <user> Compton, QUESTION what is the forecast for this week?
+<user> QUESTION what is the weather forecast for the weekend. <system> For QUESTION what city would PRP$ you like to know that? <user> Compton, QUESTION what is the forecast for this week? <system> PRP$ It will be rainy the first half of the week and then foggy the second and dry over the weekend in Compton. <user> Thanks.
+<user> Will PRP$ it be humid in Fresno during the next week?
+<user> Will PRP$ it be humid in Fresno during the next week? <system> PRP$ It will not be humid in Fresno next week. <user> Thanks.
+<user> Find out the parties joining PRP$ me and date for PSBL my doctor appointment.
+<user> Find out the parties joining PRP$ me and date for PSBL my doctor appointment. <system> PRP$ You have 4 doctor appointments scheduled: Marie on the 15th, PSBL your brother on Wednesday, PSBL your mother on the 20th, and Ana on the 12th. <user> Cool, thanks.
+<user> QUESTION when's PSBL my tennis match.
+<user> QUESTION when's PSBL my tennis match. <system> PSBL Your tennis match is Tuesday at 11 am. <user> Okay great. Thank PRP$ you.
+<user> When is PSBL my dentist appointment, the date and time?
+<user> When is PSBL my dentist appointment, the date and time? <system> For QUESTION which one? PRP$ I have two, one at 7 pm the 8th and one at 10 am the 1st. <user> That will do, thanks.
+<user> will PRP$ it rain next week.
+<user> will PRP$ it rain next week. <system> What location do PRP$ you want PRP$ me to check if PRP$ it will be rainy? <user> Los Angeles, please.
+<user> will PRP$ it rain next week. <system> What location do PRP$ you want PRP$ me to check if PRP$ it will be rainy? <user> Los Angeles, please. <system> Next week PRP$ it will rain on Saturday in Los Angeles. <user> Thank PRP$ you.
+<user> Will PRP$ it be warm in Grand Rapids on Saturday?
+<user> Will PRP$ it be warm in Grand Rapids on Saturday? <system> PRP$ It will not be warm in Grand Rapids on Saturday. <user> Thank PRP$ you.
+<user> Will PRP$ it be warm in Grand Rapids on Saturday? <system> PRP$ It will not be warm in Grand Rapids on Saturday. <user> Thank PRP$ you. <system> PRP$ You are welcome. <user> Bye.
+<user> PRP$ i need directions to a local fast food restaurant please.
+<user> PRP$ i need directions to a local fast food restaurant please. <system> There is a Panda Express 3 miles from PRP$ you as well as a Pizza Hut 5 miles from PRP$ you. <user> Please give PRP$ me the address and directions to whichever restaurant is on a route QUESTION where PRP$ I can avoid heavy traffic.
+<user> PRP$ i need directions to a local fast food restaurant please. <system> There is a Panda Express 3 miles from PRP$ you as well as a Pizza Hut 5 miles from PRP$ you. <user> Please give PRP$ me the address and directions to whichever restaurant is on a route QUESTION where PRP$ I can avoid heavy traffic. <system> Panda Express is at 842 Arrowhead Way with no traffic noted. <user> Sounds good. Set the GPS for the there. Thanks.
+<user> QUESTION where is the closest grocery store.
+<user> QUESTION where is the closest grocery store. <system> PRP$ We are 4 miles away from Whole Foods and from Safeway: QUESTION which one do PRP$ you prefer? <user> Safeway.
+<user> QUESTION where is the closest grocery store. <system> PRP$ We are 4 miles away from Whole Foods and from Safeway: QUESTION which one do PRP$ you prefer? <user> Safeway. <system> Safeway is located at 452 Arcadia Pl. <user> Pick the quickest route to go there and send the info on PSBL my screen please.
+<user> get PRP$ me the weather report for this week.
+<user> get PRP$ me the weather report for this week. <system> What city do PRP$ you want the weather for? <user> Exeter.
+<user> get PRP$ me the weather report for this week. <system> What city do PRP$ you want the weather for? <user> Exeter. <system> PRP$ It will be dry other than Sunday, and the temperatures are expected to be between 70- 100F Monday and Tuesday, 30- 40F Wednesday, 40- 60F Thursday, and 80- 100 Friday to Sunday. <user> Thanks!
+<user> What will be the temperature in manhattan on wednesday?
+<user> What will be the temperature in manhattan on wednesday? <system> PRP$ It appears as if there will be a low of 40F and a high of 50F. <user> Thank PRP$ you car!
+<user> tell PRP$ me all the events and meetings scheduled on PSBL my calendar for today.
+<user> tell PRP$ me all the events and meetings scheduled on PSBL my calendar for today. <system> Today PRP$ you have a 7 pm meeting with HR to discuss the merger. <user> Thank PRP$ you.
+<user> QUESTION what's the weather like today and tomorrow.
+<user> QUESTION what's the weather like today and tomorrow. <system> For QUESTION what city would PRP$ you like today and PSBL tomorrow's weather for? <user> PRP$ I need to know if PRP$ it is going to be foggy in Fresno today and tomorrow CAR.
+<user> QUESTION what's the weather like today and tomorrow. <system> For QUESTION what city would PRP$ you like today and PSBL tomorrow's weather for? <user> PRP$ I need to know if PRP$ it is going to be foggy in Fresno today and tomorrow CAR. <system> PRP$ It will not be foggy in Fresno in the coming days. <user> Thanks buddy.
+<user> Will there be drizzle in Cleveland tomorrow?
+<user> Will there be drizzle in Cleveland tomorrow? <system> PRP$ It will not drizzle in Cleveland tomorrow. <user> Thanks.
+<user> Tell PRP$ me the weather report in durham for this week.
+<user> Tell PRP$ me the weather report in durham for this week. <system> What days are PRP$ you interested in? <user> The entire week.
+<user> Tell PRP$ me the weather report in durham for this week. <system> What days are PRP$ you interested in? <user> The entire week. <system> PRP$ It will be stormy on Monday, the lowest temperature on Tuesday, hot on Wednesday, the hottest temperatures on Thursday and Friday, snow on Saturday, and clear skies on Sunday in Durham. <user> Perfect.
+<user> Schedule a conference with the vice president on the 5th at 11 am.
+<user> Schedule a conference with the vice president on the 5th at 11 am. <system> Conference scheduled for the 5th at 11 am with the vice president. <user> Perfect.
+<user> QUESTION when is PSBL my dentist appointment.
+<user> QUESTION when is PSBL my dentist appointment. <system> PRP$ You have a dentist appointment on Friday at 7 pm. <user> Thank PRP$ you.
+<user> Please give PRP$ me the address and directions via the fastest route to a pizza restaurant within 4 miles of PRP$ me.
+<user> Please give PRP$ me the address and directions via the fastest route to a pizza restaurant within 4 miles of PRP$ me. <system> PRP$ You will find Pizza Chicago at 915 Arbol Dr. PRP$ It is 2 miles away without any traffic. <user> OK, please direct PRP$ me there via the fastest route.
+<user> Please give PRP$ me the address and directions via the fastest route to a pizza restaurant within 4 miles of PRP$ me. <system> PRP$ You will find Pizza Chicago at 915 Arbol Dr. PRP$ It is 2 miles away without any traffic. <user> OK, please direct PRP$ me there via the fastest route. <system> Fastest route being programmed for Pizza Chicago. <user> Okay thanks.
+<user> pull up directions to 5672 barringer street.
+<user> pull up directions to 5672 barringer street. <system> Here are directions to 5672 barringer street. <user> Pick a route with no traffic and let PRP$'s go there, thank PRP$ you!
+<user> pull up directions to 5672 barringer street. <system> Here are directions to 5672 barringer street. <user> Pick a route with no traffic and let PRP$'s go there, thank PRP$ you! <system> The only route has heavy traffic, is that alright? <user> Yes, patience, PRP$ I need to get there anyway.. Thank PRP$ you car, send the info on PSBL my screen please!
+<user> pull up directions to 5672 barringer street. <system> Here are directions to 5672 barringer street. <user> Pick a route with no traffic and let PRP$'s go there, thank PRP$ you! <system> The only route has heavy traffic, is that alright? <user> Yes, patience, PRP$ I need to get there anyway.. Thank PRP$ you car, send the info on PSBL my screen please! <system> Directing to 5672 barringer street now. <user> Thanks.
+<user> give PRP$ me directions to the closest grocery store.
+<user> give PRP$ me directions to the closest grocery store. <system> PRP$ We're 3 miles away from Willows Market but there is a car collision nearby. <user> What is the next closest location?
+<user> give PRP$ me directions to the closest grocery store. <system> PRP$ We're 3 miles away from Willows Market but there is a car collision nearby. <user> What is the next closest location? <system> PRP$ I'm sorry but there are no other options nearby. <user> Ok, well make a route to the Willows Market then, try to avoid the car accident.
+<user> give PRP$ me directions to the closest grocery store. <system> PRP$ We're 3 miles away from Willows Market but there is a car collision nearby. <user> What is the next closest location? <system> PRP$ I'm sorry but there are no other options nearby. <user> Ok, well make a route to the Willows Market then, try to avoid the car accident. <system> Ok driver, making a route to Willows Market and avoiding the car accident. <user> That's great! Thank PRP$ you car!
+<user> Car PRP$ I need to go back home, PRP$ it's in the area, please pick a route with no traffic.
+<user> Car PRP$ I need to go back home, PRP$ it's in the area, please pick a route with no traffic. <system> Taking PRP$ you home. <user> What is PSBL my address?
+<user> Car PRP$ I need to go back home, PRP$ it's in the area, please pick a route with no traffic. <system> Taking PRP$ you home. <user> What is PSBL my address? <system> PSBL Your address is 5671 barringer street, PRP$ we're 3 miles away from home now. <user> Set GPS for a route home with zero to no traffic.
+<user> Car PRP$ I need to go back home, PRP$ it's in the area, please pick a route with no traffic. <system> Taking PRP$ you home. <user> What is PSBL my address? <system> PSBL Your address is 5671 barringer street, PRP$ we're 3 miles away from home now. <user> Set GPS for a route home with zero to no traffic. <system> PSBL Your GPS has been set for home. <user> Thank PRP$ you.
+<user> Where can PRP$ I get tea?
+<user> Where can PRP$ I get tea? <system> Palo Alto Cafe is 4 miles away and serves coffee and tea. Do PRP$ you want the address? <user> Yes.
+<user> Where can PRP$ I get tea? <system> Palo Alto Cafe is 4 miles away and serves coffee and tea. Do PRP$ you want the address? <user> Yes. <system> Palo Alto is located at 436 Alger Dr. <user> Sounds great. Thank PRP$ you.
+<user> is PRP$ it going to be overcast or cloudy at all any day this week.
+<user> is PRP$ it going to be overcast or cloudy at all any day this week. <system> What city do PRP$ you want the weather for? <user> PRP$ I need this forecast information for the city of Carson.
+<user> is PRP$ it going to be overcast or cloudy at all any day this week. <system> What city do PRP$ you want the weather for? <user> PRP$ I need this forecast information for the city of Carson. <system> PRP$ It wo n't be overcast or cloudy at all this week in Carson. <user> Thanks.
+<user> PRP$ I need shopping center.
+<user> PRP$ I need shopping center. <system> There is a shopping center 3 miles from PRP$ you. The address is 338 Alester Avenue. Would PRP$ you like directions? <user> Yes, please.
+<user> PRP$ I need shopping center. <system> There is a shopping center 3 miles from PRP$ you. The address is 338 Alester Avenue. Would PRP$ you like directions? <user> Yes, please. <system> Setting navigation to the Midtown Shopping Center. There is a car collision nearby, so drive carefully. <user> Thank PRP$ you car, pick the shortest distance for PRP$ me please!
+<user> QUESTION what's the weather forecast.
+<user> QUESTION what's the weather forecast. <system> What city would PRP$ you like the forecast for? <user> Grand Rapids.
+<user> QUESTION what's the weather forecast. <system> What city would PRP$ you like the forecast for? <user> Grand Rapids. <system> PRP$ It will be dry today, snowy on Tuesday, dew on Wednesday, warm on Thursday, misty on Friday, snow on Saturday and cloudy on Sunday in Grand Rapids. <user> Thank PRP$ you very much car!
+<user> Schedule a football activity with Ana for today at 11 am.
+<user> Schedule a football activity with Ana for today at 11 am. <system> Scheduled football activity for today at 11 am with Ana. <user> Thank PRP$ you.
+<user> QUESTION what is the weather like right now.
+<user> QUESTION what is the weather like right now. <system> What city shall PRP$ I check for PRP$ you? <user> Please check Exeter: is PRP$ it humid?
+<user> QUESTION what is the weather like right now. <system> What city shall PRP$ I check for PRP$ you? <user> Please check Exeter: is PRP$ it humid? <system> Today is not humid in Exeter. PRP$ It is stormy, low of 40F, high of 50F. <user> Thank PRP$ you!
+<user> Will PRP$ it be raining this week in Redwood City?
+<user> Will PRP$ it be raining this week in Redwood City? <system> There is n't any rain predicted to fall in redwood city this week. <user> Thank PRP$ you.
+<user> QUESTION what is the weather going to be like tomorrow show PRP$ me the 7 day forecast.
+<user> QUESTION what is the weather going to be like tomorrow show PRP$ me the 7 day forecast. <system> What city are PRP$ you interested in? <user> Fresno: there will be hail tomorrow?
+<user> QUESTION what is the weather going to be like tomorrow show PRP$ me the 7 day forecast. <system> What city are PRP$ you interested in? <user> Fresno: there will be hail tomorrow? <system> Tomorrow in Fresno PRP$ it will rain. <user> So no hail tomorrow in Fresno?
+<user> QUESTION what is the weather going to be like tomorrow show PRP$ me the 7 day forecast. <system> What city are PRP$ you interested in? <user> Fresno: there will be hail tomorrow? <system> Tomorrow in Fresno PRP$ it will rain. <user> So no hail tomorrow in Fresno? <system> No hail in Fresno, tomorrow there will be rain. <user> Thanks.
+<user> QUESTION what is the weather like in the city.
+<user> QUESTION what is the weather like in the city. <system> What city are PRP$ you interested in? <user> What is the weather in Compton on Sunday?
+<user> QUESTION what is the weather like in the city. <system> What city are PRP$ you interested in? <user> What is the weather in Compton on Sunday? <system> PRP$ It will be cloudy, with a low of 90F and a high of 100F in Compton on Sunday. <user> Thanks.
+<user> Where does PSBL my friend live?
+<user> Where does PSBL my friend live? <system> PSBL Jill's house is located 5 miles away at 347 Alta Mesa Avenue. <user> .
+<user> Where does PSBL my friend live? <system> PSBL Jill's house is located 5 miles away at 347 Alta Mesa Avenue. <user> . <system> Sorry PRP$ I did n't get that. <user> PRP$ I was thinking about something that happened to Jill yesterday, long story.. Please pick a quick route to get there, thank PRP$ you!
+<user> Where does PSBL my friend live? <system> PSBL Jill's house is located 5 miles away at 347 Alta Mesa Avenue. <user> . <system> Sorry PRP$ I did n't get that. <user> PRP$ I was thinking about something that happened to Jill yesterday, long story.. Please pick a quick route to get there, thank PRP$ you! <system> The quickest route is 347 Alta Mesa Ave. at 5 miles. PRP$ We will be there shortly. <user> Thank PRP$ you!
+<user> QUESTION what's the temperature going to be like today and tomorrow.
+<user> QUESTION what's the temperature going to be like today and tomorrow. <system> What city are PRP$ you wanting to know the temperature for? <user> Seattle.
+<user> QUESTION what's the temperature going to be like today and tomorrow. <system> What city are PRP$ you wanting to know the temperature for? <user> Seattle. <system> PRP$ It will be between 60- 70F today and 30- 40F tomorrow in Seattle. <user> Thank PRP$ you.
+<user> Is there a parking garage within 2 miles?
+<user> Is there a parking garage within 2 miles? <system> Yes, PRP$ i have one listed that is 1 mile away. <user> That's great! Please pick the quickest route and send PRP$ me the address on screen, thank PRP$ you!
+<user> Is there a parking garage within 2 miles? <system> Yes, PRP$ i have one listed that is 1 mile away. <user> That's great! Please pick the quickest route and send PRP$ me the address on screen, thank PRP$ you! <system> Then let PRP$'s go at Palo Alto Garage R, PRP$ I sent the info on PSBL your screen! <user> Fantastic. Thanks, car!
+<user> find starbucks.
+<user> find starbucks. <system> The nearest Starbucks is 3 miles away. There is a road block on PSBL its way so PRP$ I already sent on PSBL your screen another route to reach faster. <user> Is PRP$ it the quickest one available? PRP$ I really need PSBL my morning coffee!
+<user> find starbucks. <system> The nearest Starbucks is 3 miles away. There is a road block on PSBL its way so PRP$ I already sent on PSBL your screen another route to reach faster. <user> Is PRP$ it the quickest one available? PRP$ I really need PSBL my morning coffee! <system> Yes, PRP$ it is, hope PRP$ you can have PSBL your coffee soon! <user> Where is the Starbucks?
+<user> find starbucks. <system> The nearest Starbucks is 3 miles away. There is a road block on PSBL its way so PRP$ I already sent on PSBL your screen another route to reach faster. <user> Is PRP$ it the quickest one available? PRP$ I really need PSBL my morning coffee! <system> Yes, PRP$ it is, hope PRP$ you can have PSBL your coffee soon! <user> Where is the Starbucks? <system> The Starbucks is located at 792 Bedoin Street. Setting navigation now. <user> Thank PRP$ you.
+<user> Will PRP$ it be foggy on Tuesday in Redwood City?
+<user> Will PRP$ it be foggy on Tuesday in Redwood City? <system> PRP$ It will be cloudy but not foggy in Redwood City on Tuesday. <user> Thank PRP$ you.
+<user> directions to the mall.
+<user> directions to the mall. <system> Navigating PRP$ you to Town and Country. <user> Thank PRP$ you car, please pick the fastest route.
+<user> directions to the mall. <system> Navigating PRP$ you to Town and Country. <user> Thank PRP$ you car, please pick the fastest route. <system> Setting GPS for fastest route with no traffic. <user> Sounds great and can PRP$ you tell PRP$ me the address?
+<user> directions to the mall. <system> Navigating PRP$ you to Town and Country. <user> Thank PRP$ you car, please pick the fastest route. <system> Setting GPS for fastest route with no traffic. <user> Sounds great and can PRP$ you tell PRP$ me the address? <system> The address is 383 University Ave, PRP$ I sent PRP$ it on PSBL your screen. <user> Awesome, goodbye.
+<user> What time do PRP$ I go to yoga and QUESTION who is going with PRP$ me?
+<user> What time do PRP$ I go to yoga and QUESTION who is going with PRP$ me? <system> Yoga is with Alex at 11 am. <user> Thanks.
+<user> Car PRP$ I need to get to a gas station, please show PRP$ me the nearest one.
+<user> Car PRP$ I need to get to a gas station, please show PRP$ me the nearest one. <system> There is Valero 7 miles away with moderate traffic on PSBL our way. <user> Alright, QUESTION where is PRP$ it located?
+<user> Car PRP$ I need to get to a gas station, please show PRP$ me the nearest one. <system> There is Valero 7 miles away with moderate traffic on PSBL our way. <user> Alright, QUESTION where is PRP$ it located? <system> Valero is at 200 Alester Ave. <user> Please pick the fastest route to get there.
+<user> Car PRP$ I need to get to a gas station, please show PRP$ me the nearest one. <system> There is Valero 7 miles away with moderate traffic on PSBL our way. <user> Alright, QUESTION where is PRP$ it located? <system> Valero is at 200 Alester Ave. <user> Please pick the fastest route to get there. <system> There is moderate traffic on PSBL our way, PRP$ I sent the route on PSBL your screen. <user> Thank PRP$ you car!
+<user> PRP$ I want to find the agenda, location, and time for PSBL my meeting.
+<user> PRP$ I want to find the agenda, location, and time for PSBL my meeting. <system> PRP$ You have two meetings scheduled, one at 4 pm in conference room 102 to discuss the company picnic, and one at 6 pm in 100 conference room to go over the quarterly report. <user> Thanks.
+<user> take PRP$ me to the parking garage closest to PSBL my destination.
+<user> take PRP$ me to the parking garage closest to PSBL my destination. <system> The nearest parking garage is Palo Alto Garage R, PRP$ it's 1 miles away. Navigate PRP$ you there? <user> Sure, thank PRP$ you, just pick the quickest route and send PRP$ me the address on screen.
+<user> Schedule a swimming activity with Jon for December 10th at 3 pm.
+<user> Schedule a swimming activity with Jon for December 10th at 3 pm. <system> PSBL Your swimming activity with Jon has been scheduled for Dec 10th at 3 pm. <user> Thank PRP$ you.
+<user> What is the highest temperature in Brentwood over the next two days?
+<user> What is the highest temperature in Brentwood over the next two days? <system> PRP$ It will be 80F on Tuesday in Brentwood. <user> Thank PRP$ you very much car!
+<user> PRP$ I would like to know QUESTION who is attending PSBL my meeting and QUESTION when PRP$ it is.
+<user> PRP$ I would like to know QUESTION who is attending PSBL my meeting and QUESTION when PRP$ it is. <system> PSBL Your boss will be at the meeting on Monday at 1 pm. <user> Thanks.
+<user> is PRP$ it going to snow this week.
+<user> is PRP$ it going to snow this week. <system> What location do PRP$ you want to know if PRP$ it will snow? <user> Mountain View, please!
+<user> is PRP$ it going to snow this week. <system> What location do PRP$ you want to know if PRP$ it will snow? <user> Mountain View, please! <system> PRP$ It will snow on Tuesday in Mountain View. <user> Thanks.
+<user> PRP$ i need to schedule a PSBL doctor's appointment.
+<user> PRP$ i need to schedule a PSBL doctor's appointment. <system> QUESTION when? <user> PRP$ It's at 1 pm today.
+<user> show PRP$ me the nearest shopping mall.
+<user> show PRP$ me the nearest shopping mall. <system> PRP$ We're 3 miles away from Topanga Mall and there is heavy traffic on PSBL its way. <user> Okay, QUESTION where is PRP$ it located?
+<user> show PRP$ me the nearest shopping mall. <system> PRP$ We're 3 miles away from Topanga Mall and there is heavy traffic on PSBL its way. <user> Okay, QUESTION where is PRP$ it located? <system> PRP$ You will find Topanga Mall at 171 Oak Rd. <user> Direction please.
+<user> show PRP$ me the nearest shopping mall. <system> PRP$ We're 3 miles away from Topanga Mall and there is heavy traffic on PSBL its way. <user> Okay, QUESTION where is PRP$ it located? <system> PRP$ You will find Topanga Mall at 171 Oak Rd. <user> Direction please. <system> Setting navigation now. <user> Thank PRP$ you.
+<user> show PRP$ me the nearest shopping mall. <system> PRP$ We're 3 miles away from Topanga Mall and there is heavy traffic on PSBL its way. <user> Okay, QUESTION where is PRP$ it located? <system> PRP$ You will find Topanga Mall at 171 Oak Rd. <user> Direction please. <system> Setting navigation now. <user> Thank PRP$ you. <system> PRP$ You're welcome; drive safely. <user> [ end conversation]
+<user> Car PRP$ I need a rest stop in the area, please pick something and avoid all heavy traffic.
+<user> Car PRP$ I need a rest stop in the area, please pick something and avoid all heavy traffic. <system> The Westin is 4 miles away with moderate traffic. Will that help? <user> Sounds great. Send PRP$ me that address.
+<user> Car PRP$ I need a rest stop in the area, please pick something and avoid all heavy traffic. <system> The Westin is 4 miles away with moderate traffic. Will that help? <user> Sounds great. Send PRP$ me that address. <system> The Westin is at 329 El Camino Real. Do PRP$ you need PRP$ me to set the navigation? <user> Sure, please do!
+<user> Can PRP$ you find out for PRP$ me the date and parties attending PSBL my dinner?
+<user> Can PRP$ you find out for PRP$ me the date and parties attending PSBL my dinner? <system> PSBL Your dinner is on Tuesday with PSBL your sister. <user> Thanks.
+<user> Look up san PSBL francisco's two day weather info to see if PRP$ it will be warm.
+<user> Look up san PSBL francisco's two day weather info to see if PRP$ it will be warm. <system> PRP$ It will be stormy and hailing in San Francisco in the next two days. <user> Thank PRP$ you.
+<user> PRP$ I need to find out the date and time for PSBL my lab appointment.
+<user> PRP$ I need to find out the date and time for PSBL my lab appointment. <system> For QUESTION which one? PRP$ I have two, one on the 8th at 11 am and one on Wednesday at 11 am. <user> Thanks that will do car.
+<user> is PRP$ it going to rain in the next 7 days.
+<user> is PRP$ it going to rain in the next 7 days. <system> Where are PRP$ you wanting to know if PRP$ it's going to rain or not? <user> in San Francisco.
+<user> is PRP$ it going to rain in the next 7 days. <system> Where are PRP$ you wanting to know if PRP$ it's going to rain or not? <user> in San Francisco. <system> PRP$ It is not going to rain in San Francisco this week. <user> Thanks.
+<user> QUESTION what's the weather like today and tomorrow.
+<user> QUESTION what's the weather like today and tomorrow. <system> What city are PRP$ you wanting to know the weather for? <user> Seatlle, PRP$ I want to know if PRP$ it will be foggy today and tomorrow.
+<user> QUESTION what's the weather like today and tomorrow. <system> What city are PRP$ you wanting to know the weather for? <user> Seatlle, PRP$ I want to know if PRP$ it will be foggy today and tomorrow. <system> Tomorrow in Seattle is looking warm with a low of 70F and a high of 90F. No sign of fog. <user> Thanks!
