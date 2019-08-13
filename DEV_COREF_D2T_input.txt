@@ -1,0 +1,744 @@
+ 1@$% make an appointment to reserve room_1 later this week agenda_1.
+ 1@$% make an appointment to reserve room_1 later this week agenda_1.  1@$% what day and time should i set an appointment to reserve the conference room?  1@$% make an appointment to reserve room_1 later this week date_1 at time_1 agenda_1.
+ 1@$% is there supposed to be a weather_attribute_1 in location_1 on date_1?
+ 1@$% is there supposed to be a weather_attribute_1 in location_1 on date_1?  1@$% on date_1 it's gon na rain in location_1.  1@$% thanks.
+ 1@$% give me directions to distance_1 poi_type_1.
+ 1@$% give me directions to distance_1 poi_type_1.  1@$% there is poi_1 distance_2 from here but with heavy traffic on our way.  1@$% give me the address of the poi_type_1 poi_1 distance_2.
+ 1@$% give me directions to distance_1 poi_type_1.  1@$% there is poi_1 distance_2 from here but with heavy traffic on our way.  1@$% give me the address of the poi_type_1 poi_1 distance_2.  1@$% the address to poi_1 is address_1.  1@$% thank you car, please pick the quickest way to get to the poi_type_1 poi_1 distance_2 at address_1!
+ 1@$% what is the date of our event_1 and who is attending?
+ 1@$% what is the date of our event_1 and who is attending?  1@$% you have 2 dinners on your schedule. one on friday at 6 pm with your father and one on the 8th at 7 pm with your aunt.  1@$% thank you.
+ 1@$% where can i go shopping?
+ 1@$% where can i go shopping?  1@$% two shopping centers are located nearby. one is the topanga mall located 4 miles away and the other is ravenswood poi_type_1 that's distance_1. which do you prefer?  1@$% i want to go to the poi_1 poi_type_1 distance_1, give me the address of the poi_1 poi_type_1 distance_1 and then directions to the poi_1 poi_type_1 distance_1 with traffic_info_1.
+ 1@$% where can i go shopping?  1@$% two shopping centers are located nearby. one is the topanga mall located 4 miles away and the other is ravenswood poi_type_1 that's distance_1. which do you prefer?  1@$% i want to go to the poi_1 poi_type_1 distance_1, give me the address of the poi_1 poi_type_1 distance_1 and then directions to the poi_1 poi_type_1 distance_1 with traffic_info_1.  1@$% the address is 434 arastradero rd, i picked the fastest route for you, it's on your screen.  1@$% thank you very much car!
+ 1@$% what time is my event_1 and what is the agenda, also who is attending?
+ 1@$% what time is my event_1 and what is the agenda, also who is attending?  1@$% for which one? i have one with sales team at 9 am to sign the nda, and i also have another with sales team at 1 pm to go over budget.  1@$% what time is my event_1 and what is the agenda of the event_1, also who is attending the event_1?
+ 1@$% set a reminder for a event_1 at time_1 on date_1 with party_1.
+ 1@$% set a reminder for a event_1 at time_1 on date_1 with party_1.  1@$% okay, setting a reminder for your event_1 at time_1 on date_1 with party_1.  1@$% thanks.
+ 1@$% where can i get poi_type_1?
+ 1@$% where can i get poi_type_1?  1@$% we're 1 miles away drom trader joes and there is moderate traffic on our way.  1@$% what is the address of the poi_type_2 poi_1 distance_1 and give me directions to the poi_type_2 poi_1 distance_1 with the fastesr route.
+ 1@$% where can i get poi_type_1?  1@$% we're 1 miles away drom trader joes and there is moderate traffic on our way.  1@$% what is the address of the poi_type_2 poi_1 distance_1 and give me directions to the poi_type_2 poi_1 distance_1 with the fastesr route.  1@$% the quickest route to trader joes is distance_1 at 408 university avenue.  1@$% thanks!
+ 1@$% when is my event_1?
+ 1@$% when is my event_1?  1@$% your next event_1 activity is thursday at 3 pm with your brother.  1@$% thank you.
+ 1@$% what's the weather like in location_1.
+ 1@$% what's the weather like in location_1.  1@$% the weather in location_2 is predicted as a drizzle with lows in the 60s and highs in the 80s.  1@$% thanks, i would like to know if it will be weather_attribute_1 n location_2 on date_1 please.
+ 1@$% what's the weather like in location_1.  1@$% the weather in location_2 is predicted as a drizzle with lows in the 60s and highs in the 80s.  1@$% thanks, i would like to know if it will be weather_attribute_1 n location_2 on date_1 please.  1@$% it will not be weather_attribute_1 in location_1 tomorrow.  1@$% thank you.
+ 1@$% where is a poi_type_1.
+ 1@$% where is a poi_type_1.  1@$% there are two chinese restaurants nearby: poi_1 distance_1 and poi_2 distance_2.  1@$% please tell me the chinese poi_type_1, either the chinese poi_type_1 poi_1 distance_1 or the chinese poi_type_1 poi_2 distance_2, with the traffic_info_1 and the details of the location.
+ 1@$% where is a poi_type_1.  1@$% there are two chinese restaurants nearby: poi_1 distance_1 and poi_2 distance_2.  1@$% please tell me the chinese poi_type_1, either the chinese poi_type_1 poi_1 distance_1 or the chinese poi_type_1 poi_2 distance_2, with the traffic_info_1 and the details of the location.  1@$% poi_1 is distance_1 in moderate traffic, it is located at 271 springer street.  1@$% thank you.
+ 1@$% what is the distance_1 poi_type_1?
+ 1@$% what is the distance_1 poi_type_1?  1@$% poi_1 is the distance_1 poi_type_1.  1@$% please pick the distance_2 route to go to the distance_1 poi_type_1 poi_1 and send me the address of the distance_1 poi_type_1 poi_1 on my map.
+ 1@$% what is the distance_1 poi_type_1?  1@$% poi_1 is the distance_1 poi_type_1.  1@$% please pick the distance_2 route to go to the distance_1 poi_type_1 poi_1 and send me the address of the distance_1 poi_type_1 poi_1 on my map.  1@$% poi_1 	 is at 611 ames ave.  1@$% thanks.
+ 1@$% is it going to be weather_attribute_1 this date_1.
+ 1@$% is it going to be weather_attribute_1 this date_1.  1@$% what city are you inquiring about?  1@$% is it going to be weather_attribute_1 this date_1 in location_1.
+ 1@$% is it going to be weather_attribute_1 this date_1.  1@$% what city are you inquiring about?  1@$% is it going to be weather_attribute_1 this date_1 in location_1.  1@$% it will be weather_attribute_1 on saturday and hailing on sunday in location_1.  1@$% thanks.
+ 1@$% is it gon na be weather_attribute_1 in location_1 on date_1?
+ 1@$% is it gon na be weather_attribute_1 in location_1 on date_1?  1@$% on date_1 the forecast is predicted to be foggy in location_1.  1@$% thank you.
+ 1@$% how's the weather in location_1.
+ 1@$% how's the weather in location_1.  1@$% the weather in location_1 is hot today. are you interested in other days' forecast?  1@$% will it be weather_attribute_1 on date_1 in location_1?
+ 1@$% how's the weather in location_1.  1@$% the weather in location_1 is hot today. are you interested in other days' forecast?  1@$% will it be weather_attribute_1 on date_1 in location_1?  1@$% on date_1 it will be dew!  1@$% thanks.
+ 1@$% set an optometrist appointment for date_1.
+ 1@$% set an optometrist appointment for date_1.  1@$% what time on date_1 should i set the appointment reminder?  1@$% set an optometrist appointment for date_1 at time_1 with my party_1.
+ 1@$% set an optometrist appointment for date_1.  1@$% what time on date_1 should i set the appointment reminder?  1@$% set an optometrist appointment for date_1 at time_1 with my party_1.  1@$% okay great, i have that all set for you. can i help with anything else?  1@$% that is all, thanks!
+ 1@$% can you please find me the time, date, and what is planned for the next event_1 i have scheduled in my calendar?
+ 1@$% can you please find me the time, date, and what is planned for the next event_1 i have scheduled in my calendar?  1@$% your event_1 is on the 5th at 1 pm, the purpose is to go over the quarterly report.  1@$% thank you.
+ 1@$% where's poi_type_1.
+ 1@$% where's poi_type_1.  1@$% the nearest one is poi_1, it's distance_1.  1@$% can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1?
+ 1@$% where's poi_type_1.  1@$% the nearest one is poi_1, it's distance_1.  1@$% can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1?  1@$% poi_1 has traffic_info_1 and is the only local one, is it okay?  1@$% yes get me the address of the poi_1 poi_type_1 distance_1.
+ 1@$% where's poi_type_1.  1@$% the nearest one is poi_1, it's distance_1.  1@$% can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1?  1@$% poi_1 has traffic_info_1 and is the only local one, is it okay?  1@$% yes get me the address of the poi_1 poi_type_1 distance_1.  1@$% the address to poi_1 is 550 alester ave.  1@$% thanks so much.
+ 1@$% give me directions to the distance_1 to poi_type_1.
+ 1@$% give me directions to the distance_1 to poi_type_1.  1@$% there is poi_1 distance_3: does it sound good?  1@$% that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route.
+ 1@$% give me directions to the distance_1 to poi_type_1.  1@$% there is poi_1 distance_3: does it sound good?  1@$% that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route.  1@$% the distance_2 route to poi_1 is with traffic_info_1 to address_1.  1@$% show me the route to the poi_type_2 poi_1 distance_3 at address_1 with traffic_info_1 please.
+ 1@$% give me directions to the distance_1 to poi_type_1.  1@$% there is poi_1 distance_3: does it sound good?  1@$% that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route.  1@$% the distance_2 route to poi_1 is with traffic_info_1 to address_1.  1@$% show me the route to the poi_type_2 poi_1 distance_3 at address_1 with traffic_info_1 please.  1@$% i sent the route on your screen, drive carefully!  1@$% thank you car!
+ 1@$% directions to the poi_type_1.
+ 1@$% directions to the poi_type_1.  1@$% poi_1 is a poi_type_2 i can find. it is located at address_1.  1@$% can you give me a route to the poi_type_2 poi_1 at address_1 which is fast please.
+ 1@$% directions to the poi_type_1.  1@$% poi_1 is a poi_type_2 i can find. it is located at address_1.  1@$% can you give me a route to the poi_type_2 poi_1 at address_1 which is fast please.  1@$% unfortunately there is a road block nearby but i sent on your screen another route to reach faster.  1@$% great thank you.
+ 1@$% who is going to be at the event_1?
+ 1@$% who is going to be at the event_1?  1@$% which one? there is one at time_1 on date_1, and there is another at time_2 on date_2.  1@$% who is going to be at the event_1, both the event_1 at time_1 on date_1 and the event_1 at time_2 on date_2?
+ 1@$% please set reminder for the date_1 at time_1 for event_1. my party_1 is coming along.
+ 1@$% please set reminder for the date_1 at time_1 for event_1. my party_1 is coming along.  1@$% okay reminder set for your event_1 appointment on the date_1 at time_1 with your party_1.  1@$% thank you.
+ 1@$% what are some distance_1 poi_type_1.
+ 1@$% what are some distance_1 poi_type_1.  1@$% the closest is poi_1 distance_2, then the clement poi_type_2 2 miles away, four seasons is 4 miles away and the westin is 5 miles away.  1@$% let's try the poi_type_2 poi_1 distance_2 what's the address of the poi_type_2 poi_1 distance_2 and how's the traffic to the poi_type_2 poi_1 distance_2?
+ 1@$% what are some distance_1 poi_type_1.  1@$% the closest is poi_1 distance_2, then the clement poi_type_2 2 miles away, four seasons is 4 miles away and the westin is 5 miles away.  1@$% let's try the poi_type_2 poi_1 distance_2 what's the address of the poi_type_2 poi_1 distance_2 and how's the traffic to the poi_type_2 poi_1 distance_2?  1@$% there is a road block distance_1 on the route to 333 arbol dr. would you like directions there?  1@$% thank you for this route.
+ 1@$% what's the forecast for location_1 date_1.
+ 1@$% what's the forecast for location_1 date_1.  1@$% for what city did you need the forecast?  1@$% will it be weather_attribute_1 anytime date_2 in location_2?
+ 1@$% what's the forecast for location_1 date_1.  1@$% for what city did you need the forecast?  1@$% will it be weather_attribute_1 anytime date_2 in location_2?  1@$% it will not be weather_attribute_1 in location_2 date_1.  1@$% thank you car!
+ 1@$% what time and day is my event_1 on.
+ 1@$% what time and day is my event_1 on.  1@$% your event_1 is on thursday at 2 pm.  1@$% thank you.
+ 1@$% search for distance_1 poi_type_1.
+ 1@$% search for distance_1 poi_type_1.  1@$% poi_1 is the closest pizza, would you like the address?  1@$% yes, please, send the address of the poi_type_2 poi_1 on my screen and show me the distance_2 to the poi_type_2 poi_1 too, thank you!
+ 1@$% what's the weather supposed to be like in location_1 date_1.
+ 1@$% what's the weather supposed to be like in location_1 date_1.  1@$% date_1 in location_2 will be rainy and windy with overcast skies.  1@$% will be weather_attribute_1 any day date_1 in location_1?
+ 1@$% what's the weather supposed to be like in location_1 date_1.  1@$% date_1 in location_2 will be rainy and windy with overcast skies.  1@$% will be weather_attribute_1 any day date_1 in location_1?  1@$% there are n't any days predicted to be weather_attribute_1 in location_2 date_1.  1@$% thank you.
+ 1@$% when is the date and time of my event_1?
+ 1@$% when is the date and time of my event_1?  1@$% your event_1 is at 10 am on the 13th.  1@$% thank you.
+ 1@$% on date_1 in location_1 will there be a weather_attribute_1?
+ 1@$% on date_1 in location_1 will there be a weather_attribute_1?  1@$% the forecast does not predict a weather_attribute_1 in location_1 this date_1.  1@$% thank you car!
+ 1@$% what time is my next event_1 and who will be attending?
+ 1@$% what time is my next event_1 and who will be attending?  1@$% your next event_1 is on date_1 with your party_1.  1@$% what is the scheduled time for the event_1 on date_1 with my party_1?
+ 1@$% what time is my next event_1 and who will be attending?  1@$% your next event_1 is on date_1 with your party_1.  1@$% what is the scheduled time for the event_1 on date_1 with my party_1?  1@$% your date_1 event_1 with your party_1 is at 9 am.  1@$% okay thanks.
+ 1@$% show me date_1's forecast.
+ 1@$% show me date_1's forecast.  1@$% what city do you want the weather for?  1@$% is it going to weather_attribute_1 date_1 in location_1?
+ 1@$% show me date_1's forecast.  1@$% what city do you want the weather for?  1@$% is it going to weather_attribute_1 date_1 in location_1?  1@$% there is no weather_attribute_1 forecasted for location_1 date_1.  1@$% thanks!
+ 1@$% date_1 in location_1, will it be weather_attribute_1?
+ 1@$% date_1 in location_1, will it be weather_attribute_1?  1@$% yes, location_1 is predicted to be weather_attribute_1 date_1.  1@$% thank you car!
+ 1@$% take me to a poi_type_1.
+ 1@$% take me to a poi_type_1.  1@$% poi_1 is the nearest poi_type_1 at address_1.  1@$% is the poi_type_1 poi_1 at address_1 the distance_1 option?
+ 1@$% take me to a poi_type_1.  1@$% poi_1 is the nearest poi_type_1 at address_1.  1@$% is the poi_type_1 poi_1 at address_1 the distance_1 option?  1@$% yes the route to address_1 is the distance_1 available.  1@$% that's good, please send me the address of the poi_type_1 poi_1 at address_1 on the screen, thank you!
+ 1@$% can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1?
+ 1@$% can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1?  1@$% scheduling event_1 for time_1 date_1 with party_1 to agenda_1. do you have a specific day in mind?  1@$% can you kindly schedule a event_1 at time_1, date_2 date_1 with party_1 to agenda_1?
+ 1@$% can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1?  1@$% scheduling event_1 for time_1 date_1 with party_1 to agenda_1. do you have a specific day in mind?  1@$% can you kindly schedule a event_1 at time_1, date_2 date_1 with party_1 to agenda_1?  1@$% anything else?  1@$% no that was everything, thanks.
+ 1@$% set reminder for event_1 at 9am on date_1 with party_1.
+ 1@$% set reminder for event_1 at 9am on date_1 with party_1.  1@$% okay setting reminder for your meeting with the party_1 on date_1 at 9am.  1@$% thank you.
+ 1@$% what will the weather_attribute_1 be for the date_1.
+ 1@$% what will the weather_attribute_1 be for the date_1.  1@$% what city are you interested in?  1@$% what will the weather_attribute_1 be for the date_1 in location_1.
+ 1@$% what will the weather_attribute_1 be for the date_1.  1@$% what city are you interested in?  1@$% what will the weather_attribute_1 be for the date_1 in location_1.  1@$% it will be between 60- 70f on monday and tuesday in location_1.   70- 90f on wednesday, 80- 100f on thursday, 60- 70f on friday, 80- 100f on saturday, and 90- 100f on sunday.  1@$% thanks.
+ 1@$% i'm in need of a poi_type_1.
+ 1@$% i'm in need of a poi_type_1.  1@$% we're distance_2 from poi_1 and 6 miles away from round table: do they sound good?  1@$% they sound great! please pick a quick route to the poi_type_1 poi_1 distance_2, thank you!
+ 1@$% i'm in need of a poi_type_1.  1@$% we're distance_2 from poi_1 and 6 miles away from round table: do they sound good?  1@$% they sound great! please pick a quick route to the poi_type_1 poi_1 distance_2, thank you!  1@$% poi_1 is the distance_1. navigating to address_1. there is traffic_info_1 on the route.  1@$% that sounds good. please start directions to the poi_type_1 poi_1 distance_2 at address_1 with traffic_info_1.
+ 1@$% tell me when my next event_1 is.
+ 1@$% tell me when my next event_1 is.  1@$% your next tennis activity is on wednesday at 1 pm.  1@$% great.
+ 1@$% what time and date is my event_1?
+ 1@$% what time and date is my event_1?  1@$% your event_1 is scheduled on friday at 4 pm.  1@$% thank you!
+ 1@$% what is the date and time of my next event_1?
+ 1@$% what is the date and time of my next event_1?  1@$% you have two, one at 4 pm on the 17th, and one at 6 pm on tuesday.  1@$% thank you.
+ 1@$% navigate to the distance_1 poi_type_1.
+ 1@$% navigate to the distance_1 poi_type_1.  1@$% navigating you to poi_1.  1@$% please send me the address of the poi_type_1 poi_1 on screen and pick the distance_2 route to the poi_type_1 poi_1 for me, thank you!
+ 1@$% navigate to the distance_1 poi_type_1.  1@$% navigating you to poi_1.  1@$% please send me the address of the poi_type_1 poi_1 on screen and pick the distance_2 route to the poi_type_1 poi_1 for me, thank you!  1@$% poi_1 is at 792 bedoin street.  1@$% thanks!
+ 1@$% where is a poi_type_1 in the area?
+ 1@$% where is a poi_type_1 in the area?  1@$% i have a listing for a poi_type_1 named poi_1 and its distance_1.  1@$% what is the address of the poi_type_1 poi_1 distance_1?
+ 1@$% where is a poi_type_1 in the area?  1@$% i have a listing for a poi_type_1 named poi_1 and its distance_1.  1@$% what is the address of the poi_type_1 poi_1 distance_1?  1@$% its address is 899 ames ct, unfortunately there is heavy traffic on our way: what to do?  1@$% that is ok, thanks.
+ 1@$% add event_1 in room_1 the calendar.
+ 1@$% add event_1 in room_1 the calendar.  1@$% what day and time is the event_1?  1@$% add event_1 at time_1 on date_1 with party_1 to agenda_1 in room_1 the calendar.
+ 1@$% add event_1 in room_1 the calendar.  1@$% what day and time is the event_1?  1@$% add event_1 at time_1 on date_1 with party_1 to agenda_1 in room_1 the calendar.  1@$% setting event_1 at time_1 on date_1 with party_1 to agenda_1.  1@$% perfect. nothing else for now.
+ 1@$% will it be weather_attribute_1 in location_1 over the date_1?
+ 1@$% will it be weather_attribute_1 in location_1 over the date_1?  1@$% it will be stormy on tuesday and there will be rain on wednesday in location_1.  1@$% thank you car!
+ 1@$% what day and time is my event_1 activity?
+ 1@$% what day and time is my event_1 activity?  1@$% your event_1 activity is on wednesday at 7 pm.  1@$% alright, thanks.
+ 1@$% find me a poi_1 room for tonight.
+ 1@$% find me a poi_1 room for tonight.  1@$% you have three possible rest stops, one distance_2, one distance_3, and one distance_4.  1@$% which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1?
+ 1@$% find me a poi_1 room for tonight.  1@$% you have three possible rest stops, one distance_2, one distance_3, and one distance_4.  1@$% which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1?  1@$% poi_2 appears to be the fastest at distance_3 and traffic_info_1. do you need the address?  1@$% yes, please, and set the navigation to the poi_type_1 poi_2 distance_3 with traffic_info_1 too.
+ 1@$% find me a poi_1 room for tonight.  1@$% you have three possible rest stops, one distance_2, one distance_3, and one distance_4.  1@$% which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1?  1@$% poi_2 appears to be the fastest at distance_3 and traffic_info_1. do you need the address?  1@$% yes, please, and set the navigation to the poi_type_1 poi_2 distance_3 with traffic_info_1 too.  1@$% poi_2 is located at address_1. setting navigation now.  1@$% thank you.
+ 1@$% what is the weather.
+ 1@$% what is the weather.  1@$% where are you interested in the weather for?  1@$% what is the weather in location_1.
+ 1@$% what is the weather.  1@$% where are you interested in the weather for?  1@$% what is the weather in location_1.  1@$% in location_1 right now, it is warm, with a low of 60f and a high of 70f.  1@$% thank you!
+ 1@$% what time is the event_1 this week.
+ 1@$% what time is the event_1 this week.  1@$% the event_1 is on friday at 11 am.  1@$% thank you car.
+ 1@$% find me the traffic_info_1 to the distance_1 poi_type_1 around.
+ 1@$% find me the traffic_info_1 to the distance_1 poi_type_1 around.  1@$% there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% yes please. thanks for the help.
+ 1@$% find me the traffic_info_1 to the distance_1 poi_type_1 around.  1@$% there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% yes please. thanks for the help.  1@$% setting gps now.  1@$% would you give me the address of the poi_type_1 poi_1 distance_2 please?
+ 1@$% find me the traffic_info_1 to the distance_1 poi_type_1 around.  1@$% there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% yes please. thanks for the help.  1@$% setting gps now.  1@$% would you give me the address of the poi_type_1 poi_1 distance_2 please?  1@$% the address_1 is address_2.  1@$% thank you car, let's go to the poi_type_1 poi_1 distance_2 at address_2!
+ 1@$% i'm not feeling well show me the traffic_info_1 route to the distance_1 poi_type_1.
+ 1@$% i'm not feeling well show me the traffic_info_1 route to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is 5 miles away at 899 ames ct, there is heavy traffic on the way.  1@$% thanks.
+ 1@$% where is the distance_1 poi_type_1?
+ 1@$% where is the distance_1 poi_type_1?  1@$% the distance_1 poi_type_1 is 76 at 4 miles away but a road block is nearby.  1@$% thanks for the information.
+ 1@$% on date_1 will there be weather_attribute_1 in location_1?
+ 1@$% on date_1 will there be weather_attribute_1 in location_1?  1@$% in location_1 the weather will be stormy on date_1.  1@$% thanks.
+ 1@$% what time is my event_1 and who is attending?
+ 1@$% what time is my event_1 and who is attending?  1@$% which one? i have two, one for 11 am with ana, and one for 6 pm with job.  1@$% what time is my event_1 and who is attending my event_1?
+ 1@$% is it going to weather_attribute_1 sometime date_1.
+ 1@$% is it going to weather_attribute_1 sometime date_1.  1@$% what city are you wanting to know if it's going to weather_attribute_1?  1@$% is it going to weather_attribute_1 sometime date_1 in location_1.
+ 1@$% is it going to weather_attribute_1 sometime date_1.  1@$% what city are you wanting to know if it's going to weather_attribute_1?  1@$% is it going to weather_attribute_1 sometime date_1 in location_1.  1@$% in location_1, it will weather_attribute_1 on tuesday and wednesday.  1@$% thanks!
+ 1@$% please give me the address and directions via the distance_1 route to a poi_type_1 nearby.
+ 1@$% please give me the address and directions via the distance_1 route to a poi_type_1 nearby.  1@$% the distance_1 route to the poi_type_1 is address_1. at distance_3 with a road block nearby. do you want to go to poi_1?  1@$% yes, please pick the distance_2 distance to get to the poi_type_1 poi_1 distance_3 at address_1, thank you!
+ 1@$% take me to the distance_1 poi_1.
+ 1@$% take me to the distance_1 poi_1.  1@$% there is no poi_1 nearby.  1@$% do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1?
+ 1@$% take me to the distance_1 poi_1.  1@$% there is no poi_1 nearby.  1@$% do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1?  1@$% there is poi_2, it's just distance_4 but there is heavy traffic on our way.  1@$% pick the distance_3 way to the poi_type_2 poi_2 distance_4 and let's go to the poi_type_2 poi_2 distance_4, thank you!
+ 1@$% take me to the distance_1 poi_1.  1@$% there is no poi_1 nearby.  1@$% do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1?  1@$% there is poi_2, it's just distance_4 but there is heavy traffic on our way.  1@$% pick the distance_3 way to the poi_type_2 poi_2 distance_4 and let's go to the poi_type_2 poi_2 distance_4, thank you!  1@$% poi_2 is located at 394 van ness avenue. setting the distance_3 route on gps.  1@$% thank you.
+ 1@$% what is the weather like in location_1 date_1.
+ 1@$% what is the weather like in location_1 date_1.  1@$% what can i tell you about date_1's weather in location_1?  1@$% i want to find out if it will weather_attribute_1 date_1 in location_1.
+ 1@$% what is the weather like in location_1 date_1.  1@$% what can i tell you about date_1's weather in location_1?  1@$% i want to find out if it will weather_attribute_1 date_1 in location_1.  1@$% it will not weather_attribute_1 date_1 in location_1.  1@$% thanks.
+ 1@$% i need the address of a the poi_type_1 that i can get to the distance_1 from here.
+ 1@$% i need the address of a the poi_type_1 that i can get to the distance_1 from here.  1@$% poi_1 is distance_2 but there is heavy traffic on our way. do you want me to set the gps to get there?  1@$% yes, please, just pick the distance_1 route to the poi_1 poi_type_1 distance_2 and let's go to the poi_1 poi_type_1 distance_2!
+ 1@$% i need the address of a the poi_type_1 that i can get to the distance_1 from here.  1@$% poi_1 is distance_2 but there is heavy traffic on our way. do you want me to set the gps to get there?  1@$% yes, please, just pick the distance_1 route to the poi_1 poi_type_1 distance_2 and let's go to the poi_1 poi_type_1 distance_2!  1@$% the distance_1 route is 773 alger dr and is set.  1@$% thanks for all the help.
+ 1@$% what is my poi_type_1 address?
+ 1@$% what is my poi_type_1 address?  1@$% poi_1 is located at address_1. anything else?  1@$% how's the traffic to my friend poi_1 at address_1?
+ 1@$% what is my poi_type_1 address?  1@$% poi_1 is located at address_1. anything else?  1@$% how's the traffic to my friend poi_1 at address_1?  1@$% there is traffic_info_2 on the way to poi_1.  1@$% perfect. let's go to my friend poi_1 at address_1 with traffic_info_1
+ 1@$% what is my poi_type_1 address?  1@$% poi_1 is located at address_1. anything else?  1@$% how's the traffic to my friend poi_1 at address_1?  1@$% there is traffic_info_2 on the way to poi_1.  1@$% perfect. let's go to my friend poi_1 at address_1 with traffic_info_1  1@$% okay, we're on the way now!  1@$% thank you.
+ 1@$% i need a poi_type_1.
+ 1@$% i need a poi_type_1.  1@$% poi_1 is distance_1.  1@$% farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you!
+ 1@$% i need a poi_type_1.  1@$% poi_1 is distance_1.  1@$% farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you!  1@$% sure, it's just distance_1 at 657 ames avenue.  1@$% please give me a quick route to the poi_type_1 poi_1 distance_1 at 657 ames avenue. thank you.
+ 1@$% i need a poi_type_1.  1@$% poi_1 is distance_1.  1@$% farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you!  1@$% sure, it's just distance_1 at 657 ames avenue.  1@$% please give me a quick route to the poi_type_1 poi_1 distance_1 at 657 ames avenue. thank you.  1@$% setting route to 657 ames avenue now.  1@$% thank you car!
+ 1@$% what is my poi_type_1's address?
+ 1@$% what is my poi_type_1's address?  1@$% jill or jack?  1@$% what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest?
+ 1@$% what is my poi_type_1's address?  1@$% jill or jack?  1@$% what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest?  1@$% jack is closer.  1@$% what is the address of my friend poi_2?
+ 1@$% what is my poi_type_1's address?  1@$% jill or jack?  1@$% what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest?  1@$% jack is closer.  1@$% what is the address of my friend poi_2?  1@$% 864 almanor ln, it's 3 miles away, i sent his address on your screen.  1@$% thanks.
+ 1@$% i have an event_1 at time_1 on date_1 with party_1.
+ 1@$% i have an event_1 at time_1 on date_1 with party_1.  1@$% okay making event_1 with party_1 on date_1 at time_1.  1@$% thanks!
+ 1@$% will it weather_attribute_1 in location_1 in the date_1?
+ 1@$% will it weather_attribute_1 in location_1 in the date_1?  1@$% it will not weather_attribute_1 in location_1 date_1.  1@$% thank you.
+ 1@$% where is my poi_1?
+ 1@$% where is my poi_1?  1@$% you live at address_1.  1@$% yes, yes, right, i need my morning coffee.. please pick the distance_1 to go back poi_1 at address_1!
+ 1@$% where is my poi_1?  1@$% you live at address_1.  1@$% yes, yes, right, i need my morning coffee.. please pick the distance_1 to go back poi_1 at address_1!  1@$% we're 2 miles away and there is no traffic, i sent the route on your screen, keep your eyes open on the road!  1@$% thank you car!
+ 1@$% find me a distance_1 poi_type_1 where i can sit and have some coffee.
+ 1@$% find me a distance_1 poi_type_1 where i can sit and have some coffee.  1@$% the poi_1 is located at address_1, it is distance_3 with moderate traffic.  1@$% that's great! please send me the address of the poi_type_1 poi_1 distance_3 at address_1 on screen and pick the distance_2 to the poi_type_1 poi_1 distance_3 at address_1 for me.
+ 1@$% where is the distance_1 poi_type_1?
+ 1@$% where is the distance_1 poi_type_1?  1@$% poi_1 is distance_2.  1@$% do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2?
+ 1@$% where is the distance_1 poi_type_1?  1@$% poi_1 is distance_2.  1@$% do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2?  1@$% poi_1 route is reporting a car collision nearby. do you still want to go there?  1@$% yes i need to rest.
+ 1@$% where is the distance_1 poi_type_1?  1@$% poi_1 is distance_2.  1@$% do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2?  1@$% poi_1 route is reporting a car collision nearby. do you still want to go there?  1@$% yes i need to rest.  1@$% i sent the best available route on your screen, drive carefully!  1@$% thanks!
+ 1@$% what time is the event_1 and who is going?
+ 1@$% what time is the event_1 and who is going?  1@$% i have two, one at 1 pm with father, and one at 7 pm with party_1.  1@$% what time is the event_1 with party_1 and who is going to the event_1 with party_1?
+ 1@$% what time is the event_1 and who is going?  1@$% i have two, one at 1 pm with father, and one at 7 pm with party_1.  1@$% what time is the event_1 with party_1 and who is going to the event_1 with party_1?  1@$% the event_1 with party_1 is at 7 pm.  1@$% thanks!
+ 1@$% will it weather_attribute_1 date_1.
+ 1@$% will it weather_attribute_1 date_1.  1@$% for which city would you like to know if there is going to be weather_attribute_1 date_1?  1@$% will it weather_attribute_1 date_1 in location_1.
+ 1@$% will it weather_attribute_1 date_1.  1@$% for which city would you like to know if there is going to be weather_attribute_1 date_1?  1@$% will it weather_attribute_1 date_1 in location_1.  1@$% it will drizzle tuesday, saturday, and sunday in location_1.  1@$% thanks.
+ 1@$% what is date_1's forecast.
+ 1@$% what is date_1's forecast.  1@$% what city would you like date_1's forecast for?  1@$% what is date_1's forecast in location_1.
+ 1@$% what is date_1's forecast.  1@$% what city would you like date_1's forecast for?  1@$% what is date_1's forecast in location_1.  1@$% date_1 in location_1 it is cloudy with a temperature between 70- 80f.  1@$% okay, thank you.
+ 1@$% give me directions to the nearest poi_type_1.
+ 1@$% give me directions to the nearest poi_type_1.  1@$% navigating you to poi_1 poi_1.  1@$% can you give me the quickest route to the poi_type_1 poi_1 poi_1?
+ 1@$% give me directions to the nearest poi_type_1.  1@$% navigating you to poi_1 poi_1.  1@$% can you give me the quickest route to the poi_type_1 poi_1 poi_1?  1@$% setting gps to quickest route for poi_1 poi_1 which has no traffic.  1@$% thank you car, please send me the address of the poi_type_1 poi_1 poi_1 on screen!
+ 1@$% is it weather_attribute_1 in location_1 date_1?
+ 1@$% is it weather_attribute_1 in location_1 date_1?  1@$% it is not weather_attribute_1 in location_1 date_1.  1@$% thanks.
+ 1@$% what grocery stores are distance_1?
+ 1@$% what grocery stores are distance_1?  1@$% we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there?  1@$% what is the address of the poi_type_1 poi_1 distance_2?
+ 1@$% what grocery stores are distance_1?  1@$% we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there?  1@$% what is the address of the poi_type_1 poi_1 distance_2?  1@$% poi_1 is at address_1.  1@$% let's go to the poi_type_1 poi_1 distance_2 at address_1 through the route with the distance_3 distance please.
+ 1@$% what grocery stores are distance_1?  1@$% we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there?  1@$% what is the address of the poi_type_1 poi_1 distance_2?  1@$% poi_1 is at address_1.  1@$% let's go to the poi_type_1 poi_1 distance_2 at address_1 through the route with the distance_3 distance please.  1@$% taking you there on the distance_3 distance.  1@$% thanks!
+ 1@$% take me to the distance_1 poi_1 place i can buy groceries.
+ 1@$% take me to the distance_1 poi_1 place i can buy groceries.  1@$% poi_2 is the only grocery store i can find. it is 5 miles away.  1@$% that will be fine, thank you.
+ 1@$% search poi_type_1 near me.
+ 1@$% search poi_type_1 near me.  1@$% there is a four seasons and a hotel keen distance_1.  1@$% give me the address of a poi_type_2 distance_1.
+ 1@$% search poi_type_1 near me.  1@$% there is a four seasons and a hotel keen distance_1.  1@$% give me the address of a poi_type_2 distance_1.  1@$% the nearest poi_type_2 is at 465 arcadia pl.  1@$% thanks!
+ 1@$% what's the weather_attribute_1 going to be like date_1.
+ 1@$% what's the weather_attribute_1 going to be like date_1.  1@$% for what city?  1@$% what's the weather_attribute_1 going to be like date_1 in location_1.
+ 1@$% what's the weather_attribute_1 going to be like date_1.  1@$% for what city?  1@$% what's the weather_attribute_1 going to be like date_1 in location_1.  1@$% date_2's weather_attribute_1 in location_1 will have a low of 30 f and a high of 40f. date_3's weather_attribute_1 will be a low of 80f and a high of 90f.  1@$% thank you!
+ 1@$% i need you to set a reminder for me to event_1. set it for time_1, the date_1 with party_1, please.
+ 1@$% i need you to set a reminder for me to event_1. set it for time_1, the date_1 with party_1, please.  1@$% alright, setting a reminder at time_1 to event_1 on the date_1 with party_1.  1@$% thank you.
+ 1@$% what is poi_type_1?
+ 1@$% what is poi_type_1?  1@$% poi_1 is programmed as address_1.  1@$% please give me the shortest route to poi_1 at address_1.
+ 1@$% what is poi_type_1?  1@$% poi_1 is programmed as address_1.  1@$% please give me the shortest route to poi_1 at address_1.  1@$% the route to poi_1 does not have any traffic, you should arrive quickly being that it is 1 mile away.  1@$% awesome, thank you.
+ 1@$% find the distance_1 poi_type_1.
+ 1@$% find the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 on 269 alger dr.  1@$% ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.
+ 1@$% find the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 on 269 alger dr.  1@$% ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.  1@$% there is a traffic_info_2 on the route to poi_1.  1@$% that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic.
+ 1@$% find the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 on 269 alger dr.  1@$% ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.  1@$% there is a traffic_info_2 on the route to poi_1.  1@$% that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic.  1@$% unfortunately there is a car collision nearby. do you want me to set the gps anyway?  1@$% how distance_2 is the poi_type_1 poi_1 at address_1?
+ 1@$% find the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 on 269 alger dr.  1@$% ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.  1@$% there is a traffic_info_2 on the route to poi_1.  1@$% that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic.  1@$% unfortunately there is a car collision nearby. do you want me to set the gps anyway?  1@$% how distance_2 is the poi_type_1 poi_1 at address_1?  1@$% distance_3.  1@$% yes, please direct me to the poi_type_1 poi_1 distance_3 at address_1 via the route with traffic_info_3
+ 1@$% find the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 on 269 alger dr.  1@$% ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.  1@$% there is a traffic_info_2 on the route to poi_1.  1@$% that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic.  1@$% unfortunately there is a car collision nearby. do you want me to set the gps anyway?  1@$% how distance_2 is the poi_type_1 poi_1 at address_1?  1@$% distance_3.  1@$% yes, please direct me to the poi_type_1 poi_1 distance_3 at address_1 via the route with traffic_info_3  1@$% ok, setting navigation now.  1@$% thank you car assistant.
+ 1@$% next week will it be weather_attribute_1 date_1 in location_1?
+ 1@$% next week will it be weather_attribute_1 date_1 in location_1?  1@$% this week it's not gon na be weather_attribute_1 in location_1.  1@$% thank you car!
+ 1@$% car i need to get poi_1, it should be near me, please highlight its position on the map.
+ 1@$% car i need to get poi_1, it should be near me, please highlight its position on the map.  1@$% your poi_1 is at address_1.  1@$% avoid all traffic_info_1 to poi_1 at address_1 and let's go to poi_1 at address_1, thank you!
+ 1@$% car i need to get poi_1, it should be near me, please highlight its position on the map.  1@$% your poi_1 is at address_1.  1@$% avoid all traffic_info_1 to poi_1 at address_1 and let's go to poi_1 at address_1, thank you!  1@$% setting gps to avoid any traffic_info_1. your route is now set.  1@$% thanks so much.
+ 1@$% what day and time is my event_1?
+ 1@$% what day and time is my event_1?  1@$% your event_1 is on the 4th at 3 pm.  1@$% thanks.
+ 1@$% get me the weather report for date_1.
+ 1@$% get me the weather report for date_1.  1@$% what city would you like the weather report from?  1@$% i wanna know if it will weather_attribute_1 date_1 in location_1.
+ 1@$% get me the weather report for date_1.  1@$% what city would you like the weather report from?  1@$% i wanna know if it will weather_attribute_1 date_1 in location_1.  1@$% it's not gon na weather_attribute_1 in location_1 date_1.  1@$% thank you.
+ 1@$% give me date_1's weather_attribute_1.
+ 1@$% give me date_1's weather_attribute_1.  1@$% what city would you like to know the weather_attribute_1 of?  1@$% give me date_1's weather_attribute_1 for location_1.
+ 1@$% give me date_1's weather_attribute_1.  1@$% what city would you like to know the weather_attribute_1 of?  1@$% give me date_1's weather_attribute_1 for location_1.  1@$% date_1 the highest temperature in location_1 will be 90f on friday and sunday.  1@$% thank you.
+ 1@$% what time is my event_1 for this date_1.
+ 1@$% what time is my event_1 for this date_1.  1@$% your tennis activity is scheduled for time_1 on tuesday, nothing is scheduled for date_1.  1@$% oh okay well thank you car.
+ 1@$% does the forecast say it will weather_attribute_1.
+ 1@$% does the forecast say it will weather_attribute_1.  1@$% what city do you want the weather for?  1@$% does the forecast say it will weather_attribute_1 in location_1.
+ 1@$% does the forecast say it will weather_attribute_1.  1@$% what city do you want the weather for?  1@$% does the forecast say it will weather_attribute_1 in location_1.  1@$% it is not forecasted to weather_attribute_1 in location_1 this week.  1@$% thanks.
+ 1@$% find directions to distance_1 poi_1.
+ 1@$% find directions to distance_1 poi_1.  1@$% there is no poi_1 in your area but there are other coffee places near by. would you like more info?  1@$% yes.
+ 1@$% find directions to distance_1 poi_1.  1@$% there is no poi_1 in your area but there are other coffee places near by. would you like more info?  1@$% yes.  1@$% the distance_1 coffee shop is 2 miles away and the name of it is poi_2. would you like the address?  1@$% yes please.
+ 1@$% find directions to distance_1 poi_1.  1@$% there is no poi_1 in your area but there are other coffee places near by. would you like more info?  1@$% yes.  1@$% the distance_1 coffee shop is 2 miles away and the name of it is poi_2. would you like the address?  1@$% yes please.  1@$% poi_2 is 2 miles away at 583 alester avenue. anything else?  1@$% no that's it for now. thanks.
+ 1@$% where can i get poi_type_1?
+ 1@$% where can i get poi_type_1?  1@$% there is a poi_1 and poi_2 near.  1@$% which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location?
+ 1@$% where can i get poi_type_1?  1@$% there is a poi_1 and poi_2 near.  1@$% which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location?  1@$% poi_2 is closer at 3 miles.  1@$% then pick a quick route to get to the poi_type_1 restaurant poi_2 distance_1, thank you!
+ 1@$% where can i get poi_type_1?  1@$% there is a poi_1 and poi_2 near.  1@$% which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location?  1@$% poi_2 is closer at 3 miles.  1@$% then pick a quick route to get to the poi_type_1 restaurant poi_2 distance_1, thank you!  1@$% setting navigation to poi_2 at 110 arastradero rd. anything else?  1@$% that will be all, thanks!
+ 1@$% set a reminder about my event_1 date_1 at time_1.
+ 1@$% set a reminder about my event_1 date_1 at time_1.  1@$% your event_1 has been set for time_1 date_1, the date_2.... is that correct?  1@$% yes, that is correct. thank you!
+ 1@$% what route can i take poi_1 to traffic_info_1.
+ 1@$% what route can i take poi_1 to traffic_info_1.  1@$% in this moment there is moderate traffic on our way but since we're just distance_1 it should n't take too long to reach poi_1. i sent the route on your screen.  1@$% ok, thanks for directions to poi_1 distance_1 via a route with the traffic_info_2.
+ 1@$% what route can i take poi_1 to traffic_info_1.  1@$% in this moment there is moderate traffic on our way but since we're just distance_1 it should n't take too long to reach poi_1. i sent the route on your screen.  1@$% ok, thanks for directions to poi_1 distance_1 via a route with the traffic_info_2.  1@$% setting directions to 5672 barringer street now.  1@$% thank you car assistant for the help.
+ 1@$% give me directions to poi_1.
+ 1@$% give me directions to poi_1.  1@$% there are no nearby poi_1, but there are 3 other coffee places nearby.  1@$% please send me directions for the poi_type_1 distance_1.
+ 1@$% give me directions to poi_1.  1@$% there are no nearby poi_1, but there are 3 other coffee places nearby.  1@$% please send me directions for the poi_type_1 distance_1.  1@$% setting directions to poi_2, located 2 miles away at 394 van ness ave.  1@$% thank you!
+ 1@$% what is the forecast for date_1.
+ 1@$% what is the forecast for date_1.  1@$% what city do you want the weather for?  1@$% will it be weather_attribute_1 in downtown location_1 date_2 or date_3?
+ 1@$% what is the forecast for date_1.  1@$% what city do you want the weather for?  1@$% will it be weather_attribute_1 in downtown location_1 date_2 or date_3?  1@$% there will be no weather_attribute_1 date_1 in location_1. the forecast for monday is hot, low of 80f, high of 90f. the forecast for tuesday will be snow, low of 60f, high of 70f.  1@$% very nice to know, thanks.
+ 1@$% find a poi_type_1 that i can get to with the traffic_info_1.
+ 1@$% find a poi_type_1 that i can get to with the traffic_info_1.  1@$% poi_1 is the only one nearby but here is traffic_info_2.  1@$% well i guess it will have to do. set the gps for the poi_1 poi_type_2 with traffic_info_2 please.
+ 1@$% what is the forecast for the city date_1.
+ 1@$% what is the forecast for the city date_1.  1@$% which city do you want the weather forecast for?  1@$% what is the forecast for location_1 date_1.
+ 1@$% what is the forecast for the city date_1.  1@$% which city do you want the weather forecast for?  1@$% what is the forecast for location_1 date_1.  1@$% in location_1 it will be frosty on monday, overcast on tuesday, raining on wednesday, foggy on thursday, drizzle on friday and saturday, dry on sunday.  1@$% thank you!
+ 1@$% is it supposed to weather_attribute_1 date_1.
+ 1@$% is it supposed to weather_attribute_1 date_1.  1@$% what location do you want the weather for?  1@$% is it supposed to weather_attribute_1 date_1 in location_1.
+ 1@$% is it supposed to weather_attribute_1 date_1.  1@$% what location do you want the weather for?  1@$% is it supposed to weather_attribute_1 date_1 in location_1.  1@$% there will be no weather_attribute_1 date_1 in location_1.  1@$% thanks.
+ 1@$% can you set a reminder for a event_1 at time_1 on the date_1.
+ 1@$% can you set a reminder for a event_1 at time_1 on the date_1.  1@$% okay, i am scheduling a event_1 for you on the date_1 at time_1.  1@$% can you set a reminder for a event_1 at time_1 on the date_1 with my party_1.
+ 1@$% can you set a reminder for a event_1 at time_1 on the date_1.  1@$% okay, i am scheduling a event_1 for you on the date_1 at time_1.  1@$% can you set a reminder for a event_1 at time_1 on the date_1 with my party_1.  1@$% your party_1 has been added to parties involved for your event_1 at time_1 on the date_1.  1@$% perfect.
+ 1@$% find me chinese restaurants distance_1 of my current location.
+ 1@$% find me chinese restaurants distance_1 of my current location.  1@$% there is a poi_1 poi_1 distance_2.  1@$% could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1?
+ 1@$% find me chinese restaurants distance_1 of my current location.  1@$% there is a poi_1 poi_1 distance_2.  1@$% could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1?  1@$% alright, the route to 113 arbol drive is distance_2 with a traffic_info_2.  1@$% please set the gps to go to the poi_type_1 poi_1 poi_1 distance_2 at 113 arbol drive with a traffic_info_2, thank you!
+ 1@$% find me chinese restaurants distance_1 of my current location.  1@$% there is a poi_1 poi_1 distance_2.  1@$% could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1?  1@$% alright, the route to 113 arbol drive is distance_2 with a traffic_info_2.  1@$% please set the gps to go to the poi_type_1 poi_1 poi_1 distance_2 at 113 arbol drive with a traffic_info_2, thank you!  1@$% navigation is set. drive carefully, and enjoy.  1@$% thank you.
+ 1@$% where can i get a poi_type_1?
+ 1@$% where can i get a poi_type_1?  1@$% poi_1 is distance_1.  1@$% is there a quick route to reach the poi_type_1 shop poi_1 distance_1?
+ 1@$% where can i get a poi_type_1?  1@$% poi_1 is distance_1.  1@$% is there a quick route to reach the poi_type_1 shop poi_1 distance_1?  1@$% unfortunately poi_1 is the only poi_type_1 place i can find. it is distance_1 through traffic_info_1, located at 145 amherst st.  1@$% well, it is what it is. let's navigate to the poi_type_1 place poi_1 distance_1 at address_1 with traffic_info_1 now.
+ 1@$% schedule a event_1 with my party_1 for date_1 at time_1.
+ 1@$% schedule a event_1 with my party_1 for date_1 at time_1.  1@$% okay, scheduling a event_1 with your party_1 for date_1 at time_1.  1@$% thanks.
+ 1@$% check the weather forecast.
+ 1@$% check the weather forecast.  1@$% for what location and time?  1@$% will it be weather_attribute_1 in location_1 date_1?
+ 1@$% check the weather forecast.  1@$% for what location and time?  1@$% will it be weather_attribute_1 in location_1 date_1?  1@$% no, it will not be weather_attribute_1 in location_1 date_1. date_1's forecast is rain, with a low of 20f and a high of 40f.  1@$% thank you!
+ 1@$% is there a chinese place that has traffic_info_1 on the way?
+ 1@$% is there a chinese place that has traffic_info_1 on the way?  1@$% poi_1 poi_1 is 2 miles away in light traffic. would you like directions there?  1@$% yes, please!
+ 1@$% is there a chinese place that has traffic_info_1 on the way?  1@$% poi_1 poi_1 is 2 miles away in light traffic. would you like directions there?  1@$% yes, please!  1@$% poi_1 poi_1 is at 113 arbol dr. do you need me to set the navigation?  1@$% sure, thank you car!
+ 1@$% what is the date of my next event_1 and who will be attending?
+ 1@$% what is the date of my next event_1 and who will be attending?  1@$% i have two, one on thursday with tom, and one on the 3rd with alex.  1@$% what is the date of my next event_1 and who will be attending the event_1?
+ 1@$% can you find out the parties attending and time for my optometrist appointment?
+ 1@$% can you find out the parties attending and time for my optometrist appointment?  1@$% i have four, one with alex at 5 pm on saturday, one with your sister at 2 pm on the 5th, one with jeff on the 6th, and one with martha on thursday. which one?  1@$% that will do, thank you kindly.
+ 1@$% where is the distance_2 poi_type_1?
+ 1@$% where is the distance_2 poi_type_1?  1@$% there is a poi_type_1 distance_1. it's poi_1. would you like more details?  1@$% yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1.
+ 1@$% where is the distance_2 poi_type_1?  1@$% there is a poi_type_1 distance_1. it's poi_1. would you like more details?  1@$% yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1.  1@$% here is the best route to poi_1.  1@$% what is the address of the poi_type_1 poi_1 distance_1?
+ 1@$% where is the distance_2 poi_type_1?  1@$% there is a poi_type_1 distance_1. it's poi_1. would you like more details?  1@$% yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1.  1@$% here is the best route to poi_1.  1@$% what is the address of the poi_type_1 poi_1 distance_1?  1@$% address_1: do you want me to send the route on your screen?  1@$% yes please that sounds great.
+ 1@$% where is the distance_2 poi_type_1?  1@$% there is a poi_type_1 distance_1. it's poi_1. would you like more details?  1@$% yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1.  1@$% here is the best route to poi_1.  1@$% what is the address of the poi_type_1 poi_1 distance_1?  1@$% address_1: do you want me to send the route on your screen?  1@$% yes please that sounds great.  1@$% plotting route to address_1, distance_1 with car collision nearby.  1@$% thank you car!
+ 1@$% car i need a poi_1 to feed you: is there anything around here?
+ 1@$% car i need a poi_1 to feed you: is there anything around here?  1@$% there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer?  1@$% please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you!
+ 1@$% car i need a poi_1 to feed you: is there anything around here?  1@$% there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer?  1@$% please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you!  1@$% directions to poi_2 are on your screen.  1@$% where is the poi_1 poi_2 located?
+ 1@$% car i need a poi_1 to feed you: is there anything around here?  1@$% there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer?  1@$% please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you!  1@$% directions to poi_2 are on your screen.  1@$% where is the poi_1 poi_2 located?  1@$% poi_2 is located at address_1 and has a road block reported.  1@$% then let's go to the poi_1 poi_2 at address_1, thank you!
+ 1@$% what day is my event_1 and who is coming with?
+ 1@$% what day is my event_1 and who is coming with?  1@$% currently you have two lab appointments. one on the 3rd which martha is attending, and one on the 13th that your brother is attending.  1@$% thank you for your help.
+ 1@$% i have a event_1 on the 12th of august at time_1 please remind me.
+ 1@$% i have a event_1 on the 12th of august at time_1 please remind me.  1@$% i have set a reminder for your event_1 on august 12th at time_1  1@$% thank you.
+ 1@$% car i need to go back poi_1, please pick the distance_1 way with traffic_info_1.
+ 1@$% car i need to go back poi_1, please pick the distance_1 way with traffic_info_1.  1@$% the only route i currently have to poi_1 currently has heavy traffic. would you like me to set your gps anyway?  1@$% it's okay, just pick the distance_1 route to get poi_1, thank you!
+ 1@$% car i need to go back poi_1, please pick the distance_1 way with traffic_info_1.  1@$% the only route i currently have to poi_1 currently has heavy traffic. would you like me to set your gps anyway?  1@$% it's okay, just pick the distance_1 route to get poi_1, thank you!  1@$% taking you on the distance_1 way poi_1.  1@$% thank you car!
+ 1@$% navigate me to the distance_1 poi_type_1.
+ 1@$% navigate me to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is the poi_1.  1@$% send me the address of the poi_type_1 poi_1 on screen.
+ 1@$% navigate me to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is the poi_1.  1@$% send me the address of the poi_type_1 poi_1 on screen.  1@$% the poi_1 poi_type_1 is located at address_1.  1@$% set gps for distance_2 available route to the poi_type_1 poi_1 at address_1.
+ 1@$% navigate me to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is the poi_1.  1@$% send me the address of the poi_type_1 poi_1 on screen.  1@$% the poi_1 poi_type_1 is located at address_1.  1@$% set gps for distance_2 available route to the poi_type_1 poi_1 at address_1.  1@$% gps set. anything else?  1@$% that's it, thank you car!
+ 1@$% what's the weather forecast for the date_1.
+ 1@$% what's the weather forecast for the date_1.  1@$% what city are you inquiring about?  1@$% what's the weather forecast for the date_1 in location_1.
+ 1@$% what's the weather forecast for the date_1.  1@$% what city are you inquiring about?  1@$% what's the weather forecast for the date_1 in location_1.  1@$% in the date_1 in location_1 it will be dry on monday, raining on tuesday, 	 hail on wednesday and thursday, hot on friday, overcast on saturday, frost on sunday.  1@$% thank you!
+ 1@$% start listening what will be the weather for the date_1.
+ 1@$% start listening what will be the weather for the date_1.  1@$% for what city do you need the weekly forecast?  1@$% start listening what will be the weather for the date_1 in location_1.
+ 1@$% start listening what will be the weather for the date_1.  1@$% for what city do you need the weekly forecast?  1@$% start listening what will be the weather for the date_1 in location_1.  1@$% the weather in location_1 during the next date_1 will be humid on monday, clear skies on tuesday, stormy on wednesday, raining on thursday, windy on friday, raining again on saturday and sunday.  1@$% thank you so much car!
+ 1@$% schedule a event_1 at time_1 on date_1 the 1st with party_1.
+ 1@$% schedule a event_1 at time_1 on date_1 the 1st with party_1.  1@$% okay, scheduling event_1 with party_1 for date_1 the 1st at time_1.  1@$% thanks!
+ 1@$% will the weather be weather_attribute_1 in location_1 over the date_1?
+ 1@$% will the weather be weather_attribute_1 in location_1 over the date_1?  1@$% it will not be weather_attribute_1 in location_1 this week.  1@$% thank you.
+ 1@$% address to the poi_type_1.
+ 1@$% address to the poi_type_1.  1@$% poi_1 is located at address_1.  1@$% ok, please give me directions to the poi_type_1 poi_1 at address_1 via a traffic_info_1.
+ 1@$% address to the poi_type_1.  1@$% poi_1 is located at address_1.  1@$% ok, please give me directions to the poi_type_1 poi_1 at address_1 via a traffic_info_1.  1@$% since there is a road block nearby, i found another route for you and i sent it on your screen.  1@$% awesome thank you.
+ 1@$% is it going to be weather_attribute_1 in the next date_1.
+ 1@$% is it going to be weather_attribute_1 in the next date_1.  1@$% for what city would you like the forecast?  1@$% is it going to be weather_attribute_1 in the next date_1 in location_1.
+ 1@$% schedule a event_1 with my party_1 for date_1 at time_1.
+ 1@$% schedule a event_1 with my party_1 for date_1 at time_1.  1@$% setting a schedule for event_1 with party_1 for date_1 at time_1.  1@$% thank you buddy.
+ 1@$% date_1 are there weather_attribute_1 skies in location_1?
+ 1@$% date_1 are there weather_attribute_1 skies in location_1?  1@$% there date_1 are no weather_attribute_1 skies in location_1.  1@$% thank you.
+ 1@$% will it weather_attribute_1 in location_1 date_1?
+ 1@$% will it weather_attribute_1 in location_1 date_1?  1@$% on tuesday there will be weather_attribute_1 in location_1.  1@$% thank you very much car!
+ 1@$% check weather_attribute_1 for date_1.
+ 1@$% check weather_attribute_1 for date_1.  1@$% what city should i check the weather_attribute_1 for?  1@$% find out the weather_attribute_1 for date_1 in location_1.
+ 1@$% check weather_attribute_1 for date_1.  1@$% what city should i check the weather_attribute_1 for?  1@$% find out the weather_attribute_1 for date_1 in location_1.  1@$% in location_1 there will be rain date_2, and it will be stormy date_3.  1@$% thank you!
+ 1@$% schedule a event_1.
+ 1@$% schedule a event_1.  1@$% what date and time are you event_1?  1@$% schedule a event_1 date_1 at time_1.
+ 1@$% schedule a event_1.  1@$% what date and time are you event_1?  1@$% schedule a event_1 date_1 at time_1.  1@$% your event_1 has been scheduled for date_1 at 1pm.  1@$% perfect.
+ 1@$% what's the weather going to be like in the city on date_1.
+ 1@$% what's the weather going to be like in the city on date_1.  1@$% what city do you want to hear date_1's weather for?  1@$% will it be weather_attribute_1 in location_1 on date_1?
+ 1@$% what's the weather going to be like in the city on date_1.  1@$% what city do you want to hear date_1's weather for?  1@$% will it be weather_attribute_1 in location_1 on date_1?  1@$% it will be cloudy in location_1 on date_1.  1@$% thanks so much.
+ 1@$% i need to locate a poi_type_1.
+ 1@$% i need to locate a poi_type_1.  1@$% poi_1 and poi_2 are both near.  1@$% which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1?
+ 1@$% i need to locate a poi_type_1.  1@$% poi_1 and poi_2 are both near.  1@$% which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1?  1@$% poi_1 is only 2 miles away and poi_2 is distance_2.  1@$% since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2.
+ 1@$% i need to locate a poi_type_1.  1@$% poi_1 and poi_2 are both near.  1@$% which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1?  1@$% poi_1 is only 2 miles away and poi_2 is distance_2.  1@$% since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2.  1@$% .  1@$% i repeat: please tell me about the poi_type_1 poi_2 distance_2: which one is it the distance_3 to go to the poi_type_1 poi_2 distance_2?
+ 1@$% i need to locate a poi_type_1.  1@$% poi_1 and poi_2 are both near.  1@$% which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1?  1@$% poi_1 is only 2 miles away and poi_2 is distance_2.  1@$% since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2.  1@$% .  1@$% i repeat: please tell me about the poi_type_1 poi_2 distance_2: which one is it the distance_3 to go to the poi_type_1 poi_2 distance_2?  1@$% its address is 383 university ave, i sent the position on your screen.  1@$% thank you car!
+ 1@$% what time do i have to take event_1 and who is helping?
+ 1@$% what time do i have to take event_1 and who is helping?  1@$% i have you set for two. one at 6 pm and one at time_1.  1@$% who will be helping me for the take event_1 at time_1?
+ 1@$% what time do i have to take event_1 and who is helping?  1@$% i have you set for two. one at 6 pm and one at time_1.  1@$% who will be helping me for the take event_1 at time_1?  1@$% mother is one the helping at time_1. anything else?  1@$% nope, thank you.
+ 1@$% what will the weather be like in the city.
+ 1@$% what will the weather be like in the city.  1@$% where would you like to hear the weather forecast from?  1@$% i want to know if there are weather_attribute_1 in location_1 date_1.
+ 1@$% what will the weather be like in the city.  1@$% where would you like to hear the weather forecast from?  1@$% i want to know if there are weather_attribute_1 in location_1 date_1.  1@$% there will be no weather_attribute_1 in location_1 today, the weather will be a blizzard, low of 50f, high of 60f.  1@$% thank you!
+ 1@$% take me to a poi_type_1.
+ 1@$% take me to a poi_type_1.  1@$% poi_1 located at 593 arrowhead way is 4 miles away, there is n't any traffic on this route.  1@$% thank you!
+ 1@$% set a reminder for my daughter's event_1.
+ 1@$% set a reminder for my daughter's event_1.  1@$% okay, for what time and day?  1@$% set a reminder for my daughter's event_1 for time_1 on the date_1.
+ 1@$% set a reminder for my daughter's event_1.  1@$% okay, for what time and day?  1@$% set a reminder for my daughter's event_1 for time_1 on the date_1.  1@$% i am setting a reminder for event_1 at time_1   on the date_1.  1@$% thank you car.
+ 1@$% what's the weather like in location_1.
+ 1@$% what's the weather like in location_1.  1@$% the weather in location_1 is foggy.  1@$% okay great. will there be weather_attribute_1 in the date_1 in location_1?
+ 1@$% what's the weather like in location_1.  1@$% the weather in location_1 is foggy.  1@$% okay great. will there be weather_attribute_1 in the date_1 in location_1?  1@$% no, the weather is n't going to be good in location_1 in next days.  1@$% great thank you.
+ 1@$% schedule a event_1 with party_1 for date_1 august 8th at time_1.
+ 1@$% schedule a event_1 with party_1 for date_1 august 8th at time_1.  1@$% your event_1 with party_1 has been scheduled for date_1 at time_1.  1@$% thank you.
+ 1@$% set a reminder to event_1 on date_1 at time_1 with my party_1.
+ 1@$% set a reminder to event_1 on date_1 at time_1 with my party_1.  1@$% setting a reminder to event_1 on date_1 at time_1 with your party_1.  1@$% thanks.
+ 1@$% will it be weather_attribute_1 in location_1 date_1?
+ 1@$% will it be weather_attribute_1 in location_1 date_1?  1@$% tuesday, wednesday, and sunday appear to be the weather_attribute_1 days expected in location_1 date_1.  1@$% thank you.
+ 1@$% what's the weather_attribute_1.
+ 1@$% what's the weather_attribute_1.  1@$% what city are you wanting to know the weather_attribute_1 for?  1@$% what's the weather_attribute_1 in location_1.
+ 1@$% what's the weather_attribute_1.  1@$% what city are you wanting to know the weather_attribute_1 for?  1@$% what's the weather_attribute_1 in location_1.  1@$% it is currently overcast with a low of 60f and a high of 80f in location_1.  1@$% thank you!
+ 1@$% what is the forecast for location_1.
+ 1@$% what is the forecast for location_1.  1@$% what days are you interested in?  1@$% is there a weather_attribute_1 date_1 in location_1?
+ 1@$% what is the forecast for location_1.  1@$% what days are you interested in?  1@$% is there a weather_attribute_1 date_1 in location_1?  1@$% no, there is not a weather_attribute_1 in new york right date_1.  1@$% okay, great. thanks!
+ 1@$% where does   my poi_type_1 live?
+ 1@$% where does   my poi_type_1 live?  1@$% jack or jill?  1@$% mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach?
+ 1@$% where does   my poi_type_1 live?  1@$% jack or jill?  1@$% mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach?  1@$% poi_2 is distance_1, while jacks house is 4 miles. there is traffic_info_1 to both locations.  1@$% let's head to my poi_type_1 poi_2 distance_1 with traffic_info_1, then.
+ 1@$% where does   my poi_type_1 live?  1@$% jack or jill?  1@$% mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach?  1@$% poi_2 is distance_1, while jacks house is 4 miles. there is traffic_info_1 to both locations.  1@$% let's head to my poi_type_1 poi_2 distance_1 with traffic_info_1, then.  1@$% displaying gps now.  1@$% thanks.
+ 1@$% is it going to weather_attribute_1 in location_1 date_1?
+ 1@$% is it going to weather_attribute_1 in location_1 date_1?  1@$% there is no weather_attribute_1 in the forecast for today in location_1.  1@$% thanks.
+ 1@$% please add event_1 to my schedule.
+ 1@$% please add event_1 to my schedule.  1@$% what day and time should i add event_1 to your schedule?  1@$% please add event_1 to my schedule on date_1 at time_1.
+ 1@$% please add event_1 to my schedule.  1@$% what day and time should i add event_1 to your schedule?  1@$% please add event_1 to my schedule on date_1 at time_1.  1@$% okay, adding event_1 to your calendar, on date_1 at time_1.  1@$% perfect. thank you.
+ 1@$% i'd like to know where i can get some poi_type_1.
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more?  1@$% let's try the poi_type_2 poi_1 poi_1 distance_1.
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more?  1@$% let's try the poi_type_2 poi_1 poi_1 distance_1.  1@$% i sent its position and the route to reach it on your screen, do n't speed too much.  1@$% what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1?
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more?  1@$% let's try the poi_type_2 poi_1 poi_1 distance_1.  1@$% i sent its position and the route to reach it on your screen, do n't speed too much.  1@$% what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1?  1@$% poi_1 poi_1 is at 113 arbol dr. there is a road block nearby. shall i give you directions?  1@$% yes please give me directions to the poi_type_2 poi_1 poi_1 distance_1 at address_1 via the distance_2.
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more?  1@$% let's try the poi_type_2 poi_1 poi_1 distance_1.  1@$% i sent its position and the route to reach it on your screen, do n't speed too much.  1@$% what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1?  1@$% poi_1 poi_1 is at 113 arbol dr. there is a road block nearby. shall i give you directions?  1@$% yes please give me directions to the poi_type_2 poi_1 poi_1 distance_1 at address_1 via the distance_2.  1@$% i sent the best route on your screen, enjoy your trip!  1@$% thank you car!
+ 1@$% i have a event_1 with party_1 at time_1 at the date_1.
+ 1@$% i have a event_1 with party_1 at time_1 at the date_1.  1@$% okay great, would you like to set a reminder for it?  1@$% yes, please.
+ 1@$% i have a event_1 with party_1 at time_1 at the date_1.  1@$% okay great, would you like to set a reminder for it?  1@$% yes, please.  1@$% okay, i just set that reminder for you. can i help with anything else?  1@$% thank you.
+ 1@$% check weather for location_1.
+ 1@$% check weather for location_1.  1@$% new york is supposed to be fair with a chance of rain on saturday with the highs in the 90s and lows in the 20s.  1@$% thanks.
+ 1@$% give me the time for my next event_1.
+ 1@$% give me the time for my next event_1.  1@$% your next event_1 is thursday at time_1.  1@$% okay perfect.
+ 1@$% give me weather forecast for date_1.
+ 1@$% give me weather forecast for date_1.  1@$% what location do you want the weather for?  1@$% will it be weather_attribute_1 date_1 in location_1?
+ 1@$% give me weather forecast for date_1.  1@$% what location do you want the weather for?  1@$% will it be weather_attribute_1 date_1 in location_1?  1@$% it is not predicted to be weather_attribute_1 in location_1 date_1.  1@$% thanks.
+ 1@$% set calendar reminder for time_1 this date_1 with my party_1.
+ 1@$% set calendar reminder for time_1 this date_1 with my party_1.  1@$% sure, a calender reminder has been set for time_1 this upcoming tuesday with your party_1.  1@$% thank you!
+ 1@$% tell me the best route to get poi_1 with the traffic_info_1.
+ 1@$% tell me the best route to get poi_1 with the traffic_info_1.  1@$% navigating you poi_1 with the least traffic.  1@$% thank you car, send the address of poi_1 on the screen with the fastest route too.
+ 1@$% tell me the best route to get poi_1 with the traffic_info_1.  1@$% navigating you poi_1 with the least traffic.  1@$% thank you car, send the address of poi_1 on the screen with the fastest route too.  1@$% the address to your poi_1 is 56 cadwell street. setting gps for the fastest route now.  1@$% great job, thanks.
+ 1@$% find me the poi_type_1.
+ 1@$% find me the poi_type_1.  1@$% we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.
+ 1@$% find me the poi_type_1.  1@$% we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.  1@$% setting navigation to address_1 now.  1@$% please pick the traffic_info_1 to the poi_type_2 poi_1 distance_1 at address_1, thanks!
+ 1@$% find me the poi_type_1.  1@$% we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.  1@$% setting navigation to address_1 now.  1@$% please pick the traffic_info_1 to the poi_type_2 poi_1 distance_1 at address_1, thanks!  1@$% yes, i will navigate you via the traffic_info_1.  1@$% thank you car!
+ 1@$% is it going to weather_attribute_1 date_1.
+ 1@$% is it going to weather_attribute_1 date_1.  1@$% what city would you like the forecast for?  1@$% is it going to weather_attribute_1 date_1 in location_1.
+ 1@$% i'd like to know where i can get some poi_type_1.
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% poi_1 is a poi_type_2 nearby.  1@$% can you show me the quickest route to the poi_type_2 poi_1?
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% poi_1 is a poi_type_2 nearby.  1@$% can you show me the quickest route to the poi_type_2 poi_1?  1@$% currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now?  1@$% is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1?
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% poi_1 is a poi_type_2 nearby.  1@$% can you show me the quickest route to the poi_type_2 poi_1?  1@$% currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now?  1@$% is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1?  1@$% no, poi_1 is the only one i have listed.  1@$% what is the address of the poi_type_2 poi_1?
+ 1@$% i'd like to know where i can get some poi_type_1.  1@$% poi_1 is a poi_type_2 nearby.  1@$% can you show me the quickest route to the poi_type_2 poi_1?  1@$% currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now?  1@$% is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1?  1@$% no, poi_1 is the only one i have listed.  1@$% what is the address of the poi_type_2 poi_1?  1@$% poi_1 is located at address_1.  1@$% thank you, let's go to the poi_type_2 poi_1 at address_1!
+ 1@$% car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please.
+ 1@$% car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please.  1@$% here is a route to poi_1, distance_2.  1@$% make sure the route to the poi_type_1 place poi_1 distance_2 is the quickest please.
+ 1@$% car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please.  1@$% here is a route to poi_1, distance_2.  1@$% make sure the route to the poi_type_1 place poi_1 distance_2 is the quickest please.  1@$% there is n't any traffic, heading to 792 bedoin street.  1@$% great, thanks.
+ 1@$% will it be weather_attribute_1 in location_1 this date_1?
+ 1@$% will it be weather_attribute_1 in location_1 this date_1?  1@$% it will be weather_attribute_1 on sunday in location_1.  1@$% thanks.
+ 1@$% will it weather_attribute_1 date_1.
+ 1@$% will it weather_attribute_1 date_1.  1@$% which city would you like to find out if it's snowing in?  1@$% will it weather_attribute_1 date_1 in location_1.
+ 1@$% will it weather_attribute_1 date_1.  1@$% which city would you like to find out if it's snowing in?  1@$% will it weather_attribute_1 date_1 in location_1.  1@$% weather_attribute_1 is predicted to fall in location_1 today.  1@$% thank you car.
+ 1@$% find directions to the distance_1 poi_1.
+ 1@$% find directions to the distance_1 poi_1.  1@$% there is no poi_1 nearby, the poi_2 is distance_2. would you like directions there?  1@$% yes, please give me the address of the poi_2 distance_2 and directions to the poi_2 distance_2 via a route with traffic_info_1.
+ 1@$% find directions to the distance_1 poi_1.  1@$% there is no poi_1 nearby, the poi_2 is distance_2. would you like directions there?  1@$% yes, please give me the address of the poi_2 distance_2 and directions to the poi_2 distance_2 via a route with traffic_info_1.  1@$% the poi_2 is reporting heavy traffic but i will still find the quickest route to 436 alger dr.  1@$% thank you for all your help.
+ 1@$% what's the weather_attribute_1 for date_1.
+ 1@$% what's the weather_attribute_1 for date_1.  1@$% what city should i check the weather_attribute_1 for?  1@$% well, i need to know the weather_attribute_1 for location_1, date_1.
+ 1@$% what's the weather_attribute_1 for date_1.  1@$% what city should i check the weather_attribute_1 for?  1@$% well, i need to know the weather_attribute_1 for location_1, date_1.  1@$% the weather_attribute_1 for location_1 date_1 will be low of 60f, high of 80f, and also cloudy.  1@$% thank you!
+ 1@$% where is the distance_1 poi_type_1.
+ 1@$% where is the distance_1 poi_type_1.  1@$% there is the poi_type_2 p.f. changs at address_1, it's just distance_3.  1@$% set gps for the distance_2 route to the poi_type_2 p.f. changs distance_3 at address_1 with traffic_info_1 of traffic.
+ 1@$% where is the distance_1 poi_type_1.  1@$% there is the poi_type_2 p.f. changs at address_1, it's just distance_3.  1@$% set gps for the distance_2 route to the poi_type_2 p.f. changs distance_3 at address_1 with traffic_info_1 of traffic.  1@$% p.f. changs has no traffic at the moment. i am setting the navigation and we should arrive soon.  1@$% that's great, thank you car!
+ 1@$% give me the date_1 weather forecast.
+ 1@$% give me the date_1 weather forecast.  1@$% what city do you want to know the date_1 forecast for?  1@$% will it weather_attribute_1 during 7 days in location_1?
+ 1@$% give me the date_1 weather forecast.  1@$% what city do you want to know the date_1 forecast for?  1@$% will it weather_attribute_1 during 7 days in location_1?  1@$% the weather forecast predicts it will weather_attribute_1 on saturday.  1@$% okay thanks.
+ 1@$% give me directions to the distance_1 poi_type_1 food restaurant.
+ 1@$% give me directions to the distance_1 poi_type_1 food restaurant.  1@$% the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address?  1@$% just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please!
+ 1@$% give me directions to the distance_1 poi_type_1 food restaurant.  1@$% the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address?  1@$% just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please!  1@$% the address of p.f. changs is address_1. we should be there shortly.  1@$% pick a route to the poi_type_1 restaurant p.f. chang's distance_2 at address_1 with no traffic and let's go to the poi_type_1 restaurant p.f. chang's distance_2 at address_1. thank you!
+ 1@$% give me directions to the distance_1 poi_type_1 food restaurant.  1@$% the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address?  1@$% just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please!  1@$% the address of p.f. changs is address_1. we should be there shortly.  1@$% pick a route to the poi_type_1 restaurant p.f. chang's distance_2 at address_1 with no traffic and let's go to the poi_type_1 restaurant p.f. chang's distance_2 at address_1. thank you!  1@$% setting navigation now. enjoy!  1@$% thanks for the help.
+ 1@$% i need directions to the distance_1 poi_type_1.
+ 1@$% i need directions to the distance_1 poi_type_1.  1@$% we are distance_2 from poi_1: do you want me to send you its address on screen?  1@$% yes, please, and pick a quick route to reach the poi_type_1 poi_1 distance_2 too, thank you!
+ 1@$% i need directions to the distance_1 poi_type_1.  1@$% we are distance_2 from poi_1: do you want me to send you its address on screen?  1@$% yes, please, and pick a quick route to reach the poi_type_1 poi_1 distance_2 too, thank you!  1@$% poi_1 is located at 452 arcadia pl. with no traffic. setting gps now.  1@$% thank you car!
+ 1@$% check the date_1 outlook to see what the weather_attribute_1 in location_1 will be.
+ 1@$% check the date_1 outlook to see what the weather_attribute_1 in location_1 will be.  1@$% over the next 7 days the days with the weather_attribute_1 will be wednesday and friday with a high of 90f.  1@$% thanks.
+ 1@$% what is the weather like for date_1.
+ 1@$% what is the weather like for date_1.  1@$% where are you located?  1@$% will it be weather_attribute_1 date_2 in location_1?
+ 1@$% what is the weather like for date_1.  1@$% where are you located?  1@$% will it be weather_attribute_1 date_2 in location_1?  1@$% date_2 in location_1 it will be cloudy, there is n't a prediction for humidity.  1@$% thank you.
+ 1@$% find the distance_1 poi_type_1.
+ 1@$% find the distance_1 poi_type_1.  1@$% there is poi_1 poi_1 1 miles away and p.f. changs 4 miles away: which one do you prefer?  1@$% let's go for the poi_type_2 poi_1 poi_1 distance_2, please send the address of the poi_type_2 poi_1 poi_1 distance_2 on my screen along with the traffic_info_1 route, thank you!
+ 1@$% find the distance_1 poi_type_1.  1@$% there is poi_1 poi_1 1 miles away and p.f. changs 4 miles away: which one do you prefer?  1@$% let's go for the poi_type_2 poi_1 poi_1 distance_2, please send the address of the poi_type_2 poi_1 poi_1 distance_2 on my screen along with the traffic_info_1 route, thank you!  1@$% poi_1 poi_1 is distance_2 at 113 arbol drive. we should n't be long in getting there.  1@$% thank you.
+ 1@$% how weather_attribute_1 is it going to be date_1.
+ 1@$% how weather_attribute_1 is it going to be date_1.  1@$% what city do you need to know if it will be weather_attribute_1?  1@$% how weather_attribute_1 is it going to be date_1 in location_1.
+ 1@$% how weather_attribute_1 is it going to be date_1.  1@$% what city do you need to know if it will be weather_attribute_1?  1@$% how weather_attribute_1 is it going to be date_1 in location_1.  1@$% date_1 in location_1 it will be windy on monday, clear skies on tuesday, hail on wednesday, lowest temperature on thursday, clear skies on friday, windy on saturday, dry on sunday.  1@$% thank you!
+ 1@$% what poi_type_1 is distance_1?
+ 1@$% what poi_type_1 is distance_1?  1@$% poi_1 	 and poi_2 are distance_3.  1@$% which distance_3 poi_type_1, either the distance_3 poi_type_1 poi_1 or the distance_3 poi_type_1 poi_2, is distance_2?
+ 1@$% what poi_type_1 is distance_1?  1@$% poi_1 	 and poi_2 are distance_3.  1@$% which distance_3 poi_type_1, either the distance_3 poi_type_1 poi_1 or the distance_3 poi_type_1 poi_2, is distance_2?  1@$% poi_2 is just 3 miles away and there is less traffic on its way than on the other poi_type_1. do you want me to set the navigation to go there?  1@$% sure, thank you!
+ 1@$% are there weather_attribute_1 in the forecast date_1.
+ 1@$% are there weather_attribute_1 in the forecast date_1.  1@$% for what city do you need information about date_1's forecast?  1@$% are there weather_attribute_1 in the forecast date_1 in location_1.
+ 1@$% are there weather_attribute_1 in the forecast date_1.  1@$% for what city do you need information about date_1's forecast?  1@$% are there weather_attribute_1 in the forecast date_1 in location_1.  1@$% it appears it will be windy- i do not have information about cloud cover.  1@$% thanks.
+ 1@$% where can i go shopping?
+ 1@$% where can i go shopping?  1@$% i have a listing for a poi_type_1 that is distance_1. want more info?  1@$% give me the name of the poi_type_1 distance_1 and the address of the poi_type_1 distance_1.
+ 1@$% where can i go shopping?  1@$% i have a listing for a poi_type_1 that is distance_1. want more info?  1@$% give me the name of the poi_type_1 distance_1 and the address of the poi_type_1 distance_1.  1@$% topanga mall is located at 171 oak road. want me to set the gps?  1@$% yes please and thanks.
+ 1@$% what will the weather_attribute_1 be date_1.
+ 1@$% what will the weather_attribute_1 be date_1.  1@$% what city do you want to know the weather_attribute_1?  1@$% what will the weather_attribute_1 be date_1 in location_1.
+ 1@$% what will the weather_attribute_1 be date_1.  1@$% what city do you want to know the weather_attribute_1?  1@$% what will the weather_attribute_1 be date_1 in location_1.  1@$% it will be between 80- 100f in location_1 date_1.  1@$% thanks.
+ 1@$% get me the address to a local poi_type_1.
+ 1@$% get me the address to a local poi_type_1.  1@$% there is a poi_type_1 but there is a car collison nearby that could delay your arrival but only one listed in area. do you want the details?  1@$% yes, i want the address of the poi_type_1 with the distance_1.
+ 1@$% get me the address to a local poi_type_1.  1@$% there is a poi_type_1 but there is a car collison nearby that could delay your arrival but only one listed in area. do you want the details?  1@$% yes, i want the address of the poi_type_1 with the distance_1.  1@$% poi_1 is located at 610 amarillo ave, i sent its position with the quickest route on your screen.  1@$% thank you!
+ 1@$% i need a poi_type_1 within distance_1.
+ 1@$% i need a poi_type_1 within distance_1.  1@$% poi_1 is a poi_type_1 that is distance_1 away. need more info?  1@$% yes, send me the address of the poi_type_1 poi_1 distance_1 away please.
+ 1@$% i need a poi_type_1 within distance_1.  1@$% poi_1 is a poi_type_1 that is distance_1 away. need more info?  1@$% yes, send me the address of the poi_type_1 poi_1 distance_1 away please.  1@$% poi_1 is located at 214 el camino real.  1@$% thank you!
+ 1@$% tell me the weather_attribute_1 for this date_1.
+ 1@$% tell me the weather_attribute_1 for this date_1.  1@$% what city should i check the weekly weather_attribute_1 for?  1@$% tell me the weather_attribute_1 for this date_1 in location_1.
+ 1@$% tell me the weather_attribute_1 for this date_1.  1@$% what city should i check the weekly weather_attribute_1 for?  1@$% tell me the weather_attribute_1 for this date_1 in location_1.  1@$% location_1 has the following forecast: low of 60f and high of 70f on monday, low of 80f, high of 100f on tuesday, low of 50f, high of 70f on wednesday, low of 30f, high of 50f on thursday, low of 70f, high of 80f on friday, low of 50f, high of 60f on saturday, low of 40f, high of 50f on sunday.  1@$% thanks.
+ 1@$% what time is my workout class today.
+ 1@$% what time is my workout class today.  1@$% your yoga class or event_1?  1@$% what time is my event_1 today.
+ 1@$% it's going to be weather_attribute_1 so i have to drive slow.
+ 1@$% it's going to be weather_attribute_1 so i have to drive slow.  1@$% what city will you be taking your drive in?  1@$% location_1, please.
+ 1@$% it's going to be weather_attribute_1 so i have to drive slow.  1@$% what city will you be taking your drive in?  1@$% location_1, please.  1@$% there are clear skies on location_1 now but do n't go too fast!  1@$% thank you car, do n't worry!
+ 1@$% set a reminder for an event_1 at time_1 on the date_1- my party_1 will be there as well.
+ 1@$% set a reminder for an event_1 at time_1 on the date_1- my party_1 will be there as well.  1@$% i will set a reminder for an event_1 at time_1 on the date_1 with your party_1 attending as well.  1@$% thanks!
+ 1@$% what's the date_1 forecast.
+ 1@$% what's the date_1 forecast.  1@$% what city do you want the weather for?  1@$% will it be raining date_2 in location_1?
+ 1@$% what's the date_1 forecast.  1@$% what city do you want the weather for?  1@$% will it be raining date_2 in location_1?  1@$% no weather_attribute_1 is in the forecast for location_1 date_2.  1@$% thanks!
+ 1@$% is it gon na weather_attribute_1 in location_1 date_1?
+ 1@$% is it gon na weather_attribute_1 in location_1 date_1?  1@$% the forecast does not predict weather_attribute_1 in location_1 today or tomorrow.  1@$% thanks.
+ 1@$% can you help me find the distance_1 poi_type_1 traffic_info_1?
+ 1@$% can you help me find the distance_1 poi_type_1 traffic_info_1?  1@$% poi_1 is the distance_1.  1@$% is there traffic to the poi_type_1 poi_1?
+ 1@$% can you help me find the distance_1 poi_type_1 traffic_info_1?  1@$% poi_1 is the distance_1.  1@$% is there traffic to the poi_type_1 poi_1?  1@$% there is moderate traffic.  1@$% ok that's fine, set the gps for the poi_type_1 poi_1.
+ 1@$% tell me what the weather will be like date_1.
+ 1@$% tell me what the weather will be like date_1.  1@$% for what city would you like me to check date_1's weather for?  1@$% tell me what the weather will be like date_1 in location_1.
+ 1@$% tell me what the weather will be like date_1.  1@$% for what city would you like me to check date_1's weather for?  1@$% tell me what the weather will be like date_1 in location_1.  1@$% the weather forecast for location_1 says there will be clear skies with a low of 90f and a high of 100f date_1.  1@$% thank you.
+ 1@$% what are the directions to the distance_1 poi_type_1.
+ 1@$% what are the directions to the distance_1 poi_type_1.  1@$% the distance_1 chinese restaraunt is panda express at 842 arrowhead way.  1@$% thanks.
+ 1@$% what is the forecast for date_1's weather.
+ 1@$% what is the forecast for date_1's weather.  1@$% what city are you interested in?  1@$% what is the forecast for date_1's weather in location_1.
+ 1@$% remind me about my event_1 with the party_1 on date_1 the 1st.
+ 1@$% remind me about my event_1 with the party_1 on date_1 the 1st.  1@$% scheduling your event_1 with the party_1 on date_1 the 1st, what time shall i add?  1@$% remind me about my event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1.
+ 1@$% remind me about my event_1 with the party_1 on date_1 the 1st.  1@$% scheduling your event_1 with the party_1 on date_1 the 1st, what time shall i add?  1@$% remind me about my event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1.  1@$% okay, setting a reminder about your event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1.  1@$% thank you.
+ 1@$% what's the weather like date_1.
+ 1@$% what's the weather like date_1.  1@$% what city do you want the weather for?  1@$% what's the weather like date_1 in location_1.
+ 1@$% what's the weather like date_1.  1@$% what city do you want the weather for?  1@$% what's the weather like date_1 in location_1.  1@$% the weather for location_1 will be snow, low of 70f, high of 90f on monday, and hot, low of 70f, high of 90f on tuesday.  1@$% thank you.
+ 1@$% give me directions to 5677 southwest 4th street.
+ 1@$% give me directions to 5677 southwest 4th street.  1@$% address_1 is distance_1 with traffic_info_1.  1@$% sounds good, let's go to address_1 distance_1 with traffic_info_1. thanks for the help.
+ 1@$% check weather.
+ 1@$% check weather.  1@$% what city would you like the weather for?  1@$% i want to hear the date_1 weather_attribute_1 for location_1.
+ 1@$% check weather.  1@$% what city would you like the weather for?  1@$% i want to hear the date_1 weather_attribute_1 for location_1.  1@$% monday will be cloudy in location_1. tuesday will have a high temperature of 70f and a low of 50f.  1@$% thank you car.
+ 1@$% how is the weather in the city date_1.
+ 1@$% how is the weather in the city date_1.  1@$% what city are you asking about?  1@$% will there be any weather_attribute_1 date_2 in location_1?
+ 1@$% how is the weather in the city date_1.  1@$% what city are you asking about?  1@$% will there be any weather_attribute_1 date_2 in location_1?  1@$% there will be no weather_attribute_1 for location_1 date_2.  1@$% thank you!
+ 1@$% can you schedule a event_1 at time_1, the date_1 of this month with the vice president?
+ 1@$% can you schedule a event_1 at time_1, the date_1 of this month with the vice president?  1@$% okay, i've got it scheduled for you. anything else?  1@$% that's all, thank you!
+ 1@$% car is it going to weather_attribute_1 date_1.
+ 1@$% car is it going to weather_attribute_1 date_1.  1@$% what city should i check for weather_attribute_1?  1@$% car is it going to weather_attribute_1 date_1 in location_1.
+ 1@$% car is it going to weather_attribute_1 date_1.  1@$% what city should i check for weather_attribute_1?  1@$% car is it going to weather_attribute_1 date_1 in location_1.  1@$% it will not be snowing in location_1 date_1. it will be windy with a low of 50f and a high of 70f.  1@$% thank you car!
+ 1@$% directions to distance_1 poi_type_1.
+ 1@$% directions to distance_1 poi_type_1.  1@$% the distance_1 poi_type_2 is poi_1 at 269 alger dr.  1@$% ok, please direct me to the poi_type_2 poi_1 at address_1 via the traffic_info_1
+ 1@$% directions to distance_1 poi_type_1.  1@$% the distance_1 poi_type_2 is poi_1 at 269 alger dr.  1@$% ok, please direct me to the poi_type_2 poi_1 at address_1 via the traffic_info_1  1@$% setting navigation now. there is heavy traffic, so drive carefully.  1@$% thank you car!
+ 1@$% set a reminder for my event_1 date_1 at time_1 with party_1.
+ 1@$% set a reminder for my event_1 date_1 at time_1 with party_1.  1@$% okay, setting a reminder for your event_1 date_1 at time_1 with party_1.  1@$% thanks.
+ 1@$% which days will be weather_attribute_1 date_1.
+ 1@$% which days will be weather_attribute_1 date_1.  1@$% what city are you wanting to know if it's going to be weather_attribute_1?  1@$% which days will be weather_attribute_1 date_1 in location_1.
+ 1@$% which days will be weather_attribute_1 date_1.  1@$% what city are you wanting to know if it's going to be weather_attribute_1?  1@$% which days will be weather_attribute_1 date_1 in location_1.  1@$% it will be weather_attribute_1 in location_1 on friday.  1@$% thank you.
+ 1@$% where do i live?
+ 1@$% where do i live?  1@$% poi_1 is at 56 cadwell street.  1@$% thank you.
+ 1@$% set reminder for event_1.
+ 1@$% set reminder for event_1.  1@$% is there a date or time for event_1 that i should add to this reminder?  1@$% set reminder for event_1 date_1 at time_1.
+ 1@$% set reminder for event_1.  1@$% is there a date or time for event_1 that i should add to this reminder?  1@$% set reminder for event_1 date_1 at time_1.  1@$% where is the location?  1@$% there is no location to add to event_1 date_1 at time_1.
+ 1@$% set reminder for event_1.  1@$% is there a date or time for event_1 that i should add to this reminder?  1@$% set reminder for event_1 date_1 at time_1.  1@$% where is the location?  1@$% there is no location to add to event_1 date_1 at time_1.  1@$% i have set a reminder for event_1 at time_1 date_1.  1@$% okay thank you.
+ 1@$% set a reminder to event_1 with party_1 at time_1 on the tenth.
+ 1@$% set a reminder to event_1 with party_1 at time_1 on the tenth.  1@$% reminder set for party_1 to event_1 on the date_1 at time_1.  1@$% great, thanks.
+ 1@$% schedule dinner with my party_1 at time_1 on date_1 the 1st.
+ 1@$% schedule dinner with my party_1 at time_1 on date_1 the 1st.  1@$% okay, scheduling a dinner with your party_1 for date_1 the 1st at time_1.  1@$% awesome, thanks.
+ 1@$% where can i get poi_type_1?
+ 1@$% where can i get poi_type_1?  1@$% there are 2 poi_type_1 stations near you, woud you like the distance_1 one?  1@$% yes, what is the address of the distance_1 poi_type_1 station?
+ 1@$% where can i get poi_type_1?  1@$% there are 2 poi_type_1 stations near you, woud you like the distance_1 one?  1@$% yes, what is the address of the distance_1 poi_type_1 station?  1@$% the poi_1 is located at address_1; it is distance_2 in traffic_info_2.  1@$% any poi_type_1 station, besides the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, traffic_info_1?
+ 1@$% where can i get poi_type_1?  1@$% there are 2 poi_type_1 stations near you, woud you like the distance_1 one?  1@$% yes, what is the address of the distance_1 poi_type_1 station?  1@$% the poi_1 is located at address_1; it is distance_2 in traffic_info_2.  1@$% any poi_type_1 station, besides the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, traffic_info_1?  1@$% that is still the distance_1 poi_type_1 station.  1@$% then let's go to the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, thank you car!
+ 1@$% what is my poi_type_1 address?
+ 1@$% what is my poi_type_1 address?  1@$% jill lives at address_1.  1@$% is that the distance_1 to my friend poi_1 at address_1?
+ 1@$% what is my poi_type_1 address?  1@$% jill lives at address_1.  1@$% is that the distance_1 to my friend poi_1 at address_1?  1@$% yes that route has no traffic noted.  1@$% sounds great, let's go.
+ 1@$% what is the weather_attribute_1 for the date_1 forecast in location_1?
+ 1@$% what is the weather_attribute_1 for the date_1 forecast in location_1?  1@$% 100f is the weather_attribute_1 predicted for the next two days in location_1.  1@$% thanks.
+ 1@$% schedule my time_1 event_1 on date_1 with my party_1.
+ 1@$% schedule my time_1 event_1 on date_1 with my party_1.  1@$% okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with?  1@$% list my current schedule.
+ 1@$% schedule my time_1 event_1 on date_1 with my party_1.  1@$% okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with?  1@$% list my current schedule.  1@$% current schedule is empty.  1@$% list my schedule for date_1.
+ 1@$% schedule my time_1 event_1 on date_1 with my party_1.  1@$% okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with?  1@$% list my current schedule.  1@$% current schedule is empty.  1@$% list my schedule for date_1.  1@$% okay, you have a event_1 with your party_1, at time_1 on date_1.  1@$% thank you so much!
+ 1@$% i need the time and parties for event_1 please.
+ 1@$% i need the time and parties for event_1 please.  1@$% for which one? i have three, one with jeff at 11 am. one with alex at 10 am, and one with your mother at 2 pm.  1@$% that will do just fine, goodbye.
+ 1@$% what will the weather_attribute_1 be for the date_1.
+ 1@$% what will the weather_attribute_1 be for the date_1.  1@$% what city do you want the weather_attribute_1 for?  1@$% what will the weather_attribute_1 be for the date_1 in location_1.
+ 1@$% what will the weather_attribute_1 be for the date_1.  1@$% what city do you want the weather_attribute_1 for?  1@$% what will the weather_attribute_1 be for the date_1 in location_1.  1@$% date_1 the temperatures in location_1 will be as follows: a low of 80f and a high of 100f on monday, a low of 30f and a high of 40f on tuesday, a low of 40f and a high of 50f on wednesday, a low of 50f and a high of 60f on thursday, a low of 40f and a high of 50f on friday, a low of 60f and a high of 70f on saturday, and a low of 80f and a high of 100f on sunday.  1@$% thank you very much!
+ 1@$% where can i get poi_type_1?
+ 1@$% where can i get poi_type_1?  1@$% there is poi_1 1 miles away from here but with heavy traffic on our way.  1@$% can you pick a quick route to the poi_type_2 poi_1 distance_1 for me?
+ 1@$% where can i get poi_type_1?  1@$% there is poi_1 1 miles away from here but with heavy traffic on our way.  1@$% can you pick a quick route to the poi_type_2 poi_1 distance_1 for me?  1@$% setting quickest route to poi_1 on gps now.  1@$% thanks so much.
+ 1@$% get me directions to the traffic_info_1 poi_1.
+ 1@$% get me directions to the traffic_info_1 poi_1.  1@$% there is no poi_1 listed locally, would you like directions to a different poi_type_1?  1@$% yes please.
+ 1@$% get me directions to the traffic_info_1 poi_1.  1@$% there is no poi_1 listed locally, would you like directions to a different poi_type_1?  1@$% yes please.  1@$% there is a poi_2 distance_1. would you like directions?  1@$% yes please.
+ 1@$% get me directions to the traffic_info_1 poi_1.  1@$% there is no poi_1 listed locally, would you like directions to a different poi_type_1?  1@$% yes please.  1@$% there is a poi_2 distance_1. would you like directions?  1@$% yes please.  1@$% the address for poi_2 is address_1.  1@$% thank you car, please set the gps to get to the poi_type_1 poi_2 distance_1 at address_1 on the traffic_info_2 route.
+ 1@$% schedule a event_1 at time_1 with my party_1.
+ 1@$% schedule a event_1 at time_1 with my party_1.  1@$% sure! do you want me to schedule it for tomorrow?  1@$% no, schedule my event_1 at time_1 with my party_1 for date_1.
+ 1@$% i need directions to a poi_type_1.
+ 1@$% i need directions to a poi_type_1.  1@$% i have a poi_type_1 that is distance_1. would you like info on it?  1@$% yes, give me the address of the poi_type_1 distance_1.
+ 1@$% i need directions to a poi_type_1.  1@$% i have a poi_type_1 that is distance_1. would you like info on it?  1@$% yes, give me the address of the poi_type_1 distance_1.  1@$% then let's go at sigona farmers market, the address is 638 amherst st, i sent it on your screen.  1@$% sounds great. thank you.
+ 1@$% are there weather_attribute_1 in location_1 date_1?
+ 1@$% are there weather_attribute_1 in location_1 date_1?  1@$% it is warm and 80- 100f in location_1 date_1.  1@$% thank you!
+ 1@$% will it be weather_attribute_1 in location_1 over the date_1?
+ 1@$% will it be weather_attribute_1 in location_1 over the date_1?  1@$% it will be warm both monday and tuesday in location_1.  1@$% thank you very much.
+ 1@$% where does my friend live?
+ 1@$% where does my friend live?  1@$% your friend jill lives at address_1. would you like to navigate there now?  1@$% is there any traffic to my friend poi_1 at address_1?
+ 1@$% where does my friend live?  1@$% your friend jill lives at address_1. would you like to navigate there now?  1@$% is there any traffic to my friend poi_1 at address_1?  1@$% there is no traffic listed on this route.  1@$% thanks, let's go to my friend poi_1 at address_1.
+ 1@$% is my event_1 on tuesday or wednesday.
+ 1@$% is my event_1 on tuesday or wednesday.  1@$% your doctor's appointment is on wednesday.  1@$% okay thank you.
+ 1@$% please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1.
+ 1@$% please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1.  1@$% the closest poi_1 is poi_2 at 638 amherst st. with traffic_info_1 but still is the best option.  1@$% mmm, i understand.. then let's go to the poi_1 poi_2 at address_1 with traffic_info_1, thank you car!
+ 1@$% please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1.  1@$% the closest poi_1 is poi_2 at 638 amherst st. with traffic_info_1 but still is the best option.  1@$% mmm, i understand.. then let's go to the poi_1 poi_2 at address_1 with traffic_info_1, thank you car!  1@$% okay, heading to poi_2.  1@$% thank you.
+ 1@$% what's the weather like in location_1.
+ 1@$% what's the weather like in location_1.  1@$% what days are you interested in?  1@$% is it gon na weather_attribute_1 date_1 in location_1?
+ 1@$% what's the weather like in location_1.  1@$% what days are you interested in?  1@$% is it gon na weather_attribute_1 date_1 in location_1?  1@$% it should not weather_attribute_1 in chicago on date_1.  1@$% thank you so much!
+ 1@$% is it going to weather_attribute_1 date_1.
+ 1@$% is it going to weather_attribute_1 date_1.  1@$% where should i check the forecast for weather_attribute_1?  1@$% is it going to weather_attribute_1 date_1 in location_1.
+ 1@$% is it going to weather_attribute_1 date_1.  1@$% where should i check the forecast for weather_attribute_1?  1@$% is it going to weather_attribute_1 date_1 in location_1.  1@$% there is n't any weather_attribute_1 predicted to fall in location_1 date_1.  1@$% great, thank you.
+ 1@$% is it going to weather_attribute_1 date_1.
+ 1@$% is it going to weather_attribute_1 date_1.  1@$% what city do you want the weather for?  1@$% is it going to weather_attribute_1 date_1 in location_1.
+ 1@$% is it going to weather_attribute_1 date_1.  1@$% what city do you want the weather for?  1@$% is it going to weather_attribute_1 date_1 in location_1.  1@$% it will not weather_attribute_1 in location_1 date_1.  1@$% that is nice to know, goodbye.
+ 1@$% remind me of the time for today's event_1.
+ 1@$% remind me of the time for today's event_1.  1@$% event_1 event time, time_1, date_1 evening.  1@$% thank you.
+ 1@$% is weather_attribute_1 forecasted date_1.
+ 1@$% is weather_attribute_1 forecasted date_1.  1@$% what city can i give you the weather_attribute_1 information about?  1@$% is weather_attribute_1 forecasted date_1 in location_1.
+ 1@$% is weather_attribute_1 forecasted date_1.  1@$% what city can i give you the weather_attribute_1 information about?  1@$% is weather_attribute_1 forecasted date_1 in location_1.  1@$% it will weather_attribute_1 on wednesday in location_1.  1@$% thanks.
+ 1@$% can you give me directions to the distance_1 poi_type_1.
+ 1@$% can you give me directions to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is the poi_1, 465 arcadia pl, it's 3 miles away.  1@$% thank you.
+ 1@$% put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before.
+ 1@$% put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before.  1@$% reminding you of event_1 appointment date_1 at time_1, will remind at time_2.  1@$% thank you!
+ 1@$% put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before.  1@$% reminding you of event_1 appointment date_1 at time_1, will remind at time_2.  1@$% thank you!  1@$% is there anything else i can do for you?  1@$% no, thanks.
+ 1@$% what's the weather like in location_1.
+ 1@$% what's the weather like in location_1.  1@$% what days are you inquiring about?  1@$% will it weather_attribute_1 on date_1 in location_1?
+ 1@$% what's the weather like in location_1.  1@$% what days are you inquiring about?  1@$% will it weather_attribute_1 on date_1 in location_1?  1@$% on date_1 in new york there is n't any prediction for weather_attribute_1.  1@$% awesome, thanks.
+ 1@$% set a reminder for event_1 on date_1 at time_1 with my party_1.
+ 1@$% set a reminder for event_1 on date_1 at time_1 with my party_1.  1@$% setting reminder for event_1 on date_1 at time_1 with party_1.  1@$% thanks.
+ 1@$% i'm looking for some poi_type_1.
+ 1@$% i'm looking for some poi_type_1.  1@$% then let's go at poi_1, 271 springer street.  1@$% sounds good.
+ 1@$% please give me an address and directions via the traffic_info_1 route to a local poi_type_1.
+ 1@$% please give me an address and directions via the traffic_info_1 route to a local poi_type_1.  1@$% poi_1 poi_type_1 is distance_1 at address_1, there is n't any traffic.  1@$% sounds perfect. set the navigation for the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_2, thank you.
+ 1@$% i need directions to poi_1 and traffic_info_1.
+ 1@$% i need directions to poi_1 and traffic_info_1.  1@$% your home is 7 miles away but there is a car collision nearby, i sent on your screen the best possible route.  1@$% thank you car!
+ 1@$% what will the weather be like date_1.
+ 1@$% what will the weather be like date_1.  1@$% for what location do you want date_1's forecast?  1@$% will it weather_attribute_1 date_1 in location_1?
+ 1@$% what will the weather be like date_1.  1@$% for what location do you want date_1's forecast?  1@$% will it weather_attribute_1 date_1 in location_1?  1@$% yes, the weather forecast is predicting weather_attribute_1 for date_1 in location_1.  1@$% thanks.
+ 1@$% set event_1 for saturday time_1 with the party_1.
+ 1@$% set event_1 for saturday time_1 with the party_1.  1@$% okay, event_1 with party_1 on saturday at 11 is set.  1@$% thank you.
+ 1@$% remind me that i need to event_1 on the date_1 at about time_1.
+ 1@$% remind me that i need to event_1 on the date_1 at about time_1.  1@$% reminder has been set for 5pm at the date_1.  1@$% great. thanks.
+ 1@$% set a reminder for event_1 with party_1 at time_1 on the date_1.
+ 1@$% set a reminder for event_1 with party_1 at time_1 on the date_1.  1@$% ok setting reminder of your event_1 match with party_1 on the 12th at 9:00 a.m.  1@$% thank you.
+ 1@$% please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1.
+ 1@$% please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1.  1@$% the poi_1 is 1 miles away at address_1, though there is a car collision distance_1. would you like directions there?  1@$% yes.
+ 1@$% please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1.  1@$% the poi_1 is 1 miles away at address_1, though there is a car collision distance_1. would you like directions there?  1@$% yes.  1@$% poi_1 is located at 333 arbol dr.  1@$% thank you car, let's go to the poi_type_1 poi_1 distance_2 at address_1 with a car collision distance_1.
+ 1@$% give me the distance_1 poi_type_1.
+ 1@$% give me the distance_1 poi_type_1.  1@$% the distance_1 one is poi_1, it's distance_2 but there is a traffic_info_1.  1@$% what's the address of the poi_type_1 poi_1 distance_2? i guess the poi_type_1 poi_1 distance_2 with a traffic_info_1 will have to do.
+ 1@$% give me the distance_1 poi_type_1.  1@$% the distance_1 one is poi_1, it's distance_2 but there is a traffic_info_1.  1@$% what's the address of the poi_type_1 poi_1 distance_2? i guess the poi_type_1 poi_1 distance_2 with a traffic_info_1 will have to do.  1@$% setting directions to poi_1 at address_1. now.  1@$% thank you car, please pick the distance_3 route to the poi_type_1 poi_1 distance_2 at address_1!
+ 1@$% is it gon na be weather_attribute_1 in location_1 on date_1?
+ 1@$% is it gon na be weather_attribute_1 in location_1 on date_1?  1@$% the low temperature for location_1 on date_1 is 90f with a high of 100f, it will be extremely weather_attribute_1.  1@$% thank you car, this sounds great!
+ 1@$% what time is my event_1 and who is coming?
+ 1@$% what time is my event_1 and who is coming?  1@$% your event_1 with martha is at 9 am.  1@$% thanks.
+ 1@$% show me directions to the distance_1 poi_type_1.
+ 1@$% show me directions to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go?  1@$% yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1.
+ 1@$% show me directions to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go?  1@$% yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1.  1@$% setting gps now.  1@$% what's the address of the poi_type_1 poi_1 distance_2, please? please direct me to the poi_type_1 poi_1 distance_2 via a traffic_info_2.
+ 1@$% show me directions to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go?  1@$% yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1.  1@$% setting gps now.  1@$% what's the address of the poi_type_1 poi_1 distance_2, please? please direct me to the poi_type_1 poi_1 distance_2 via a traffic_info_2.  1@$% poi_1 is at 408 university ave. the only route i have is 5 miles through traffic_info_1.  1@$% that's ok, thank you.
+ 1@$% please schedule a event_1 on date_1 at time_1 with my party_1.
+ 1@$% please schedule a event_1 on date_1 at time_1 with my party_1.  1@$% will do, your event_1 with party_1 on date_1 at time_1 has been scheduled.  1@$% thank you.
+ 1@$% please schedule a event_1 on date_1 at time_1 with my party_1.  1@$% will do, your event_1 with party_1 on date_1 at time_1 has been scheduled.  1@$% thank you.  1@$% my pleasure.  1@$% that is all, thanks.
+ 1@$% check out the date_1 forecast to see if it will be weather_attribute_1 in location_1.
+ 1@$% check out the date_1 forecast to see if it will be weather_attribute_1 in location_1.  1@$% it will not be weather_attribute_1 in location_1 next week.  1@$% thanks, this is great!
+ 1@$% what time is my event_1 at.
+ 1@$% what time is my event_1 at.  1@$% i have one event_1 on your calendar. it is date_1 at time_1.  1@$% thank you.
+ 1@$% what is the weather date_1 in location_1.
+ 1@$% what is the weather date_1 in location_1.  1@$% what days are you interested in?  1@$% will it be weather_attribute_1 in location_1 anytime date_2?
+ 1@$% what is the weather date_1 in location_1.  1@$% what days are you interested in?  1@$% will it be weather_attribute_1 in location_1 anytime date_2?  1@$% it should n't be weather_attribute_1 in location_1 date_2.  1@$% thank you!
+ 1@$% what is the weather date_1.
+ 1@$% what is the weather date_1.  1@$% what location, specifically, are you asking about?  1@$% i want to know if it is weather_attribute_1 in location_1 date_1.
+ 1@$% what is the weather date_1.  1@$% what location, specifically, are you asking about?  1@$% i want to know if it is weather_attribute_1 in location_1 date_1.  1@$% no weather_attribute_1 in location_1 date_1, the prediction is overcast.  1@$% thank you!
+ 1@$% find directions to poi_1.
+ 1@$% find directions to poi_1.  1@$% we're distance_1 from poi_1 and there is no traffic on our route, you should reach in few minutes.  1@$% can you get me the address of poi_1 distance_1?
+ 1@$% find directions to poi_1.  1@$% we're distance_1 from poi_1 and there is no traffic on our route, you should reach in few minutes.  1@$% can you get me the address of poi_1 distance_1?  1@$% the address to your poi_1 is 56 cadwell street.  1@$% thanks so much for the information.
+ 1@$% give me the date_1 weather forecast.
+ 1@$% give me the date_1 weather forecast.  1@$% where are you located?  1@$% will it be weather_attribute_1 date_2 in location_1?
+ 1@$% give me the date_1 weather forecast.  1@$% where are you located?  1@$% will it be weather_attribute_1 date_2 in location_1?  1@$% location_1 does not have any weather_attribute_1 weather prediction date_2.  1@$% thank you car!
+ 1@$% will it be weather_attribute_1 in location_1 date_1?
+ 1@$% will it be weather_attribute_1 in location_1 date_1?  1@$% it will not be weather_attribute_1 in location_1 today or tomorrow.  1@$% thank you.
+ 1@$% what is the weather_attribute_1 in location_1?
+ 1@$% what is the weather_attribute_1 in location_1?  1@$% it will be 50f sunday in location_1.  1@$% thanks.
+ 1@$% where can i get poi_type_1?
+ 1@$% where can i get poi_type_1?  1@$% there is a poi_1 distance_1: would you like me to send you its address on the screen?  1@$% what is the address of the poi_type_2 poi_1 distance_1?
+ 1@$% where can i get poi_type_1?  1@$% there is a poi_1 distance_1: would you like me to send you its address on the screen?  1@$% what is the address of the poi_type_2 poi_1 distance_1?  1@$% poi_1 is located at address_1 but a car collision is noted nearby. do you still want to go there?  1@$% yes, please, set the gps to go to the poi_type_2 poi_1 distance_1 at address_1 with a traffic_info_1, thank you!
+ 1@$% from the two day forecast what will be the weather_attribute_1 in location_1?
+ 1@$% from the two day forecast what will be the weather_attribute_1 in location_1?  1@$% the weather_attribute_1 in location_1 is supposed to be 60f today, and 70f tomorrow.  1@$% thanks.
+ 1@$% when is the next weather_attribute_1 day.
+ 1@$% when is the next weather_attribute_1 day.  1@$% for which city would you like to know when the next weather_attribute_1 day is?  1@$% when is the next weather_attribute_1 day in location_1.
+ 1@$% when is the next weather_attribute_1 day.  1@$% for which city would you like to know when the next weather_attribute_1 day is?  1@$% when is the next weather_attribute_1 day in location_1.  1@$% it will not be weather_attribute_1 in location_1 next week.  1@$% okay, thank you!
+ 1@$% schedule a event_1 with party_1 on the date_1 at time_1.
+ 1@$% schedule a event_1 with party_1 on the date_1 at time_1.  1@$% your event_1 with party_1 on the date_1 at time_1 has been scheduled.  1@$% thank you again.
+ 1@$% car please find for me the distance_1 route to get to some poi_type_1.
+ 1@$% car please find for me the distance_1 route to get to some poi_type_1.  1@$% there is a address_1 distance_2.  1@$% what is the address of the distance_2 poi_type_1 address_1?
+ 1@$% car please find for me the distance_1 route to get to some poi_type_1.  1@$% there is a address_1 distance_2.  1@$% what is the address of the distance_2 poi_type_1 address_1?  1@$% the address for address_1 is 436 alger dr.  1@$% thanks set the gps to the poi_type_1 address_1 at address_2 please.
+ 1@$% car i'm desiring to eat poi_type_1!
+ 1@$% car i'm desiring to eat poi_type_1!  1@$% poi_1 poi_1 and poi_2 are both distance_2.  1@$% which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1?
+ 1@$% car i'm desiring to eat poi_type_1!  1@$% poi_1 poi_1 and poi_2 are both distance_2.  1@$% which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1?  1@$% poi_2 is distance_3 with a road block nearby.  1@$% please pick the best route to the poi_type_1 restaurant poi_2 distance_3 for me and let's go to the poi_type_1 restaurant poi_2 distance_3!
+ 1@$% car i'm desiring to eat poi_type_1!  1@$% poi_1 poi_1 and poi_2 are both distance_2.  1@$% which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1?  1@$% poi_2 is distance_3 with a road block nearby.  1@$% please pick the best route to the poi_type_1 restaurant poi_2 distance_3 for me and let's go to the poi_type_1 restaurant poi_2 distance_3!  1@$% there is a road block nearby but i sent on your screen another route that should allow you to reach there fast enough.  1@$% thank you car!
+ 1@$% send me to the distance_1 poi_type_1.
+ 1@$% send me to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 at address_1, distance_2. setting directions now.  1@$% where is the poi_type_1 poi_1 distance_2 at address_1 and is there any traffic on the way to the poi_type_1 poi_1 distance_2 at address_1?
+ 1@$% send me to the distance_1 poi_type_1.  1@$% the distance_1 poi_type_1 is poi_1 at address_1, distance_2. setting directions now.  1@$% where is the poi_type_1 poi_1 distance_2 at address_1 and is there any traffic on the way to the poi_type_1 poi_1 distance_2 at address_1?  1@$% poi_1 is at address_1 and moderate traffic is being noted.  1@$% thank you.
+ 1@$% is there going to be weather_attribute_1 in location_1 on date_1?
+ 1@$% is there going to be weather_attribute_1 in location_1 on date_1?  1@$% there will not be weather_attribute_1 in location_1 on date_1.  1@$% thank you.
+ 1@$% schedule a new event_1.
+ 1@$% schedule a new event_1.  1@$% what date and time should i schedule your event_1?  1@$% the event_1 is today at time_1 with party_1 to agenda_1.
+ 1@$% schedule a new event_1.  1@$% what date and time should i schedule your event_1?  1@$% the event_1 is today at time_1 with party_1 to agenda_1.  1@$% i am setting a new event_1 in your calendar for today at time_1 with party_1 to agenda_1.  1@$% nothing else for now.
+ 1@$% will it be weather_attribute_1 in location_1 or the date_1?
+ 1@$% will it be weather_attribute_1 in location_1 or the date_1?  1@$% it will be between 80- 100f on tuesday in location_1.  1@$% thanks.
+ 1@$% will it be weather_attribute_1 in location_1 date_1?
+ 1@$% will it be weather_attribute_1 in location_1 date_1?  1@$% it will be raining in location_1 on tuesday.  1@$% thank you.
+ 1@$% find poi_type_1.
+ 1@$% find poi_type_1.  1@$% there is a poi_1 and a poi_2.  1@$% is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position?
+ 1@$% find poi_type_1.  1@$% there is a poi_1 and a poi_2.  1@$% is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position?  1@$% they are both distance_1. poi_1 is 3 miles away and poi_2 is distance_2.  1@$% then let's go at the poi_type_1 restaurant poi_2 distance_2, please pick a route to the poi_type_1 restaurant poi_2 distance_2 with traffic_info_1!
+ 1@$% find poi_type_1.  1@$% there is a poi_1 and a poi_2.  1@$% is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position?  1@$% they are both distance_1. poi_1 is 3 miles away and poi_2 is distance_2.  1@$% then let's go at the poi_type_1 restaurant poi_2 distance_2, please pick a route to the poi_type_1 restaurant poi_2 distance_2 with traffic_info_1!  1@$% setting route to poi_2 at 528 anton ct now.  1@$% thank you car!
+ 1@$% i'm looking for a place to eat can you show me directions to the distance_1 poi_type_1.
+ 1@$% i'm looking for a place to eat can you show me directions to the distance_1 poi_type_1.  1@$% there is poi_1 	 distance_2: is it okay for you?  1@$% sure, let's go to the poi_type_1 poi_1 distance_2, just pick a route to the poi_type_1 poi_1 distance_2 with traffic_info_1 please.
+ 1@$% set a reminder for my event_1 date_1.
+ 1@$% set a reminder for my event_1 date_1.  1@$% okay, reminder set for event_1 date_1.  1@$% thank you.
+ 1@$% what's the weather_attribute_1 going to be for date_1.
+ 1@$% what's the weather_attribute_1 going to be for date_1.  1@$% in what city can i check date_1's weather_attribute_1?  1@$% there will be any weather_attribute_2 date_1 in location_1?
+ 1@$% what's the weather_attribute_1 going to be for date_1.  1@$% in what city can i check date_1's weather_attribute_1?  1@$% there will be any weather_attribute_2 date_1 in location_1?  1@$% there will be no weather_attribute_2 in location_1 next week.  1@$% thank you.
+ 1@$% will it be weather_attribute_1 on date_1 in location_1?
+ 1@$% will it be weather_attribute_1 on date_1 in location_1?  1@$% it will not be weather_attribute_1 on date_1 in location_1.  1@$% thanks.
+ 1@$% give me directions to the distance_1 where i can poi_type_1.
+ 1@$% give me directions to the distance_1 where i can poi_type_1.  1@$% you are two miles away from poi_1, would you like to get its address?  1@$% yes, please, and also pick the distance_2 to the poi_type_2 poi_1 distance_3 for me!
+ 1@$% give me directions to the distance_1 where i can poi_type_1.  1@$% you are two miles away from poi_1, would you like to get its address?  1@$% yes, please, and also pick the distance_2 to the poi_type_2 poi_1 distance_3 for me!  1@$% then we're going at 792 bedoin street, no traffic on our way, enjoy the trip!  1@$% thanks!
+ 1@$% what will be the weather_attribute_1 in location_1 on date_1?
+ 1@$% what will be the weather_attribute_1 in location_1 on date_1?  1@$% on date_1 the weather_attribute_1 in location_1 is 70f.  1@$% thanks.
+ 1@$% what is the forecast for the city this date_1.
+ 1@$% what is the forecast for the city this date_1.  1@$% what city do you need the forecast for?  1@$% can you tell me if it will be weather_attribute_1 in location_1 this date_1?
+ 1@$% what is the forecast for the city this date_1.  1@$% what city do you need the forecast for?  1@$% can you tell me if it will be weather_attribute_1 in location_1 this date_1?  1@$% it will not be weather_attribute_1 in location_1 this date_1.  1@$% great, thank you.
+ 1@$% where does my poi_1 live?
+ 1@$% where does my poi_1 live?  1@$% address_1. is the address.  1@$% thank you.
+ 1@$% where does my poi_1 live?  1@$% address_1. is the address.  1@$% thank you.  1@$% anything else?  1@$% distance_1 am i now from my poi_1's poi_type_1 at address_1?
+ 1@$% where does my poi_1 live?  1@$% address_1. is the address.  1@$% thank you.  1@$% anything else?  1@$% distance_1 am i now from my poi_1's poi_type_1 at address_1?  1@$% you're 3 miles away.  1@$% thanks!
+ 1@$% set date for a event_1.
+ 1@$% set date for a event_1.  1@$% what is the date and time for the event_1?  1@$% set date for a event_1 date_1 at 11am.
+ 1@$% set date for a event_1.  1@$% what is the date and time for the event_1?  1@$% set date for a event_1 date_1 at 11am.  1@$% event_1 has been set on date_1   at time_1.  1@$% thanks.
+ 1@$% tell me when my event_1 are scheduled for.
+ 1@$% tell me when my event_1 are scheduled for.  1@$% your event_1 are set for monday at 5 pm.  1@$% alright, thanks.
+ 1@$% will san jose be hot any time this week?
+ 1@$% will san jose be hot any time this week?  1@$% san jose will be hot on monday, thursday and saturday.  1@$% thanks.
+ 1@$% i wanna go to my poi_1, it should be distance_1, can you show me their position on the map?
+ 1@$% i wanna go to my poi_1, it should be distance_1, can you show me their position on the map?  1@$% jack lives at 864 almanor ln, it is shown on the map.  1@$% i wanna go to my poi_1, it should be distance_1, can you show me my poi_1 position on the map?
+ 1@$% what's the weather like.
+ 1@$% what's the weather like.  1@$% for which day and city would you like to know the weather?  1@$% what's the date_1 weather like in location_1.
+ 1@$% what's the weather like.  1@$% for which day and city would you like to know the weather?  1@$% what's the date_1 weather like in location_1.  1@$% currently in location_1 it is cloudy with a low of 30f and a high of 40f.  1@$% thanks.
+ 1@$% what is the date and time of my next event_1?
+ 1@$% what is the date and time of my next event_1?  1@$% your next event_1 is on friday at 1 pm.  1@$% thank you kindly.
+ 1@$% put my agenda_1 in my calendar.
+ 1@$% put my agenda_1 in my calendar.  1@$% what date and time is your agenda_1 at?  1@$% put my agenda_1 in my calendar at time_1 on date_1.
+ 1@$% i'm looking for some takeout chinese food.
+ 1@$% i'm looking for some takeout chinese food.  1@$% the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there?  1@$% yes where is the poi_type_1 distance_1?
+ 1@$% i'm looking for some takeout chinese food.  1@$% the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there?  1@$% yes where is the poi_type_1 distance_1?  1@$% poi_1 poi_1 is located at 113 arbol dr. setting navigation now.  1@$% please direct me to the poi_type_1 poi_1 poi_1 distance_1 at address_1 via the route that traffic_info_1.
+ 1@$% i'm looking for some takeout chinese food.  1@$% the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there?  1@$% yes where is the poi_type_1 distance_1?  1@$% poi_1 poi_1 is located at 113 arbol dr. setting navigation now.  1@$% please direct me to the poi_type_1 poi_1 poi_1 distance_1 at address_1 via the route that traffic_info_1.  1@$% avoiding heavy traffic on the way to poi_1 poi_1.  1@$% thank you car!
+ 1@$% is it weather_attribute_1 in location_1 date_1?
+ 1@$% is it weather_attribute_1 in location_1 date_1?  1@$% there is drizzle but no mist in location_1 date_1.  1@$% thank you.
+ 1@$% is it weather_attribute_1 date_1.
+ 1@$% is it weather_attribute_1 date_1.  1@$% which city do you want to know if it's gon na rain date_1?  1@$% is it weather_attribute_1 date_1 in location_1.
+ 1@$% is it weather_attribute_1 date_1.  1@$% which city do you want to know if it's gon na rain date_1?  1@$% is it weather_attribute_1 date_1 in location_1.  1@$% it's gon na rain in location_1 on tuesday and sunday.  1@$% okay, thank you car!
+ 1@$% give me directions to the distance_1 poi_1.
+ 1@$% give me directions to the distance_1 poi_1.  1@$% there is no poi_1 in the area, i'm sorry.  1@$% are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1?
+ 1@$% give me directions to the distance_1 poi_1.  1@$% there is no poi_1 in the area, i'm sorry.  1@$% are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1?  1@$% poi_3 located at address_1 is distance_2 without any traffic.  1@$% please direct me to the poi_2 poi_3 distance_2 at address_1 with traffic_info_2, thank you.
+ 1@$% give me directions to the distance_1 poi_1.  1@$% there is no poi_1 in the area, i'm sorry.  1@$% are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1?  1@$% poi_3 located at address_1 is distance_2 without any traffic.  1@$% please direct me to the poi_2 poi_3 distance_2 at address_1 with traffic_info_2, thank you.  1@$% navigating to address_1 now.  1@$% thanks car!
+ 1@$% give me a distance_1 to a poi_type_1.
+ 1@$% give me a distance_1 to a poi_type_1.  1@$% we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go?  1@$% yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2?
+ 1@$% give me a distance_1 to a poi_type_1.  1@$% we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go?  1@$% yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2?  1@$% sorry, i did n't understand which address would you like me to give you. would you prefer to go at poi_2 or at poi_1?  1@$% i want the quickest poi_type_1 available, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_2, please.
+ 1@$% give me a distance_1 to a poi_type_1.  1@$% we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go?  1@$% yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2?  1@$% sorry, i did n't understand which address would you like me to give you. would you prefer to go at poi_2 or at poi_1?  1@$% i want the quickest poi_type_1 available, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_2, please.  1@$% then let's go at poi_2, better if you get some coffee, the address is 452 arcadia pl.  1@$% thank you car!
+ 1@$% what's the weather_attribute_1 in city.
+ 1@$% what's the weather_attribute_1 in city.  1@$% what city would you like to know the weather_attribute_1 about?  1@$% what is the weather_attribute_1 for date_1 in location_1?
+ 1@$% what's the weather_attribute_1 in city.  1@$% what city would you like to know the weather_attribute_1 about?  1@$% what is the weather_attribute_1 for date_1 in location_1?  1@$% the weather_attribute_1 range for next week goes from lows in the 20s to highs in the 100s for location_1.  1@$% thank you.
+ 1@$% set a reminder for event_1 at time_1 on the date_1 with party_1.
+ 1@$% set a reminder for event_1 at time_1 on the date_1 with party_1.  1@$% setting reminder for event_1 at time_1 on the date_1 with party_1.  1@$% okay, thanks.
+ 1@$% i'm looking for a place to shop for clothes that is around me. can you find such a place?
+ 1@$% i'm looking for a place to shop for clothes that is around me. can you find such a place?  1@$% yes poi_1 is 3 miles away. do you want the address?  1@$% oh yes that sounds great.
+ 1@$% i'm looking for a place to shop for clothes that is around me. can you find such a place?  1@$% yes poi_1 is 3 miles away. do you want the address?  1@$% oh yes that sounds great.  1@$% ravenswood is located at 434 arastradero rd. do you want me to set the gps?  1@$% sure, thanks!
+ 1@$% i need a poi_type_1
+ 1@$% i need a poi_type_1  1@$% i have one poi_type_1 want more info?  1@$% what is the address of the gas station?
+ 1@$% i need a poi_type_1  1@$% i have one poi_type_1 want more info?  1@$% what is the address of the gas station?  1@$% poi_1 is at 91 el camino real.  1@$% thank you!
+ 1@$% where can i go poi_type_1?
+ 1@$% where can i go poi_type_1?  1@$% there is two poi_type_1 center, poi_1 and poi_2. do you have a preference?  1@$% which poi_type_1 center, either the poi_type_1 center poi_1 or the poi_2 poi_type_1 center, is distance_1?
+ 1@$% where can i go poi_type_1?  1@$% there is two poi_type_1 center, poi_1 and poi_2. do you have a preference?  1@$% which poi_type_1 center, either the poi_type_1 center poi_1 or the poi_2 poi_type_1 center, is distance_1?  1@$% poi_1 is distance_1.  1@$% then pick the route to the poi_type_1 center poi_1 through the shortest distance and let's go to the poi_type_1 center poi_1, thank you!
+ 1@$% is it weather_attribute_2 out.
+ 1@$% is it weather_attribute_2 out.  1@$% what city would you like to know if it is weather_attribute_2 in?  1@$% check to see if it'll be weather_attribute_2 in location_1 date_1.
+ 1@$% is it weather_attribute_2 out.  1@$% what city would you like to know if it is weather_attribute_2 in?  1@$% check to see if it'll be weather_attribute_2 in location_1 date_1.  1@$% it might weather_attribute_1 on sunday, do you need to know anything else?  1@$% nope, thanks.
+ 1@$% schedule event_1 with party_1 on the date_1 of this month at time_1.
+ 1@$% schedule event_1 with party_1 on the date_1 of this month at time_1.  1@$% reminder for event_1 on the date_1 at time_1 with party_1 is set.  1@$% thanks!
