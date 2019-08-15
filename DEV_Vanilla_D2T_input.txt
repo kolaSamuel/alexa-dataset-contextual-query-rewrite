@@ -1,0 +1,744 @@
+<user> make an appointment to reserve conference room 100 later this week for a meeting.
+<user> make an appointment to reserve conference room 100 later this week for a meeting. <system> What day and time should I set an appointment to reserve the conference room? <user> Monday at 3pm.
+<user> Is there supposed to be a blizzard in brentwood on friday?
+<user> Is there supposed to be a blizzard in brentwood on friday? <system> On Friday it's gonna rain in Brentwood. <user> Thanks.
+<user> give me directions to nearest mall.
+<user> give me directions to nearest mall. <system> There is Ravenswood Shopping Center 5 miles away from here but with heavy traffic on our way. <user> Give me the address.
+<user> give me directions to nearest mall. <system> There is Ravenswood Shopping Center 5 miles away from here but with heavy traffic on our way. <user> Give me the address. <system> The address to Ravenswood Shopping Center is 434 Arastradero Rd. <user> Thank you car, please pick the quickest way to get there!
+<user> What is the date of our dinner and who is attending?
+<user> What is the date of our dinner and who is attending? <system> YOu have 2 dinners on your schedule. One on Friday at 6 pm with your father and one on the 8th at 7 pm with your aunt.  <user> Thank you.
+<user> Where can I go shopping?
+<user> Where can I go shopping? <system> Two shopping centers are located nearby. One is the Topanga Mall located 4 miles away and the other is Ravenswood Shopping Center that's 2 miles away. Which do you prefer? <user> I want to go to the Ravenwood Shopping Center, give me the address and then directions with avoiding heavy traffic.
+<user> Where can I go shopping? <system> Two shopping centers are located nearby. One is the Topanga Mall located 4 miles away and the other is Ravenswood Shopping Center that's 2 miles away. Which do you prefer? <user> I want to go to the Ravenwood Shopping Center, give me the address and then directions with avoiding heavy traffic. <system> The address is 434 Arastradero Rd, I picked the fastest route for you, it's on your screen. <user> Thank you very much car!
+<user> What time is my meeting and what is the agenda, also who is attending?
+<user> What time is my meeting and what is the agenda, also who is attending? <system> For which one? I have one with Sales team at 9 am to sign the NDA, and I also have another with Sales team at 1pm to go over budget.  <user> That will do car. Thanks. 
+<user> Set a reminder for a doctor's appointment at 2pm on Monday the 1st with Marie.
+<user> Set a reminder for a doctor's appointment at 2pm on Monday the 1st with Marie. <system> Okay, setting a reminder for your doctor's appointment at 2pm on Monday the 1st with Marie. <user> Thanks.
+<user> Where can I get groceries?
+<user> Where can I get groceries? <system> We're 1 miles away drom Trader Joes and there is moderate traffic on our way. <user> What is the address of Traders Joe's and give me directions with the fastesr route.
+<user> Where can I get groceries? <system> We're 1 miles away drom Trader Joes and there is moderate traffic on our way. <user> What is the address of Traders Joe's and give me directions with the fastesr route. <system> The quickest route to Trader Joes is 1 mile away at 408 University Avenue.  <user> Thanks!
+<user> When is my tennis?
+<user> When is my tennis? <system> Your next tennis activity is Thursday at 3pm with your brother.  <user> Thank you.
+<user> what's the weather like in new york city.
+<user> what's the weather like in new york city. <system> The weather in New York is predicted as a drizzle with lows in the 60s and highs in the 80s. <user> Thanks, I would like to know if it will be windy n New York on Tuesday please.
+<user> what's the weather like in new york city. <system> The weather in New York is predicted as a drizzle with lows in the 60s and highs in the 80s. <user> Thanks, I would like to know if it will be windy n New York on Tuesday please. <system> It will not be windy in New York City tomorrow. <user> Thank you.
+<user> where is a restaurant.
+<user> where is a restaurant. <system> There are two Chinese restaurants nearby: Mandarin Roots 4 miles away and Chef Chu's 5 miles away. <user> Please tell me the one with the quickest route and the details of the location.
+<user> where is a restaurant. <system> There are two Chinese restaurants nearby: Mandarin Roots 4 miles away and Chef Chu's 5 miles away. <user> Please tell me the one with the quickest route and the details of the location. <system> Mandarin Roots is 4 miles away in moderate traffic, it is located at 271 Springer Street. <user> Thank you. 
+<user> What is the nearby hospital?
+<user> What is the nearby hospital? <system> Palo Alto Medical Foundation is the nearby hospital. <user> Please pick the quickest route to go there and send me the address on my map.
+<user> What is the nearby hospital? <system> Palo Alto Medical Foundation is the nearby hospital. <user> Please pick the quickest route to go there and send me the address on my map. <system> Palo Alto Medical Foundation	is at 611 Ames Ave. <user> Thanks.
+<user> is it going to be raining this weekend.
+<user> is it going to be raining this weekend. <system> What city are you inquiring about? <user> Alhambra please.
+<user> is it going to be raining this weekend. <system> What city are you inquiring about? <user> Alhambra please. <system> It will be raining on Saturday and hailing on Sunday in Alhambra. <user> Thanks.
+<user> Is it gonna be dry in Carson on Sunday?
+<user> Is it gonna be dry in Carson on Sunday? <system> On sunday the forecast is predicted to be foggy in carson. <user> Thank you.
+<user> how's the weather in new york.
+<user> how's the weather in new york. <system> The weather in New York is hot today. Are you interested in other days' forecast? <user> Will it be humid on Friday?
+<user> how's the weather in new york. <system> The weather in New York is hot today. Are you interested in other days' forecast? <user> Will it be humid on Friday? <system> On Friday it will be dew! <user> Thanks.
+<user> Set an optometrist appointment for Saturday. 
+<user> Set an optometrist appointment for Saturday.  <system> What time on Saturday should I set the appointment reminder? <user> at 3 pm and my sister is joining.
+<user> Set an optometrist appointment for Saturday.  <system> What time on Saturday should I set the appointment reminder? <user> at 3 pm and my sister is joining. <system> Okay great, I have that all set for you. Can I help with anything else? <user> That is all, thanks!
+<user> Can you please find me the time, date, and what is planned for the next meeting I have scheduled in my calendar?
+<user> Can you please find me the time, date, and what is planned for the next meeting I have scheduled in my calendar? <system> Your meeting is on the 5th at 1 pm, the purpose is to go over the quarterly report. <user> Thank you.
+<user> where's parking.
+<user> where's parking. <system> The nearest one is Dish Parking, it's 5 miles away. <user> Can you get me a route that avoids all heavy traffic?
+<user> where's parking. <system> The nearest one is Dish Parking, it's 5 miles away. <user> Can you get me a route that avoids all heavy traffic? <system> Dish Parking has heavy traffic and is the only local one, is it okay? <user> Yes get me the address.
+<user> where's parking. <system> The nearest one is Dish Parking, it's 5 miles away. <user> Can you get me a route that avoids all heavy traffic? <system> Dish Parking has heavy traffic and is the only local one, is it okay? <user> Yes get me the address. <system> The address to Dish Parking is 550 Alester Ave. <user> Thanks so much.
+<user> give me directions to the nearest place to get to eat.
+<user> give me directions to the nearest place to get to eat. <system> There is Dominos 4 miles away: does it sound good? <user> That's fine. Please give me the address and directions via the quickest route. 
+<user> give me directions to the nearest place to get to eat. <system> There is Dominos 4 miles away: does it sound good? <user> That's fine. Please give me the address and directions via the quickest route.  <system> The quickest route to Dominos is with moderate traffic to 776 Arastradero Rd.  <user> Show me the route please.
+<user> give me directions to the nearest place to get to eat. <system> There is Dominos 4 miles away: does it sound good? <user> That's fine. Please give me the address and directions via the quickest route.  <system> The quickest route to Dominos is with moderate traffic to 776 Arastradero Rd.  <user> Show me the route please. <system> I sent the route on your screen, drive carefully! <user> Thank you car!
+<user> directions to the mall.
+<user> directions to the mall. <system> Town and Country is a shopping center I can find. It is located at 383 University Ave. <user> Can you give me a route which is fast please. 
+<user> directions to the mall. <system> Town and Country is a shopping center I can find. It is located at 383 University Ave. <user> Can you give me a route which is fast please.  <system> Unfortunately there is a road block nearby but I sent on your screen another route to reach faster. <user> Great thank you.
+<user> who is going to be at the meeting?
+<user> who is going to be at the meeting? <system> Which one? There is one at 11 am on the 10th, and there is another at 7pm on the 9th.  <user> Both. Thanks.
+<user> please set reminder for the 8th at 5 pm for yoga. my aunt is coming along.
+<user> please set reminder for the 8th at 5 pm for yoga. my aunt is coming along. <system> Okay reminder set for your yoga appointment on the 8th at 5pm with your aunt. <user> Thank you.
+<user> what are some nearby hotels.
+<user> what are some nearby hotels. <system> The closest is Travelers Lodge 1 mile away, then The Clement Hotel 2 miles away, Four Seasons is 4 miles away and The Westin is 5 miles away. <user> Let's try Travelers Lodge what's the address and how's the traffic?
+<user> what are some nearby hotels. <system> The closest is Travelers Lodge 1 mile away, then The Clement Hotel 2 miles away, Four Seasons is 4 miles away and The Westin is 5 miles away. <user> Let's try Travelers Lodge what's the address and how's the traffic? <system> There is a road block nearby on the route to 333 Arbol Dr. Would you like directions there? <user> Thank you for this route.
+<user> what's the forecast for the city this week.
+<user> what's the forecast for the city this week. <system> For what city did you need the forecast?  <user> Exeter, please. Will it be misty anytime during the week?
+<user> what's the forecast for the city this week. <system> For what city did you need the forecast?  <user> Exeter, please. Will it be misty anytime during the week? <system> It will not be misty in Exeter this week. <user> Thank you car!
+<user> what time and day is my doctor's appointment on.
+<user> what time and day is my doctor's appointment on. <system> Your doctor's appointment is on Thursday at 2 pm. <user> Thank you.
+<user> search for nearest fast food restaurants.
+<user> search for nearest fast food restaurants. <system> Pizza Chicago is the closest pizza, would you like the address? <user> Yes, please, send it on my screen and show me the quickest route too, thank you!
+<user> what's the weather supposed to be like in new york city this week.
+<user> what's the weather supposed to be like in new york city this week. <system> This week in new york will be rainy and windy with overcast skies. <user> Will be dry any day this week?
+<user> what's the weather supposed to be like in new york city this week. <system> This week in new york will be rainy and windy with overcast skies. <user> Will be dry any day this week? <system> There aren't any days predicted to be dry in new york this week. <user> Thank you.
+<user> When is the date and time of my dentist appointment?
+<user> When is the date and time of my dentist appointment? <system> Your dentist appointment is at 10am on the 13th. <user> Thank you.
+<user> On Sunday in San Jose will there be a blizzard?
+<user> On Sunday in San Jose will there be a blizzard? <system> The forecast does not predict a blizzard in san jose this sunday. <user> Thank you car!
+<user> What time is my next yoga activity and who will be attending?
+<user> What time is my next yoga activity and who will be attending? <system> Your next yoga activity is on Thursday with your sister. <user> What is the scheduled time for the yoga activity on Thursday?
+<user> What time is my next yoga activity and who will be attending? <system> Your next yoga activity is on Thursday with your sister. <user> What is the scheduled time for the yoga activity on Thursday? <system> Your Thursday yoga activity with your sister is at 9 am. <user> Okay thanks.
+<user> show me this week's forecast.
+<user> show me this week's forecast. <system> What city do you want the weather for? <user> Is it going to snow this week in Chicago?
+<user> show me this week's forecast. <system> What city do you want the weather for? <user> Is it going to snow this week in Chicago? <system> There is no snow forecasted for Chicago this week. <user> Thanks!
+<user> Today in Menlo Park, will it be misty?
+<user> Today in Menlo Park, will it be misty? <system> Yes, menlo park is predicted to be misty today. <user> Thank you car!
+<user> Take me to a hospital.
+<user> Take me to a hospital. <system> Palo Alto medical Foundation is the nearest hospital at 611 Ames Ave. <user> Is it the quickest option?
+<user> Take me to a hospital. <system> Palo Alto medical Foundation is the nearest hospital at 611 Ames Ave. <user> Is it the quickest option? <system> Yes the route to 611 Ames Ave is the quickest available.  <user> That's good, please send me its address on the screen, thank you!
+<user> Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code?
+<user> Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code? <system> Scheduling meeting for 4 pm later this week with infrastructure to discuss dress code. Do you have a specific day in mind?  <user> Thursday.
+<user> Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code? <system> Scheduling meeting for 4 pm later this week with infrastructure to discuss dress code. Do you have a specific day in mind?  <user> Thursday. <system> Anything else? <user> No that was everything, thanks. 
+<user> Set reminder for conference at 9AM on Wednesday with infrastructure team.
+<user> Set reminder for conference at 9AM on Wednesday with infrastructure team. <system> Okay setting reminder for your meeting with the infrastructure team on Wednesday at 9AM. <user> Thank you.
+<user> what will the temperature be for the next week.
+<user> what will the temperature be for the next week. <system> What city are you interested in? <user> San Mateo.
+<user> what will the temperature be for the next week. <system> What city are you interested in? <user> San Mateo. <system> It will be between 60-70F on Monday and Tuesday in San Mateo.  70-90F on Wednesday, 80-100F on Thursday, 60-70F on Friday, 80-100F on Saturday, and 90-100F on Sunday. <user> Thanks.
+<user> I'm in need of a pizza restaurant. 
+<user> I'm in need of a pizza restaurant.  <system> We're 5 miles away from Pizza Hut and 6 miles away from Round Table: do they sound good? <user> They sound great! Please pick a quick route to Pizza Hut, thank you!
+<user> I'm in need of a pizza restaurant.  <system> We're 5 miles away from Pizza Hut and 6 miles away from Round Table: do they sound good? <user> They sound great! Please pick a quick route to Pizza Hut, thank you! <system> Pizza Hut is the quickest. Navigating to 704 El Camino Real. There is moderate traffic on the route.  <user> That sounds good. Please start directions. 
+<user> tell me when my next tennis game is.
+<user> tell me when my next tennis game is. <system> Your next tennis activity is on Wednesday at 1 pm. <user> Great. 
+<user> What time and date is my lab appointment? 
+<user> What time and date is my lab appointment?  <system> Your lab appointment is scheduled on Friday at 4 pm. <user> Thank you!
+<user> What is the date and time of my next lab appointment?
+<user> What is the date and time of my next lab appointment? <system>  You have two, one at 4pm on the 17th, and one at 6pm on Tuesday.  <user> Thank you.
+<user> navigate to the nearest coffee shop.
+<user> navigate to the nearest coffee shop. <system> Navigating you to Starbucks. <user> Please send me the address on screen and pick the quickest route for me, thank you!
+<user> navigate to the nearest coffee shop. <system> Navigating you to Starbucks. <user> Please send me the address on screen and pick the quickest route for me, thank you! <system> Starbucks is at 792 Bedoin Street. <user> Thanks!
+<user> Where is a hospital in the area?
+<user> Where is a hospital in the area? <system> I have a listing for a hospital named Stanford Childrens Health and its 5 miles away. <user> What is the address?
+<user> Where is a hospital in the area? <system> I have a listing for a hospital named Stanford Childrens Health and its 5 miles away. <user> What is the address? <system> Its address is 899 Ames Ct, unfortunately there is heavy traffic on our way: what to do? <user> That is ok, thanks.
+<user> add meeting in conference room 102 the calendar.
+<user> add meeting in conference room 102 the calendar. <system> What day and time is the meeting? <user> The meeting is at 2pm on August 3rd with Sales Team to discuss the merger.
+<user> add meeting in conference room 102 the calendar. <system> What day and time is the meeting? <user> The meeting is at 2pm on August 3rd with Sales Team to discuss the merger. <system> Setting meeting at 2pm on August 3rd with Sales Team to discuss the merger. <user> Perfect. Nothing else for now. 
+<user> Will it be overcast in San Mateo over the next 48 hours?
+<user> Will it be overcast in San Mateo over the next 48 hours? <system> It will be stormy on Tuesday and there will be rain on Wednesday in San Mateo. <user> Thank you car!
+<user> What day and time is my yoga activity?
+<user> What day and time is my yoga activity? <system> Your yoga activity is on Wednesday at 7 pm. <user> Alright, thanks.
+<user> find me a hotel room for tonight.
+<user> find me a hotel room for tonight. <system> You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away. <user> Which is the quickest?
+<user> find me a hotel room for tonight. <system> You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away. <user> Which is the quickest? <system> The Westin appears to be the fastest at 4 miles away and no traffic. Do you need the address? <user> Yes, please, and set the navigation there too.
+<user> find me a hotel room for tonight. <system> You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away. <user> Which is the quickest? <system> The Westin appears to be the fastest at 4 miles away and no traffic. Do you need the address? <user> Yes, please, and set the navigation there too. <system> The Westin is located at 329 El Camino Real. Setting navigation now. <user> Thank you. 
+<user> what is the weather.
+<user> what is the weather. <system> Where are you interested in the weather for? <user> San Francisco.
+<user> what is the weather. <system> Where are you interested in the weather for? <user> San Francisco. <system> In San Francisco right now, it is warm, with a low of 60F and a high of 70F. <user> Thank you!
+<user> what time is the football game this week.
+<user> what time is the football game this week. <system> The football game is on Friday at 11 am.  <user> Thank you car. 
+<user> Find me the fastest route to the nearest rest stop around.
+<user> Find me the fastest route to the nearest rest stop around. <system> There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there? <user> Yes please. Thanks for the help. 
+<user> Find me the fastest route to the nearest rest stop around. <system> There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there? <user> Yes please. Thanks for the help.  <system> Setting GPS now. <user> Would you give me the address please?
+<user> Find me the fastest route to the nearest rest stop around. <system> There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there? <user> Yes please. Thanks for the help.  <system> Setting GPS now. <user> Would you give me the address please? <system> The address for Comfort Inn is 753 University Ave. <user> Thank you car, let's go there!
+<user> i'm not feeling well show me the fastest route to the nearest hospital.
+<user> i'm not feeling well show me the fastest route to the nearest hospital. <system> The nearest hospital is 5 miles away at 899 Ames Ct, there is heavy traffic on the way.  <user> Thanks.
+<user> Where is the nearest gas station?
+<user> Where is the nearest gas station? <system> The nearest gas station is 76 at 4 miles away but a road block is nearby.  <user> Thanks for the information. 
+<user> On friday will there be frost in menlo park?
+<user> On friday will there be frost in menlo park? <system> In Menlo Park the weather will be stormy on Friday. <user> Thanks.
+<user> What time is my football activity and who is attending?
+<user> What time is my football activity and who is attending? <system> Which one? I have two, one for 11 am with Ana, and one for 6pm with Job. <user> That's all the info I needed, thanks. 
+<user> is it going to rain sometime this week.
+<user> is it going to rain sometime this week. <system> What city are you wanting to know if it's going to rain? <user> Menlo Park.
+<user> is it going to rain sometime this week. <system> What city are you wanting to know if it's going to rain? <user> Menlo Park. <system> In Menlo Park, it will rain on Tuesday and Wednesday. <user> Thanks!
+<user> Please give me the address and directions via the fastest route to a hospital nearby. 
+<user> Please give me the address and directions via the fastest route to a hospital nearby.  <system> The fastest route to the hospital is 899 Ames Ct. at 4 miles away with a road block nearby. Do you want to go to Stanford Childrens Health? <user> Yes, please pick the shortest distance to get there, thank you!
+<user> take me to the closest starbucks.
+<user> take me to the closest starbucks. <system> There is no Starbucks nearby. <user> Do you have any local coffee shops?
+<user> take me to the closest starbucks. <system> There is no Starbucks nearby. <user> Do you have any local coffee shops? <system> There is Coupa, it's just 6 miles away but there is heavy traffic on our way. <user> Pick the fastest way and let's go there, thank you!
+<user> take me to the closest starbucks. <system> There is no Starbucks nearby. <user> Do you have any local coffee shops? <system> There is Coupa, it's just 6 miles away but there is heavy traffic on our way. <user> Pick the fastest way and let's go there, thank you! <system> Coupa is located at 394 Van Ness Avenue. Setting the fastest route on GPS.  <user> Thank you.
+<user> what is the weather like in new york this week.
+<user> what is the weather like in new york this week. <system> What can I tell you about this week's weather in new york? <user> I want to find out if it will rain this week.
+<user> what is the weather like in new york this week. <system> What can I tell you about this week's weather in new york? <user> I want to find out if it will rain this week. <system> It will not rain this week in New York. <user> Thanks.
+<user> I need the address of a the shopping center that I can get to the quickest from here.
+<user> I need the address of a the shopping center that I can get to the quickest from here. <system> Stanford Shopping Center is 5 miles away but there is heavy traffic on our way. Do you want me to set the GPS to get there? <user> Yes, please, just pick the quickest route and let's go there!
+<user> I need the address of a the shopping center that I can get to the quickest from here. <system> Stanford Shopping Center is 5 miles away but there is heavy traffic on our way. Do you want me to set the GPS to get there? <user> Yes, please, just pick the quickest route and let's go there! <system> The quickest route is 773 Alger dr and is set.  <user> Thanks for all the help. 
+<user> What is my friend's address?
+<user> What is my friend's address? <system> Jill's house is located at 347 Alta Mesa Ave. Anything else? <user> How's the traffic?
+<user> What is my friend's address? <system> Jill's house is located at 347 Alta Mesa Ave. Anything else? <user> How's the traffic? <system> There is no traffic on the way to Jill's House. <user> Perfect. Let's go. 
+<user> What is my friend's address? <system> Jill's house is located at 347 Alta Mesa Ave. Anything else? <user> How's the traffic? <system> There is no traffic on the way to Jill's House. <user> Perfect. Let's go.  <system> Okay, we're on the way now! <user> Thank you.
+<user> I need a rest stop.
+<user> I need a rest stop. <system> The Clement Hotel is 5 miles away. <user> Farther than I wish but patience.. Please send me the quickest way to get there, thank you!
+<user> I need a rest stop. <system> The Clement Hotel is 5 miles away. <user> Farther than I wish but patience.. Please send me the quickest way to get there, thank you! <system> Sure, it's just 5 miles away at 657 Ames Avenue. <user> Please give me a quick route. Thank you.
+<user> I need a rest stop. <system> The Clement Hotel is 5 miles away. <user> Farther than I wish but patience.. Please send me the quickest way to get there, thank you! <system> Sure, it's just 5 miles away at 657 Ames Avenue. <user> Please give me a quick route. Thank you. <system> Setting route to 657 Ames Avenue now.  <user> Thank you car!
+<user> What is my friend's house's address?
+<user> What is my friend's house's address? <system> Jill or Jack? <user> The one who is the closest.
+<user> What is my friend's house's address? <system> Jill or Jack? <user> The one who is the closest. <system> Jack is closer. <user> What is his address?
+<user> What is my friend's house's address? <system> Jill or Jack? <user> The one who is the closest. <system> Jack is closer. <user> What is his address? <system> 864 Almanor Ln, it's 3 miles away, I sent his address on your screen. <user> Thanks.
+<user> I have an appointment at 1pm on wednesday with Alex.
+<user> I have an appointment at 1pm on wednesday with Alex. <system>  Okay making appointment with Alex on Wednesday at 1pm. <user> thanks!
+<user> Will it drizzle in Oakland in the next week?
+<user> Will it drizzle in Oakland in the next week? <system> It will not drizzle in Oakland next week. <user> Thank you.
+<user> Where is my home?
+<user> Where is my home? <system> You live at 10 ames street. <user> Yes, yes, right, I need my morning coffee.. Please pick the shortest distance to go back home!
+<user> Where is my home? <system> You live at 10 ames street. <user> Yes, yes, right, I need my morning coffee.. Please pick the shortest distance to go back home! <system> We're 2 miles away and there is no traffic, I sent the route on your screen, keep your eyes open on the road! <user> Thank you car!
+<user> find me a nearby coffee shop where i can sit and have some coffee.
+<user> find me a nearby coffee shop where i can sit and have some coffee. <system> The Palo Alto Cafe is located at 436 Alger Dr, it is 2 miles away with moderate traffic. <user> That's great! Please send me its address on screen and pick the quickest way for me.
+<user> Where is the closest rest stop?
+<user> Where is the closest rest stop? <system> Comfort Inn is 5 miles away. <user> Do you have for me a route with no traffic to reach it?
+<user> Where is the closest rest stop? <system> Comfort Inn is 5 miles away. <user> Do you have for me a route with no traffic to reach it? <system> Comfort Inn route is reporting a car collision nearby. Do you still want to go there? <user> Yes I need to rest. 
+<user> Where is the closest rest stop? <system> Comfort Inn is 5 miles away. <user> Do you have for me a route with no traffic to reach it? <system> Comfort Inn route is reporting a car collision nearby. Do you still want to go there? <user> Yes I need to rest.  <system> I sent the best available route on your screen, drive carefully! <user> Thanks!
+<user> What time is the optometrist appointment and who is going?
+<user> What time is the optometrist appointment and who is going? <system> I have two, one at 1pm with Father, and one at 7pm with Martha. <user> The one with Martha. Thanks.
+<user> What time is the optometrist appointment and who is going? <system> I have two, one at 1pm with Father, and one at 7pm with Martha. <user> The one with Martha. Thanks. <system> The optometrist appointment with Martha is at 7pm. <user> Thanks!
+<user> will it rain next week.
+<user> will it rain next week. <system> For which city would you like to know if there is going to be rain next week? <user> Seattle.
+<user> will it rain next week. <system> For which city would you like to know if there is going to be rain next week? <user> Seattle. <system> It will drizzle Tuesday, Saturday, and Sunday in Seattle. <user> Thanks.
+<user> what is today's forecast.
+<user> what is today's forecast. <system> What city would you like today's forecast for? <user> Please check for Boston.
+<user> what is today's forecast. <system> What city would you like today's forecast for? <user> Please check for Boston. <system> Today in Boston it is cloudy with a temperature between 70-80F. <user> Okay, thank you.
+<user> give me directions to the nearest restaurant.
+<user> give me directions to the nearest restaurant. <system> Navigating you to Jing Jing. <user> Can you give me the quickest route? 
+<user> give me directions to the nearest restaurant. <system> Navigating you to Jing Jing. <user> Can you give me the quickest route?  <system> Setting GPS to quickest route for Jing Jing which has no traffic. <user> Thank you car, please send me the address on screen!
+<user> Is it snowy in alhambra today?
+<user> Is it snowy in alhambra today? <system> It is not snowy in Alhambra today. <user> Thanks.
+<user> What grocery stores are near?
+<user> What grocery stores are near? <system> We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there? <user> What is the address?
+<user> What grocery stores are near? <system> We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there? <user> What is the address? <system> Safeway is at 452 Arcadia Pl. <user> Let's go there through the route with the shortest distance please.
+<user> What grocery stores are near? <system> We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there? <user> What is the address? <system> Safeway is at 452 Arcadia Pl. <user> Let's go there through the route with the shortest distance please. <system> Taking you there on the shortest distance. <user> Thanks!
+<user> take me to the closest whole foods place i can buy groceries.
+<user> take me to the closest whole foods place i can buy groceries. <system> Sigona farmers Market is the only grocery store I can find. It is 5 miles away. <user> That will be fine, thank you.
+<user> search hotels near me.
+<user> search hotels near me. <system> There is a Four Seasons and a Hotel Keen nearby. <user> Give me the address of a rest stop nearby.
+<user> search hotels near me. <system> There is a Four Seasons and a Hotel Keen nearby. <user> Give me the address of a rest stop nearby. <system> The nearest rest stop is at 465 Arcadia Pl. <user> Thanks!
+<user> what's the temperature going to be like today and tomorrow.
+<user> what's the temperature going to be like today and tomorrow. <system> For what city? <user> Seattle, please.
+<user> what's the temperature going to be like today and tomorrow. <system> For what city? <user> Seattle, please. <system> Today's temperature in Seattle will have a low of 30 F and a high of 40F. Tomorrow's temperature will be a low of 80F and a high of 90F. <user> Thank you!
+<user> I need you to set a reminder for me to take my medicine. Set it for 10 am, the 7th with Jon, please. 
+<user> I need you to set a reminder for me to take my medicine. Set it for 10 am, the 7th with Jon, please.  <system> Alright, setting a reminder at 10 am to take medicine on the 7th with Jon. <user> Thank you.
+<user> What is my address?
+<user> What is my address? <system> Home is programmed as 5671 Barringer Street.  <user> Please give me the shortest route. 
+<user> What is my address? <system> Home is programmed as 5671 Barringer Street.  <user> Please give me the shortest route.  <system> The route to home does not have any traffic, you should arrive quickly being that it is 1 mile away. <user> Awesome, thank you. 
+<user> find the nearest coffee shop.
+<user> find the nearest coffee shop. <system> The nearest coffee shop is Cafe Venetia on 269 Alger Dr. <user> OK, please direct me there via a route that avoids all heavy traffic. 
+<user> find the nearest coffee shop. <system> The nearest coffee shop is Cafe Venetia on 269 Alger Dr. <user> OK, please direct me there via a route that avoids all heavy traffic.  <system> There is a car collision reported on the route to Cafe Venetia.  <user> That is fine, just give directions around the traffic. 
+<user> find the nearest coffee shop. <system> The nearest coffee shop is Cafe Venetia on 269 Alger Dr. <user> OK, please direct me there via a route that avoids all heavy traffic.  <system> There is a car collision reported on the route to Cafe Venetia.  <user> That is fine, just give directions around the traffic.  <system> Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway? <user> How far away is it?
+<user> find the nearest coffee shop. <system> The nearest coffee shop is Cafe Venetia on 269 Alger Dr. <user> OK, please direct me there via a route that avoids all heavy traffic.  <system> There is a car collision reported on the route to Cafe Venetia.  <user> That is fine, just give directions around the traffic.  <system> Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway? <user> How far away is it? <system> 2 miles away. <user> Yes, please direct me via the route with least traffic.
+<user> find the nearest coffee shop. <system> The nearest coffee shop is Cafe Venetia on 269 Alger Dr. <user> OK, please direct me there via a route that avoids all heavy traffic.  <system> There is a car collision reported on the route to Cafe Venetia.  <user> That is fine, just give directions around the traffic.  <system> Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway? <user> How far away is it? <system> 2 miles away. <user> Yes, please direct me via the route with least traffic. <system> OK, setting navigation now.  <user> Thank you car assistant .
+<user> Next week will it be misty anytime in redwood city?
+<user> Next week will it be misty anytime in redwood city? <system> This week it's not gonna be misty in Redwood City. <user> Thank you car!
+<user> Car I need to get home, it should be near me, please highlight its position on the map.
+<user> Car I need to get home, it should be near me, please highlight its position on the map. <system> Your home is at 10 ames street. <user> Avoid all heavy traffic and let's go there, thank you!
+<user> Car I need to get home, it should be near me, please highlight its position on the map. <system> Your home is at 10 ames street. <user> Avoid all heavy traffic and let's go there, thank you! <system> Setting GPS to avoid any heavy traffic. Your route is now set. <user> Thanks so much. 
+<user> What day and time is my tennis activity?
+<user> What day and time is my tennis activity? <system> Your tennis activity is on the 4th at 3pm. <user> Thanks.
+<user> get me the weather report for this week.
+<user> get me the weather report for this week. <system> What city would you like the weather report from? <user> I wanna know if it will rain in Fresno.
+<user> get me the weather report for this week. <system> What city would you like the weather report from? <user> I wanna know if it will rain in Fresno. <system> It's not gonna rain in Fresno this week. <user> Thank you.
+<user> give me this week's high temperature.
+<user> give me this week's high temperature. <system> What city would you like to know the high temperature of? <user> For Compton please.
+<user> give me this week's high temperature. <system> What city would you like to know the high temperature of? <user> For Compton please. <system> This week the highest temperature in Compton will be 90F on Friday and Sunday. <user> Thank you.
+<user> what time is my tennis match for this saturday.
+<user> what time is my tennis match for this saturday. <system> Your tennis activity is scheduled for 11am on Tuesday, nothing is scheduled for Saturday. <user> Oh okay well thank you car. 
+<user> does the forecast say it will snow.
+<user> does the forecast say it will snow. <system> What city do you want the weather for? <user> I would like information for Compton.
+<user> does the forecast say it will snow. <system> What city do you want the weather for? <user> I would like information for Compton. <system> It is not forecasted to snow in Compton this week. <user> Thanks.
+<user> find directions to nearest starbucks.
+<user> find directions to nearest starbucks. <system> There is no Starbucks in your area but there are other coffee places near by. Would you like more info? <user> Yes.
+<user> find directions to nearest starbucks. <system> There is no Starbucks in your area but there are other coffee places near by. Would you like more info? <user> Yes. <system> The nearest coffee shop is 2 miles away and the name of it is Philz. Would you like the address? <user> Yes please.
+<user> find directions to nearest starbucks. <system> There is no Starbucks in your area but there are other coffee places near by. Would you like more info? <user> Yes. <system> The nearest coffee shop is 2 miles away and the name of it is Philz. Would you like the address? <user> Yes please. <system> Philz is 2 miles away at 583 Alester Avenue. Anything else? <user> No that's it for now. Thanks. 
+<user> Where can I get pizza?
+<user> Where can I get pizza? <system> There is a Round Table and Papa Johns near. <user> Which one is closer to my location?
+<user> Where can I get pizza? <system> There is a Round Table and Papa Johns near. <user> Which one is closer to my location? <system> Papa Johns is closer at 3 miles. <user> Then pick a quick route to get there, thank you!
+<user> Where can I get pizza? <system> There is a Round Table and Papa Johns near. <user> Which one is closer to my location? <system> Papa Johns is closer at 3 miles. <user> Then pick a quick route to get there, thank you! <system> Setting navigation to Papa Johns at 110 Arastradero Rd. Anything else? <user> That will be all, thanks!
+<user> set a reminder about my swim meet next wednesday at 3 pm.
+<user> set a reminder about my swim meet next wednesday at 3 pm. <system> your swim meet has been set for 3pm next Wednesday, the 7th....is that correct? <user> Yes, that is correct. Thank you! 
+<user> what route can i take home to avoid traffic.
+<user> what route can i take home to avoid traffic. <system> In this moment there is moderate traffic on our way but since we're just 6 miles away it shouldn't take too long to reach home. I sent the route on your screen. <user> OK, thanks for directions via a route with the least traffic. 
+<user> what route can i take home to avoid traffic. <system> In this moment there is moderate traffic on our way but since we're just 6 miles away it shouldn't take too long to reach home. I sent the route on your screen. <user> OK, thanks for directions via a route with the least traffic.  <system> Setting directions to 5672 barringer street now.  <user> Thank you car assistant for the help. 
+<user> give me directions to starbucks.
+<user> give me directions to starbucks. <system> There are no nearby Starbucks, but there are 3 other Coffee places nearby.  <user> Please send me directions for the one closest to me.
+<user> give me directions to starbucks. <system> There are no nearby Starbucks, but there are 3 other Coffee places nearby.  <user> Please send me directions for the one closest to me. <system> Setting directions to Coupa, located 2 miles away at 394 Van Ness Ave. <user> Thank you!
+<user> what is the forecast for today and tomorrow.
+<user> what is the forecast for today and tomorrow. <system> What city do you want the weather for? <user> Will it be overcast in downtown Chicago today or tomorrow?
+<user> what is the forecast for today and tomorrow. <system> What city do you want the weather for? <user> Will it be overcast in downtown Chicago today or tomorrow? <system> There will be no overcast today and tomorrow in Chicago. The forecast for Monday is hot, low of 80F, high of 90F. The forecast for Tuesday will be snow, low of 60F, high of 70F. <user> Very nice to know, thanks.
+<user> Find a shopping mall that i can get to with the least amount of traffic.
+<user> Find a shopping mall that i can get to with the least amount of traffic. <system> Topanga Mall is the only one nearby but here is heavy traffic. <user> Well I guess it will have to do. Set the GPS please. 
+<user> what is the forecast for the city this week.
+<user> what is the forecast for the city this week. <system> Which city do you want the weather forecast for? <user> Inglewood.
+<user> what is the forecast for the city this week. <system> Which city do you want the weather forecast for? <user> Inglewood. <system> In Inglewood it will be frosty on Monday, overcast on Tuesday, raining on Wednesday, foggy on Thursday, drizzle on Friday and Saturday, dry on Sunday. <user> Thank you!
+<user> is it supposed to snow today.
+<user> is it supposed to snow today. <system> What location do you want the weather for? <user> Oakland.
+<user> is it supposed to snow today. <system> What location do you want the weather for? <user> Oakland. <system> There will be no snow today in Oakland. <user> Thanks.
+<user> can you set a reminder for a yoga activity at 2pm on the 1st.
+<user> can you set a reminder for a yoga activity at 2pm on the 1st. <system> Okay, I am scheduling a yoga activity for you on the 1st at 2pm. <user> My sister is coming along, thanks. 
+<user> can you set a reminder for a yoga activity at 2pm on the 1st. <system> Okay, I am scheduling a yoga activity for you on the 1st at 2pm. <user> My sister is coming along, thanks.  <system> Your sister has been added to parties involved for your yoga activity at 2pm on the 1st. <user> Perfect.
+<user> find me chinese restaurants within 3 miles of my current location.
+<user> find me chinese restaurants within 3 miles of my current location. <system> There is a Jing Jing 2 miles away. <user> Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic?
+<user> find me chinese restaurants within 3 miles of my current location. <system> There is a Jing Jing 2 miles away. <user> Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic? <system> Alright, the route to 113 Arbol Drive is 2 miles away with a road block nearby. <user> Please set the GPS to go there, thank you!
+<user> find me chinese restaurants within 3 miles of my current location. <system> There is a Jing Jing 2 miles away. <user> Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic? <system> Alright, the route to 113 Arbol Drive is 2 miles away with a road block nearby. <user> Please set the GPS to go there, thank you! <system> Navigation is set. Drive carefully, and enjoy.  <user> Thank you.
+<user> Where can I get a coffee?
+<user> Where can I get a coffee? <system> Teavana is 2 miles away. <user> Is there a quick route to reach it?
+<user> Where can I get a coffee? <system> Teavana is 2 miles away. <user> Is there a quick route to reach it? <system> Unfortunately Teavana is the only coffee place I can find. It is 2 miles away through heavy traffic, located at 145 Amherst St. <user> Well, it is what it is. Let's navigate there now. 
+<user> Schedule a doctor appointment with my brother for August 3rd at 10am.
+<user> Schedule a doctor appointment with my brother for August 3rd at 10am. <system> Okay, scheduling a doctor appointment with your brother for August 3rd at 10am. <user> Thanks. 
+<user> check the weather forecast.
+<user> check the weather forecast. <system> For what location and time? <user> Will it be dry in Fresno today?
+<user> check the weather forecast. <system> For what location and time? <user> Will it be dry in Fresno today? <system> No, it will not be dry in Fresno today. Today's forecast is rain, with a low of 20F and a high of 40F. <user> Thank you!
+<user> Is there a chinese place that has no traffic on the way? 
+<user> Is there a chinese place that has no traffic on the way?  <system> Jing Jing is 2 miles away in light traffic. Would you like directions there?  <user> Yes, please!
+<user> Is there a chinese place that has no traffic on the way?  <system> Jing Jing is 2 miles away in light traffic. Would you like directions there?  <user> Yes, please! <system> Jing Jing is at 113 Arbol Dr. do you need me to set the navigation? <user> Sure, thank you car!
+<user> What is the date of my next optometrist appointment and who will be attending?
+<user> What is the date of my next optometrist appointment and who will be attending? <system> I have two, one on Thursday with Tom, and one on the 3rd with Alex. <user> Thanks. 
+<user> Can you find out the parties attending and time for my optometrist appointment? 
+<user> Can you find out the parties attending and time for my optometrist appointment?  <system> I have four, one with Alex at 5pm on Saturday, one with your sister at 2pm on the 5th, one with Jeff on the 6th, and one with Martha on thursday. Which one? <user> That will do, thank you kindly.
+<user> Where is the local gas station?
+<user> Where is the local gas station? <system> There is a gas station 4 miles away. It's Chevron. Would you like more details? <user> Yes please show me the route and avoid heavy traffic. 
+<user> Where is the local gas station? <system> There is a gas station 4 miles away. It's Chevron. Would you like more details? <user> Yes please show me the route and avoid heavy traffic.  <system> Here is the best route to Chevron. <user> What is the address?
+<user> Where is the local gas station? <system> There is a gas station 4 miles away. It's Chevron. Would you like more details? <user> Yes please show me the route and avoid heavy traffic.  <system> Here is the best route to Chevron. <user> What is the address? <system> 783 Arcadia Pl: do you want me to send the route on your screen? <user> Yes please that sounds great. 
+<user> Where is the local gas station? <system> There is a gas station 4 miles away. It's Chevron. Would you like more details? <user> Yes please show me the route and avoid heavy traffic.  <system> Here is the best route to Chevron. <user> What is the address? <system> 783 Arcadia Pl: do you want me to send the route on your screen? <user> Yes please that sounds great.  <system> Plotting route to 783 Arcadia Pl, 4 miles away with car collision nearby. <user> Thank you car!
+<user> Car I need a gas station to feed you: is there anything around here?
+<user> Car I need a gas station to feed you: is there anything around here? <system> There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer? <user> Please ask Siri to replace you and take me to the one with a quick route, thank you!
+<user> Car I need a gas station to feed you: is there anything around here? <system> There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer? <user> Please ask Siri to replace you and take me to the one with a quick route, thank you! <system> Directions to Valero are on your screen. <user> Where is Valero located?
+<user> Car I need a gas station to feed you: is there anything around here? <system> There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer? <user> Please ask Siri to replace you and take me to the one with a quick route, thank you! <system> Directions to Valero are on your screen. <user> Where is Valero located? <system> Valero is located at 200 Alester Ave and has a road block reported.  <user> Then let's go there, thank you!
+<user> What day is my lab appointment and who is coming with? 
+<user> What day is my lab appointment and who is coming with?  <system> Currently you have two lab appointments. One on the 3rd which Martha is attending, and one on the 13th that your brother is attending. <user> Thank you for your help.
+<user> i have a meeting on the 12th of august at 5:50 please remind me.
+<user> i have a meeting on the 12th of august at 5:50 please remind me. <system> I have set a reminder for your meeting on August 12th at 5:50 <user> Thank you.
+<user> Car I need to go back home, please pick the quickest way with no traffic.
+<user> Car I need to go back home, please pick the quickest way with no traffic. <system> The only route i currently have to home currently has heavy traffic. Would you like me to set your GPS anyway? <user> It's okay, just pick the quickest route to get there, thank you!
+<user> Car I need to go back home, please pick the quickest way with no traffic. <system> The only route i currently have to home currently has heavy traffic. Would you like me to set your GPS anyway? <user> It's okay, just pick the quickest route to get there, thank you! <system> Taking you on the quickest way home. <user> Thank you car!
+<user> navigate me to the nearest hotel.
+<user> navigate me to the nearest hotel. <system> The nearest hotel is the Four Seasons. <user> Send me the address on screen.
+<user> navigate me to the nearest hotel. <system> The nearest hotel is the Four Seasons. <user> Send me the address on screen. <system> The Four Seasons hotel is located at 465 Arcadia Pl. <user> Set GPS for quickest available route.
+<user> navigate me to the nearest hotel. <system> The nearest hotel is the Four Seasons. <user> Send me the address on screen. <system> The Four Seasons hotel is located at 465 Arcadia Pl. <user> Set GPS for quickest available route. <system> GPS set. Anything else? <user> That's it, thank you car!
+<user> what's the weather forecast for the next week.
+<user> what's the weather forecast for the next week. <system> What city are you inquiring about? <user> San Francisco.
+<user> what's the weather forecast for the next week. <system> What city are you inquiring about? <user> San Francisco. <system> In the next week in San Francisco it will be dry on Monday, raining on Tuesday,	hail on Wednesday and Thursday, hot on Friday, overcast on Saturday, frost on Sunday. <user> Thank you!
+<user> start listening what will be the weather for the week.
+<user> start listening what will be the weather for the week. <system> For what city do you need the weekly forecast?  <user> San Francisco.
+<user> start listening what will be the weather for the week. <system> For what city do you need the weekly forecast?  <user> San Francisco. <system> The weather in San Francisco during the next week will be humid on Monday, clear skies on Tuesday, stormy on Wednesday, raining on Thursday, windy on Friday, raining again on Saturday and Sunday. <user> Thank you so much car!
+<user> Schedule a dinner at 3pm on Monday the 1st with Alex.
+<user> Schedule a dinner at 3pm on Monday the 1st with Alex. <system> Okay, scheduling dinner with Alex for Monday the 1st at 3pm. <user> Thanks!
+<user> Will the weather be stormy in San Mateo over the next 7 days?
+<user> Will the weather be stormy in San Mateo over the next 7 days? <system> It will not be stormy in San Mateo this week. <user> Thank you.
+<user> Address to the gas station .
+<user> Address to the gas station . <system> Valero is located at 200 Alester Ave.  <user> OK, please give me directions via a route that avoids all heavy traffic. 
+<user> Address to the gas station . <system> Valero is located at 200 Alester Ave.  <user> OK, please give me directions via a route that avoids all heavy traffic.  <system> Since there is a road block nearby, I found another route for you and I sent it on your screen. <user> Awesome thank you.
+<user> is it going to be cloudy in the next 7 days.
+<user> is it going to be cloudy in the next 7 days. <system> For what city would you like the forecast? <user> Chicago please.
+<user> Schedule a football activity with my mother for August 14th at 11am.
+<user> Schedule a football activity with my mother for August 14th at 11am. <system> Setting a schedule for football activity with mother for August 14th at 11 am. <user> Thank you buddy.
+<user> Currently are there clear skies in redwood city?
+<user> Currently are there clear skies in redwood city? <system> There currently are no clear skies in Redwood City. <user> Thank you.
+<user> Will it drizzle in Camarillo tomorrow?
+<user> Will it drizzle in Camarillo tomorrow? <system> On Tuesday there will be drizzle in Camarillo. <user> Thank you very much car!
+<user> check forecast for today and tomorrow.
+<user> check forecast for today and tomorrow. <system> What city should I check the forecast for? <user> San Mateo please, find out the forecast for today and tomorrow. 
+<user> check forecast for today and tomorrow. <system> What city should I check the forecast for? <user> San Mateo please, find out the forecast for today and tomorrow.  <system> In San Mateo there will be rain today, and it will be stormy tomorrow. <user> Thank you!
+<user> schedule a blood test.
+<user> schedule a blood test. <system> What date and time are you blood test? <user> It is tomorrow at 1 pm. 
+<user> schedule a blood test. <system> What date and time are you blood test? <user> It is tomorrow at 1 pm.  <system> Your blood test has been scheduled for tomorrow at 1PM. <user> Perfect.
+<user> what's the weather going to be like in the city on thursday.
+<user> what's the weather going to be like in the city on thursday. <system> what city do you want to hear thursday's weather for? <user> Will it be overcast in Atherton on Thursday?
+<user> what's the weather going to be like in the city on thursday. <system> what city do you want to hear thursday's weather for? <user> Will it be overcast in Atherton on Thursday? <system> It will be cloudy in Atherton on Thursday. <user> Thanks so much. 
+<user> I need to locate a shopping center.
+<user> I need to locate a shopping center. <system> Stanford Shopping Center and Town and Country are both near. <user> Which is within 3 miles?
+<user> I need to locate a shopping center. <system> Stanford Shopping Center and Town and Country are both near. <user> Which is within 3 miles? <system> Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.  <user> Since Town and Country is the closest tell me its details.
+<user> I need to locate a shopping center. <system> Stanford Shopping Center and Town and Country are both near. <user> Which is within 3 miles? <system> Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.  <user> Since Town and Country is the closest tell me its details. <system> . <user> I repeat: please tell me about Town and Country: which one is it the quickest way to go there?
+<user> I need to locate a shopping center. <system> Stanford Shopping Center and Town and Country are both near. <user> Which is within 3 miles? <system> Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.  <user> Since Town and Country is the closest tell me its details. <system> . <user> I repeat: please tell me about Town and Country: which one is it the quickest way to go there? <system> Its address is 383 University Ave, I sent the position on your screen. <user> Thank you car!
+<user> What time do i have to take medicine and who is helping ? 
+<user> What time do i have to take medicine and who is helping ?  <system> I have you set for two. One at 6pm and one at 3pm. <user> Who will be helping me for the one at 3pm?
+<user> What time do i have to take medicine and who is helping ?  <system> I have you set for two. One at 6pm and one at 3pm. <user> Who will be helping me for the one at 3pm? <system> Mother is one the helping at 3 pm. Anything else?  <user> Nope, thank you.
+<user> what will the weather be like in the city.
+<user> what will the weather be like in the city. <system> Where would you like to hear the weather forecast from? <user> I want to know if there are clear skies in Atherton right now.
+<user> what will the weather be like in the city. <system> Where would you like to hear the weather forecast from? <user> I want to know if there are clear skies in Atherton right now. <system> There will be no clear skies in Atherton today, the weather will be a blizzard, low of 50F, high of 60F. <user> Thank you!
+<user> take me to a chinese restaurant.
+<user> take me to a chinese restaurant. <system> Chef Chu's located at 593 Arrowhead Way is 4 miles away, there isn't any traffic on this route. <user> Thank you!
+<user> set a reminder for my daughter's swimming lessons.
+<user> set a reminder for my daughter's swimming lessons. <system> Okay, for what time and day?  <user> I need it to be set for 7 pm on the 1st.
+<user> set a reminder for my daughter's swimming lessons. <system> Okay, for what time and day?  <user> I need it to be set for 7 pm on the 1st. <system> I am setting a reminder for swimming lessons at 7 pm  on the 1st.  <user> Thank you car. 
+<user> what's the weather like in new york.
+<user> what's the weather like in new york. <system> The weather in New York is foggy. <user> Okay great. Will there be clear skies in the next few days in New York?
+<user> what's the weather like in new york. <system> The weather in New York is foggy. <user> Okay great. Will there be clear skies in the next few days in New York? <system> No, the weather isn't going to be good in New York in next days. <user> great thank you.
+<user> Schedule a dentist appointment with Alex for Monday August 8th at 6pm.
+<user> Schedule a dentist appointment with Alex for Monday August 8th at 6pm. <system> Your dentist appointment with Alex has been scheduled for Monday at 6pm. <user> Thank you. 
+<user> Set a reminder to take my medicine on Monday Aug 8 at 7 pm with my mother.
+<user> Set a reminder to take my medicine on Monday Aug 8 at 7 pm with my mother. <system> Setting a reminder to take my medicine on Monday Aug 8 at 7 pm with your mother. <user> Thanks.
+<user> Will it be warm in Brentwood this week?
+<user> Will it be warm in Brentwood this week? <system> Tuesday, Wednesday, and Sunday appear to be the warm days expected in Brentwood this week. <user> Thank you.
+<user> what's the temperature.
+<user> what's the temperature. <system> What city are you wanting to know the temperature for? <user> San Mateo.
+<user> what's the temperature. <system> What city are you wanting to know the temperature for? <user> San Mateo. <system> It is currently overcast with a low of 60F and a high of 80F in San Mateo. <user> Thank you!
+<user> what is the forecast for new york city.
+<user> what is the forecast for new york city. <system> What days are you interested in? <user> Is there a blizzard now?
+<user> what is the forecast for new york city. <system> What days are you interested in? <user> Is there a blizzard now? <system> No, there is not a blizzard in New York right now. <user> Okay, great. Thanks!
+<user> Where does  my friend live?
+<user> Where does  my friend live? <system> Jack or Jill? <user> Mmm... which one is the quickest to reach?
+<user> Where does  my friend live? <system> Jack or Jill? <user> Mmm... which one is the quickest to reach? <system> Jill's house is 2 miles away, while Jacks house is 4 miles. There is moderate traffic to both locations. <user> Let's head to Jill's house, then. 
+<user> Where does  my friend live? <system> Jack or Jill? <user> Mmm... which one is the quickest to reach? <system> Jill's house is 2 miles away, while Jacks house is 4 miles. There is moderate traffic to both locations. <user> Let's head to Jill's house, then.  <system> Displaying GPS now.  <user> Thanks.
+<user> Is it going to frost in Oakland now?
+<user> Is it going to frost in Oakland now? <system> There is no frost in the forecast for today in Oakland. <user> Thanks.
+<user> please add playing tennis to my schedule.
+<user> please add playing tennis to my schedule. <system> What day and time should I add playing tennis to your schedule? <user> August 8th at 10 AM.
+<user> please add playing tennis to my schedule. <system> What day and time should I add playing tennis to your schedule? <user> August 8th at 10 AM. <system> Okay, adding playing tennis to your calendar, on August the 8th at 10 am. <user> Perfect. Thank you.
+<user> i'd like to know where i can get some chinese takeout.
+<user> i'd like to know where i can get some chinese takeout. <system> We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more? <user> Let's try Jing Jing. 
+<user> i'd like to know where i can get some chinese takeout. <system> We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more? <user> Let's try Jing Jing.  <system> I sent its position and the route to reach it on your screen, don't speed too much. <user> What is the address, and is there supposed to be any traffic?
+<user> i'd like to know where i can get some chinese takeout. <system> We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more? <user> Let's try Jing Jing.  <system> I sent its position and the route to reach it on your screen, don't speed too much. <user> What is the address, and is there supposed to be any traffic? <system> Jing Jing is at 113 Arbol Dr. There is a road block nearby. Shall I give you directions? <user> Yes please give me directions via the fastest route.
+<user> i'd like to know where i can get some chinese takeout. <system> We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more? <user> Let's try Jing Jing.  <system> I sent its position and the route to reach it on your screen, don't speed too much. <user> What is the address, and is there supposed to be any traffic? <system> Jing Jing is at 113 Arbol Dr. There is a road block nearby. Shall I give you directions? <user> Yes please give me directions via the fastest route. <system> I sent the best route on your screen, enjoy your trip! <user> Thank you car!
+<user> I have a lab appointment with Alex at 2 at the end of March.
+<user> I have a lab appointment with Alex at 2 at the end of March. <system> Okay great, would you like to set a reminder for it? <user> Yes, please. 
+<user> I have a lab appointment with Alex at 2 at the end of March. <system> Okay great, would you like to set a reminder for it? <user> Yes, please.  <system> Okay, I just set that reminder for you. Can I help with anything else? <user> Thank you.
+<user> check weather for new york city.
+<user> check weather for new york city. <system> New York is supposed to be fair with a chance of rain on Saturday with the highs in the 90s and lows in the 20s.  <user> Thanks.
+<user> give me the time for my next doctor's appointment.
+<user> give me the time for my next doctor's appointment. <system> Your next doctor's appointment is Thursday at 1 pm.  <user> Okay perfect. 
+<user> give me weather forecast for today.
+<user> give me weather forecast for today. <system> What location do you want the weather for? <user> Will it be cloudy in Corona?
+<user> give me weather forecast for today. <system> What location do you want the weather for? <user> Will it be cloudy in Corona? <system> It is not predicted to be cloudy in corona today. <user> Thanks.
+<user> Set calendar reminder for 1pm this coming tuesday with my aunt. 
+<user> Set calendar reminder for 1pm this coming tuesday with my aunt.  <system> Sure, a calender reminder has been set for 1 PM this upcoming tuesday with your aunt. <user> Thank you!
+<user> tell me the best route to get home with the least amount of traffic.
+<user> tell me the best route to get home with the least amount of traffic. <system> Navigating you home with the least traffic. <user> Thank you car, send the address on the screen with the fastest route too.
+<user> tell me the best route to get home with the least amount of traffic. <system> Navigating you home with the least traffic. <user> Thank you car, send the address on the screen with the fastest route too. <system> The address to your home is 56 cadwell street. Setting GPS for the fastest route now. <user> Great job, thanks.
+<user> find me the best parking spot.
+<user> find me the best parking spot. <system> We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please.
+<user> find me the best parking spot. <system> We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please. <system> Setting navigation to 270 Altaire Walk now.  <user> Please pick the fastest route, thanks!
+<user> find me the best parking spot. <system> We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please. <system> Setting navigation to 270 Altaire Walk now.  <user> Please pick the fastest route, thanks! <system> Yes, I will navigate you via the fastest route. <user> Thank you car!
+<user> is it going to snow this week.
+<user> is it going to snow this week. <system> What city would you like the forecast for? <user> Boston.
+<user> i'd like to know where i can get some chinese takeout.
+<user> i'd like to know where i can get some chinese takeout. <system> Panda Express is a chinese restaurant nearby. <user> Can you show me the quickest route?
+<user> i'd like to know where i can get some chinese takeout. <system> Panda Express is a chinese restaurant nearby. <user> Can you show me the quickest route? <system> Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now? <user> Is there another chinese restaurant available? 
+<user> i'd like to know where i can get some chinese takeout. <system> Panda Express is a chinese restaurant nearby. <user> Can you show me the quickest route? <system> Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now? <user> Is there another chinese restaurant available?  <system> No, Panda Express is the only one i have listed. <user> What is the address?
+<user> i'd like to know where i can get some chinese takeout. <system> Panda Express is a chinese restaurant nearby. <user> Can you show me the quickest route? <system> Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now? <user> Is there another chinese restaurant available?  <system> No, Panda Express is the only one i have listed. <user> What is the address? <system> Panda Express is located at 842 Arrowhead Way. <user> Thank you, let's go there!
+<user> Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please.
+<user> Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please. <system> Here is a route to Starbucks, 4 miles away. <user> Make sure it is the quickest please. 
+<user> Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please. <system> Here is a route to Starbucks, 4 miles away. <user> Make sure it is the quickest please.  <system> There isn't any traffic, heading to 792 Bedoin Street. <user> Great, thanks.
+<user> Will it be hot in Inglewood this weekend?
+<user> Will it be hot in Inglewood this weekend? <system> It will be hot on Sunday in Inglewood. <user> Thanks.
+<user> will it snow this week.
+<user> will it snow this week. <system> Which city would you like to find out if it's snowing in? <user> Cleveland.
+<user> will it snow this week. <system> Which city would you like to find out if it's snowing in? <user> Cleveland. <system> Snow is predicted to fall in Cleveland today. <user> Thank you car. 
+<user> find directions to the nearest starbucks.
+<user> find directions to the nearest starbucks. <system> There is no Starbucks nearby, the Palo Alto Cafe is 7 miles away. Would you like directions there?  <user> Yes, please give me the address and directions via a route with no traffic. 
+<user> find directions to the nearest starbucks. <system> There is no Starbucks nearby, the Palo Alto Cafe is 7 miles away. Would you like directions there?  <user> Yes, please give me the address and directions via a route with no traffic.  <system> The Palo Alto Cafe is reporting heavy traffic but I will still find the quickest route to 436 Alger Dr.  <user> Thank you for all your help. 
+<user> what's the temperature for today.
+<user> what's the temperature for today. <system> What city should I check the temperature for? <user> Well, I need to know the temperature for Seattle, today. 
+<user> what's the temperature for today. <system> What city should I check the temperature for? <user> Well, I need to know the temperature for Seattle, today.  <system> The temperature for Seattle today will be low of 60F, high of 80F, and also cloudy. <user> Thank you!
+<user> where is the closest place to eat.
+<user> where is the closest place to eat. <system> There is the Chinese restaurant P.F. Changs at 669 El Camino Real, it's just 2 miles away. <user> Set GPS for the fastest route with least amount of traffic.
+<user> where is the closest place to eat. <system> There is the Chinese restaurant P.F. Changs at 669 El Camino Real, it's just 2 miles away. <user> Set GPS for the fastest route with least amount of traffic. <system> P.F. Changs has no traffic at the moment. I am setting the navigation and we should arrive soon.  <user> That's great, thank you car!
+<user> give me the 7 day weather forecast.
+<user> give me the 7 day weather forecast. <system> what city do you want to know the 7 day forecast for? <user> Will it drizzle in Atherton?
+<user> give me the 7 day weather forecast. <system> what city do you want to know the 7 day forecast for? <user> Will it drizzle in Atherton? <system> The weather forecast predicts it will drizzle on Saturday. <user> Okay thanks. 
+<user> give me directions to the closest chinese food restaurant.
+<user> give me directions to the closest chinese food restaurant. <system> The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address? <user> Just send it on my screen and let's go there through the quickest route, please!
+<user> give me directions to the closest chinese food restaurant. <system> The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address? <user> Just send it on my screen and let's go there through the quickest route, please! <system> The address of P.F. Changs is 669 El Camino Real. We should be there shortly.  <user> Pick a route with no traffic and let's go. Thank you!
+<user> give me directions to the closest chinese food restaurant. <system> The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address? <user> Just send it on my screen and let's go there through the quickest route, please! <system> The address of P.F. Changs is 669 El Camino Real. We should be there shortly.  <user> Pick a route with no traffic and let's go. Thank you! <system> Setting navigation now. Enjoy! <user> Thanks for the help. 
+<user> i need directions to the nearest grocery store.
+<user> i need directions to the nearest grocery store. <system> We are 2 miles away from Safeway: do you want me to send you its address on screen? <user> Yes, please, and pick a quick route to reach there too, thank you!
+<user> i need directions to the nearest grocery store. <system> We are 2 miles away from Safeway: do you want me to send you its address on screen? <user> Yes, please, and pick a quick route to reach there too, thank you! <system> Safeway is located at 452 Arcadia Pl. with no traffic. Setting GPS now.  <user> Thank you car!
+<user> Check the 7 day outlook to see what the highest temperature in oakland will be.
+<user> Check the 7 day outlook to see what the highest temperature in oakland will be. <system> Over the next 7 days the days with the highest temperature will be Wednesday and Friday with a high of 90F. <user> Thanks.
+<user> what is the weather like for tomorrow night.
+<user> what is the weather like for tomorrow night. <system> Where are you located? <user> In in Los Angeles, will it be humid tomorrow?
+<user> what is the weather like for tomorrow night. <system> Where are you located? <user> In in Los Angeles, will it be humid tomorrow? <system> Tomorrow in Los Angeles it will be cloudy, there isn't a prediction for humidity. <user> Thank you.
+<user> find the nearest restaurant with chinese take-out.
+<user> find the nearest restaurant with chinese take-out. <system> There is Jing Jing 1 miles away and P.F. Changs 4 miles away: which one do you prefer? <user> Let's go for Jing Jing, please send the address on my screen along with the fastest route, thank you!
+<user> find the nearest restaurant with chinese take-out. <system> There is Jing Jing 1 miles away and P.F. Changs 4 miles away: which one do you prefer? <user> Let's go for Jing Jing, please send the address on my screen along with the fastest route, thank you! <system> Jing Jing is 1 mile away at 113 Arbol Drive. We shouldn't be long in getting there.  <user> Thank you.
+<user> how hot is it going to be this week.
+<user> how hot is it going to be this week. <system> What city do you need to know if it will be hot? <user> For New York this week please. 
+<user> how hot is it going to be this week. <system> What city do you need to know if it will be hot? <user> For New York this week please.  <system> This week in New York it will be windy on Monday, clear skies on Tuesday, hail on Wednesday, lowest temperature on Thursday, clear skies on Friday, windy on Saturday, dry on Sunday. <user> Thank you!
+<user> What hospital is nearby?
+<user> What hospital is nearby? <system> Palo Alto Medical Foundation	and Stanford Express Care are close. <user> Which one is quickest to reach?
+<user> What hospital is nearby? <system> Palo Alto Medical Foundation	and Stanford Express Care are close. <user> Which one is quickest to reach? <system> Stanford Express Care is just 3 miles away and there is less traffic on its way than on the other hospital. Do you want me to set the navigation to go there? <user> Sure, thank you!
+<user> are there clear skies in the forecast today.
+<user> are there clear skies in the forecast today. <system> For what city do you need information about today's forecast? <user> Look in los angeles.
+<user> are there clear skies in the forecast today. <system> For what city do you need information about today's forecast? <user> Look in los angeles. <system> It appears it will be windy - I do not have information about cloud cover. <user> Thanks.
+<user> Where can I go shopping?
+<user> Where can I go shopping? <system> I have a listing for a shopping mall that is 6 miles away. Want more info? <user> Give me the name and address of it.
+<user> Where can I go shopping? <system> I have a listing for a shopping mall that is 6 miles away. Want more info? <user> Give me the name and address of it. <system> Topanga Mall is located at 171 Oak Road. Want me to set the GPS? <user> Yes please and thanks. 
+<user> what will the temperature be this weekend.
+<user> what will the temperature be this weekend. <system> What city do you want to know the temperature? <user> Grand Rapids.
+<user> what will the temperature be this weekend. <system> What city do you want to know the temperature? <user> Grand Rapids. <system> It will be between 80-100F in Grand Rapids this weekend. <user> Thanks.
+<user> Get me the address to a local parking garage.
+<user> Get me the address to a local parking garage. <system> There is a parking garage but there is a car collison nearby that could delay your arrival but only one listed in area. Do you want the details? <user> Yes, i want the address of the garage with the shortest route possible.
+<user> Get me the address to a local parking garage. <system> There is a parking garage but there is a car collison nearby that could delay your arrival but only one listed in area. Do you want the details? <user> Yes, i want the address of the garage with the shortest route possible. <system> Stanford Oval Parking is located at 610 Amarillo Ave, I sent its position with the quickest route on your screen. <user> Thank you!
+<user> I need a hospital within 3 miles. 
+<user> I need a hospital within 3 miles.  <system> Stanford Express Care is a hospital that is 3 miles away. Need more info? <user> Yes, send me the address please.
+<user> I need a hospital within 3 miles.  <system> Stanford Express Care is a hospital that is 3 miles away. Need more info? <user> Yes, send me the address please. <system> Stanford Express Care is located at 214 El Camino Real. <user> Thank you!
+<user> tell me the temperature for this week.
+<user> tell me the temperature for this week. <system> What city should i check the weekly temperature for? <user> Oakland.
+<user> tell me the temperature for this week. <system> What city should i check the weekly temperature for? <user> Oakland. <system> Oakland has the following forecast: low of 60F and high of 70F on Monday, low of 80F, high of 100F on Tuesday, low of 50F, high of 70F on Wednesday, low of 30F, high of 50F on Thursday, low of 70F, high of 80F on Friday, low of 50F, high of 60F on Saturday, low of 40F, high of 50F on Sunday. <user> Thanks.
+<user> what time is my workout class today.
+<user> what time is my workout class today. <system> Your yoga class or swimming? <user> Swimming, and I'd also like to know the time.
+<user> it's going to be raining so i have to drive slow.
+<user> it's going to be raining so i have to drive slow. <system> What city will you be taking your drive in? <user> Camarillo, please.
+<user> it's going to be raining so i have to drive slow. <system> What city will you be taking your drive in? <user> Camarillo, please. <system> There are clear skies on Camarillo now but don't go too fast! <user> Thank you car, don't worry!
+<user> Set a reminder for an optometrist appointment at 9am on the 6th of this month - my brother will be there as well.
+<user> Set a reminder for an optometrist appointment at 9am on the 6th of this month - my brother will be there as well. <system> I will set a reminder for an Optometrist appointment at 9 am on the 6th of this month with your brother attending as well. <user> Thanks!
+<user> what's the weekly forecast.
+<user> what's the weekly forecast. <system> What city do you want the weather for? <user> In Fresno, will it be raining this week?
+<user> what's the weekly forecast. <system> What city do you want the weather for? <user> In Fresno, will it be raining this week? <system> No rain is in the forecast for Fresno this week.  <user> Thanks!
+<user> Is it gonna rain in Camarillo today and tomorrow?
+<user> Is it gonna rain in Camarillo today and tomorrow? <system> The forecast does not predict rain in Camarillo today or tomorrow. <user> Thanks.
+<user> Can you help me find the closest shopping center without heavy traffic?
+<user> Can you help me find the closest shopping center without heavy traffic? <system> Town and Country is the closest. <user> Is there traffic?
+<user> Can you help me find the closest shopping center without heavy traffic? <system> Town and Country is the closest. <user> Is there traffic? <system> There is moderate traffic.  <user> Ok that's fine, set the GPS for there.
+<user> tell me what the weather will be like tomorrow.
+<user> tell me what the weather will be like tomorrow. <system> For what city would you like me to check tomorrow's weather for? <user> redwood city.
+<user> tell me what the weather will be like tomorrow. <system> For what city would you like me to check tomorrow's weather for? <user> redwood city. <system> The weather forecast for Redwood city says there will be clear skies with a low of 90F and a high of 100F tomorrow. <user> Thank you.
+<user> what are the directions to the nearest chinese restaurant.
+<user> what are the directions to the nearest chinese restaurant. <system> The nearest chinese restaraunt is Panda Express at 842 Arrowhead way. <user> Thanks.
+<user> what is the forecast for today's weather.
+<user> what is the forecast for today's weather. <system> What city are you interested in? <user> Oakland.
+<user> Remind me about my meeting with the vice president on Monday the 1st.
+<user> Remind me about my meeting with the vice president on Monday the 1st. <system> Scheduling your meeting with the vice president on Monday the 1st, what time shall I add? <user> It's at 6 pm to discuss the company picnic.
+<user> Remind me about my meeting with the vice president on Monday the 1st. <system> Scheduling your meeting with the vice president on Monday the 1st, what time shall I add? <user> It's at 6 pm to discuss the company picnic. <system> Okay, setting a reminder about your meeting with the vice president on Monday the 1st at 6 pm to discuss the company picnic. <user> Thank you.
+<user> what's the weather like today and tomorrow.
+<user> what's the weather like today and tomorrow. <system> What city do you want the weather for? <user> Manhattan, please.
+<user> what's the weather like today and tomorrow. <system> What city do you want the weather for? <user> Manhattan, please. <system> The weather for Manhattan will be snow, low of 70F, high of 90F on Monday, and hot, low of 70F, high of 90F on Tuesday. <user> Thank you.
+<user> give me directions to 5677 southwest 4th street.
+<user> give me directions to 5677 southwest 4th street. <system> 5677 Springer Street is 2 miles away with moderate traffic. <user> Sounds good, let's go there. Thanks for the help. 
+<user> check weather.
+<user> check weather. <system> What city would you like the weather for? <user> I want to hear the two day forecast for brentwood.
+<user> check weather. <system> What city would you like the weather for? <user> I want to hear the two day forecast for brentwood. <system> Monday will be cloudy in Brentwood. Tuesday will have a high temperature of 70F and a low of 50F. <user> Thank you car.
+<user> how is the weather in the city this weekend.
+<user> how is the weather in the city this weekend. <system> What city are you asking about? <user> I am asking about downtown Chicago, will there be any frost this week?
+<user> how is the weather in the city this weekend. <system> What city are you asking about? <user> I am asking about downtown Chicago, will there be any frost this week? <system> There will be no frost for downtown Chicago this week. <user> Thank you!
+<user> Can you schedule a conference at 4pm, the 12th of this month with the vice president?
+<user> Can you schedule a conference at 4pm, the 12th of this month with the vice president? <system> Okay, I've got it scheduled for you. Anything else? <user> That's all, thank you!
+<user> car is it going to snow today.
+<user> car is it going to snow today. <system> What city should I check for snow? <user> Durham.
+<user> car is it going to snow today. <system> What city should I check for snow? <user> Durham. <system> It will not be snowing in Durham today. It will be windy with a low of 50F and a high of 70F. <user> Thank you car!
+<user> directions to nearest barista.
+<user> directions to nearest barista. <system> The nearest coffee place is Cafe Venetia at 269 Alger Dr. <user> OK, please direct me there via the fastest route. 
+<user> directions to nearest barista. <system> The nearest coffee place is Cafe Venetia at 269 Alger Dr. <user> OK, please direct me there via the fastest route.  <system> Setting navigation now. There is heavy traffic, so drive carefully. <user> Thank you car!
+<user> Set a reminder for my football activity today at 1pm with Jon.
+<user> Set a reminder for my football activity today at 1pm with Jon. <system> Okay, setting a reminder for your football activity today at 1pm with Jon. <user> Thanks.
+<user> which days will be cloudy this week.
+<user> which days will be cloudy this week. <system> What city are you wanting to know if it's going to be cloudy? <user> Give me info for San Mateo plese.
+<user> which days will be cloudy this week. <system> What city are you wanting to know if it's going to be cloudy? <user> Give me info for San Mateo plese. <system> It will be cloudy in San Mateo on Friday. <user> Thank you.
+<user> Where do I live?
+<user> Where do I live? <system> Home is at 56 Cadwell street. <user> Thank you.
+<user> set reminder for dinner.
+<user> set reminder for dinner. <system> Is there a date or time for dinner that I should add to this reminder? <user> Tomorrow at 7 pm.
+<user> set reminder for dinner. <system> Is there a date or time for dinner that I should add to this reminder? <user> Tomorrow at 7 pm. <system> Where is the location? <user> There is no location to add.
+<user> set reminder for dinner. <system> Is there a date or time for dinner that I should add to this reminder? <user> Tomorrow at 7 pm. <system> Where is the location? <user> There is no location to add. <system> I have set a reminder for dinner at 7 pm tomorrow.  <user> Okay thank you. 
+<user> Set a reminder to take medicine with Jon at 5pm on the tenth.
+<user> Set a reminder to take medicine with Jon at 5pm on the tenth. <system> Reminder set for Jon to take medicine on the 10th at 5pm . <user> Great, thanks.
+<user> Schedule dinner with my father at 4 pm on Monday the 1st. 
+<user> Schedule dinner with my father at 4 pm on Monday the 1st.  <system> Okay, scheduling a dinner with your father for Monday the 1st at 4pm. <user> Awesome, thanks.
+<user> Where can I get gas?
+<user> Where can I get gas? <system> There are 2 gas stations near you, woud you like the closest one? <user> Yes, what is the address?
+<user> Where can I get gas? <system> There are 2 gas stations near you, woud you like the closest one? <user> Yes, what is the address? <system> The 76 is located at 91 El Camino Real; it is 4 miles away in heavy traffic. <user> Any without heavy traffic?
+<user> Where can I get gas? <system> There are 2 gas stations near you, woud you like the closest one? <user> Yes, what is the address? <system> The 76 is located at 91 El Camino Real; it is 4 miles away in heavy traffic. <user> Any without heavy traffic? <system> That is still the closest gas station. <user> Then let's go there, thank you car!
+<user> What is my friend's address?
+<user> What is my friend's address? <system> Jill lives at 347 Alta Mesa Ave. <user> Is that the quickest route?
+<user> What is my friend's address? <system> Jill lives at 347 Alta Mesa Ave. <user> Is that the quickest route? <system> Yes that route has no traffic noted.  <user> Sounds great, let's go. 
+<user> what is the highest temperature for the two day forecast in durham?
+<user> what is the highest temperature for the two day forecast in durham? <system> 100F is the highest temperature predicted for the next two days in durham. <user> Thanks.
+<user> Schedule my 10 am dentist appointment on Friday with my father.
+<user> Schedule my 10 am dentist appointment on Friday with my father. <system> Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with? <user> List my current schedule. 
+<user> Schedule my 10 am dentist appointment on Friday with my father. <system> Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with? <user> List my current schedule.  <system> current schedule is empty. <user> List my schedule for Friday.
+<user> Schedule my 10 am dentist appointment on Friday with my father. <system> Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with? <user> List my current schedule.  <system> current schedule is empty. <user> List my schedule for Friday. <system> Okay, you have a dentist appointment with your father, at 10 am on Friday. <user> Thank you so much!
+<user> I need the time and parties for taking medicine please.
+<user> I need the time and parties for taking medicine please. <system> For which one? I have three, one with Jeff at 11 am. One with Alex at 10am, and one with your Mother at 2pm. <user> That will do just fine, goodbye.
+<user> what will the temperature be for the next week.
+<user> what will the temperature be for the next week. <system> What city do you want the temperature for? <user> I would like the temperature for Alhambra please.
+<user> what will the temperature be for the next week. <system> What city do you want the temperature for? <user> I would like the temperature for Alhambra please. <system> Next week the temperatures in Alhambra will be as follows: a low of 80F and a high of 100F on Monday, a low of 30F and a high of 40F on Tuesday, a low of 40F and a high of 50F on Wednesday, a low of 50F and a high of 60F on Thursday, a low of 40F and a high of 50F on Friday, a low of 60F and a high of 70F on Saturday, and a low of 80F and a high of 100F on Sunday. <user> Thank you very much!
+<user> Where can I get groceries?
+<user> Where can I get groceries? <system> There is Sigona Farmers Market 1 miles away from here but with heavy traffic on our way. <user> Can you pick a quick route for me?
+<user> Where can I get groceries? <system> There is Sigona Farmers Market 1 miles away from here but with heavy traffic on our way. <user> Can you pick a quick route for me? <system> Setting quickest route to Sigona Farmers Market on GPS now. <user> Thanks so much. 
+<user> get me directions to the nearest starbucks.
+<user> get me directions to the nearest starbucks. <system> There is no Starbucks listed locally, would you like directions to a different coffee shop? <user> Yes please.
+<user> get me directions to the nearest starbucks. <system> There is no Starbucks listed locally, would you like directions to a different coffee shop? <user> Yes please. <system> There is a Coupa 6 miles away. Would you like directions?  <user> Yes please. 
+<user> get me directions to the nearest starbucks. <system> There is no Starbucks listed locally, would you like directions to a different coffee shop? <user> Yes please. <system> There is a Coupa 6 miles away. Would you like directions?  <user> Yes please.  <system> The address for Coupa is 394 Van Ness Ave. <user> Thank you car, please set the GPS to get there on the fastest route.
+<user> schedule a yoga activity at 9am with my sister.
+<user> schedule a yoga activity at 9am with my sister. <system> Sure! Do you want me to schedule it for tomorrow? <user> No, schedule my yoga activity for today.
+<user> i need directions to a grocery store.
+<user> i need directions to a grocery store. <system> I have a grocery store that is 6 miles away. Would you like info on it? <user> Yes, give me the address.
+<user> i need directions to a grocery store. <system> I have a grocery store that is 6 miles away. Would you like info on it? <user> Yes, give me the address. <system> Then let's go at Sigona Farmers Market, the address is 638 Amherst St, I sent it on your screen. <user> Sounds great. Thank you. 
+<user> Are there clear skies in los angeles today?
+<user> Are there clear skies in los angeles today? <system> It is warm and 80-100F in Los Angeles today. <user> Thank you!
+<user> Will it be hot in Inglewood over the next few days?
+<user> Will it be hot in Inglewood over the next few days? <system> It will be warm both Monday and Tuesday in Inglewood. <user> Thank you very much. 
+<user> Where does my friend live? 
+<user> Where does my friend live?  <system> Your friend Jill lives at 347 Alta Mesa Ave. Would you like to navigate there now? <user> Is there any traffic to her house?
+<user> Where does my friend live?  <system> Your friend Jill lives at 347 Alta Mesa Ave. Would you like to navigate there now? <user> Is there any traffic to her house? <system> There is no traffic listed on this route. <user> Thanks, let's go there. 
+<user> is my doctors appointment on Tuesday or Wednesday.
+<user> is my doctors appointment on Tuesday or Wednesday. <system> Your doctor's appointment is on Wednesday. <user> Okay thank you. 
+<user> Please give me the address and directions via a route that avoids all heavy traffic to a grocery store. 
+<user> Please give me the address and directions via a route that avoids all heavy traffic to a grocery store.  <system> The closest grocery store is Sigona Farmers Market at 638 Amherst St. with heavy traffic but still is the best option.  <user> Mmm, I understand.. Then let's go there, thank you car!
+<user> Please give me the address and directions via a route that avoids all heavy traffic to a grocery store.  <system> The closest grocery store is Sigona Farmers Market at 638 Amherst St. with heavy traffic but still is the best option.  <user> Mmm, I understand.. Then let's go there, thank you car! <system> Okay, heading to Sigona Farmers Market. <user> Thank you. 
+<user> what's the weather like in downtown chicago.
+<user> what's the weather like in downtown chicago. <system> What days are you interested in? <user> Wednesday, please. Is it gonna snow?
+<user> what's the weather like in downtown chicago. <system> What days are you interested in? <user> Wednesday, please. Is it gonna snow? <system> It should not snow in Chicago on Wednesday. <user> Thank you so much!
+<user> is it going to rain today.
+<user> is it going to rain today. <system> Where should I check the forecast for rain? <user> Downtown Chicago, please.
+<user> is it going to rain today. <system> Where should I check the forecast for rain? <user> Downtown Chicago, please. <system> there isn't any rain predicted to fall in downtown chicago today. <user> Great, thank you.
+<user> is it going to snow today.
+<user> is it going to snow today. <system> What city do you want the weather for? <user> Inglewood please.
+<user> is it going to snow today. <system> What city do you want the weather for? <user> Inglewood please. <system> It will not snow in Inglewood today. <user> That is nice to know, goodbye.
+<user> remind me of the time for today's dinner.
+<user> remind me of the time for today's dinner. <system> Dinner event time, 5 PM, Wednesday evening.  <user> thank you.
+<user> is snow forecasted this week.
+<user> is snow forecasted this week. <system> What city can I give you the snow information about? <user> Manhattan.
+<user> is snow forecasted this week. <system> What city can I give you the snow information about? <user> Manhattan. <system> It will snow on Wednesday in Manhattan. <user> Thanks.
+<user> can you give me directions to the nearest hotel.
+<user> can you give me directions to the nearest hotel. <system> The nearest hotel is the Four Seasons, 465 Arcadia Pl, it's 3 miles away. <user> Thank you.
+<user> put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before.
+<user> put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before. <system> Reminding you of eye doctor appointment tomorrow at 3pm, will remind at 1pm. <user> Thank you!
+<user> put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before. <system> Reminding you of eye doctor appointment tomorrow at 3pm, will remind at 1pm. <user> Thank you! <system> is there anything else I can do for you ? <user> No, thanks. 
+<user> what's the weather like in new york city.
+<user> what's the weather like in new york city. <system> What days are you inquiring about? <user> Will it drizzle on Tuesday?
+<user> what's the weather like in new york city. <system> What days are you inquiring about? <user> Will it drizzle on Tuesday? <system> On Tuesday in New York there isn't any prediction for drizzle. <user> Awesome, thanks.
+<user> Set a reminder for dinner on August 8th at 3pm with my aunt.
+<user> Set a reminder for dinner on August 8th at 3pm with my aunt. <system> Setting reminder for dinner on August 8th at 3 pm with aunt.  <user>  Thanks.
+<user> i'm looking for some takeout chinese food.
+<user> i'm looking for some takeout chinese food. <system> Then let's go at Mandarin Roots, 271 Springer Street. <user> Sounds good.
+<user> Please give me an address and directions via the fastest route to a local grocery store.
+<user> Please give me an address and directions via the fastest route to a local grocery store. <system> Trader Joes grocery store is 7 miles away at 408 University Ave, there isn't any traffic. <user> Sounds perfect. Set the navigation for there, thank you. 
+<user> i need directions to my house and avoid all heavy traffic.
+<user> i need directions to my house and avoid all heavy traffic. <system> Your home is 7 miles away but there is a car collision nearby, I sent on your screen the best possible route. <user> Thank you car!
+<user> what will the weather be like tomorrow.
+<user> what will the weather be like tomorrow. <system> For what location do you want tomorrow's forecast?  <user> Will it drizzle in Menlo Park?
+<user> what will the weather be like tomorrow. <system> For what location do you want tomorrow's forecast?  <user> Will it drizzle in Menlo Park? <system> Yes, the weather forecast is predicting drizzle for tomorrow in Menlo Park. <user> Thanks.
+<user> Set meeting for Saturday 11am with the boss. 
+<user> Set meeting for Saturday 11am with the boss.  <system> Okay, meeting with boss on saturday at 11 is set. <user> Thank you.
+<user> remind me that i need to get my shot on the 12th at about 5 pm.
+<user> remind me that i need to get my shot on the 12th at about 5 pm. <system> Reminder has been set for 5PM at the 12th. <user> Great. Thanks.
+<user> Set a reminder for tennis with Ana at 9am on the 12th of this month.
+<user> Set a reminder for tennis with Ana at 9am on the 12th of this month. <system> OK setting reminder of your tennis match with Ana on the 12th at 9:00 a.m. <user> Thank you.
+<user> Please give me an address and directions by the fastest route to a rest stop nearby. 
+<user> Please give me an address and directions by the fastest route to a rest stop nearby.  <system> The Travelers Lodge is 1 miles away at 333 Arbol Dr, though there is a car collision nearby. Would you like directions there? <user> Yes. 
+<user> Please give me an address and directions by the fastest route to a rest stop nearby.  <system> The Travelers Lodge is 1 miles away at 333 Arbol Dr, though there is a car collision nearby. Would you like directions there? <user> Yes.  <system> Travelers Lodge is located at 333 Arbol Dr.  <user> Thank you car, let's go there!
+<user> Give me the nearest coffee shop. 
+<user> Give me the nearest coffee shop.  <system> The nearest one is Peets Coffee, it's 7 miles away but there is a car collision nearby. <user> What's the address? I guess it will have to do. 
+<user> Give me the nearest coffee shop.  <system> The nearest one is Peets Coffee, it's 7 miles away but there is a car collision nearby. <user> What's the address? I guess it will have to do.  <system> Setting directions to Peets coffee at 9981 Archuleta Ave. now.  <user> Thank you car, please pick the quickest route!
+<user> Is it gonna be warm in Menlo Park on Monday?
+<user> Is it gonna be warm in Menlo Park on Monday? <system> The low temperature for Menlo Park on monday is 90F with a high of 100F, it will be extremely warm. <user> Thank you car, this sounds great!
+<user> What time is my lab appointment and who is coming?
+<user> What time is my lab appointment and who is coming? <system> Your lab appointment with Martha is at 9 am. <user> Thanks.
+<user> show me directions to the nearest grocery store.
+<user> show me directions to the nearest grocery store. <system> The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go? <user> Yes I guess. Program the address and let's get going. 
+<user> show me directions to the nearest grocery store. <system> The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go? <user> Yes I guess. Program the address and let's get going.  <system> Setting GPS now. <user> What's the address of the store, please? Please direct me via a quick route. 
+<user> show me directions to the nearest grocery store. <system> The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go? <user> Yes I guess. Program the address and let's get going.  <system> Setting GPS now. <user> What's the address of the store, please? Please direct me via a quick route.  <system> Trader joes is at 408 University Ave. The only route i have is 5 miles through heavy traffic. <user> That's ok, thank you. 
+<user> Please schedule a swimming activity on Sunday at 4pm with my brother.
+<user> Please schedule a swimming activity on Sunday at 4pm with my brother. <system> Will do, your swimming activity with brother on Sunday at 4pm has been scheduled.  <user> Thank you. 
+<user> Please schedule a swimming activity on Sunday at 4pm with my brother. <system> Will do, your swimming activity with brother on Sunday at 4pm has been scheduled.  <user> Thank you.  <system> My pleasure. <user> That is all, thanks. 
+<user> Check out the seven day forecast to see if it will be foggy in durham.
+<user> Check out the seven day forecast to see if it will be foggy in durham. <system> It will not be foggy in Durham next week. <user> Thanks, this is great!
+<user> what time is my meeting at.
+<user> what time is my meeting at. <system> I have one meeting on your calendar. It is Monday at 10 am. <user> Thank you.
+<user> what is the weather next week in new york.
+<user> what is the weather next week in new york. <system> What days are you interested in? <user> Will it be windy in New York anytime this week?
+<user> what is the weather next week in new york. <system> What days are you interested in? <user> Will it be windy in New York anytime this week? <system> It shouldn't be windy in New York this week. <user> Thank you!
+<user> what is the weather today.
+<user> what is the weather today. <system> What location, specifically, are you asking about?  <user> I want to know if it is raining in Alhambra today.
+<user> what is the weather today. <system> What location, specifically, are you asking about?  <user> I want to know if it is raining in Alhambra today. <system> No raining in Alhambra today, the prediction is overcast. <user> Thank you!
+<user> find directions to home.
+<user> find directions to home. <system> We're 4 miles away from home and there is no traffic on our route, you should reach in few minutes. <user> Can you get me the address?
+<user> find directions to home. <system> We're 4 miles away from home and there is no traffic on our route, you should reach in few minutes. <user> Can you get me the address? <system> The address to your home is 56 cadwell street. <user> Thanks so much for the information. 
+<user> give me the weekly weather forecast.
+<user> give me the weekly weather forecast. <system> Where are you located? <user> In Danville, will it be dry this week?
+<user> give me the weekly weather forecast. <system> Where are you located? <user> In Danville, will it be dry this week? <system> Danville does not have any dry weather prediction this week. <user> Thank you car!
+<user> Will it be misty in Brentwood today and tomorrow?
+<user> Will it be misty in Brentwood today and tomorrow? <system> It will not be misty in Brentwood today or tomorrow. <user> Thank you.
+<user> What is the lowest weekend temperature in oakland?
+<user> What is the lowest weekend temperature in oakland? <system> It will be 50F Sunday in Oakland. <user> Thanks.
+<user> Where can I get Chinese food?
+<user> Where can I get Chinese food? <system> There is a Panda Express 5 miles away: would you like me to send you its address on the screen? <user> What is the address?
+<user> Where can I get Chinese food? <system> There is a Panda Express 5 miles away: would you like me to send you its address on the screen? <user> What is the address? <system> Panda Express is located at 842 Arrowhead Way but a car collision is noted nearby. Do you still want to go there? <user> Yes, please, set the GPS to go there, thank you!
+<user> From the two day forecast what will be the highest temperature in Manhattan?
+<user> From the two day forecast what will be the highest temperature in Manhattan? <system> The highest temperature in Manhattan is supposed to be 60F today, and 70F tomorrow. <user> Thanks.
+<user> when is the next cloudy day.
+<user> when is the next cloudy day. <system> For which city would you like to know when the next cloudy day is?  <user> San Francisco.
+<user> when is the next cloudy day. <system> For which city would you like to know when the next cloudy day is?  <user> San Francisco. <system> It will not be cloudy in San Francisco next week. <user> Okay, thank you!
+<user> Schedule a football activity with Ana on the 6th at 7pm.
+<user> Schedule a football activity with Ana on the 6th at 7pm. <system> Your football activity with Ana on the 6th at 7pm has been scheduled.  <user> Thank you again.
+<user> Car please find for me the quickest route to get to some coffee or tea place.
+<user> Car please find for me the quickest route to get to some coffee or tea place. <system> There is a Palo Alto Cafe nearby. <user> What is the address?
+<user> Car please find for me the quickest route to get to some coffee or tea place. <system> There is a Palo Alto Cafe nearby. <user> What is the address? <system> The address for Palo Alto Cafe is 436 Alger Dr. <user> Thanks set the GPS please.
+<user> Car I'm desiring to eat Chinese!
+<user> Car I'm desiring to eat Chinese! <system> Jing Jing and Chef Chu's are both near. <user> Which is closer?
+<user> Car I'm desiring to eat Chinese! <system> Jing Jing and Chef Chu's are both near. <user> Which is closer? <system> Chef Chu's is 2 miles away with a road block nearby. <user> Please pick the best route for me and let's go there!
+<user> Car I'm desiring to eat Chinese! <system> Jing Jing and Chef Chu's are both near. <user> Which is closer? <system> Chef Chu's is 2 miles away with a road block nearby. <user> Please pick the best route for me and let's go there! <system> There is a road block nearby but I sent on your screen another route that should allow you to reach there fast enough. <user> Thank you car!
+<user> send me to the nearest gas station.
+<user> send me to the nearest gas station. <system> The nearest gas station is Valero at 200 Alester Ave, 7 miles away. Setting directions now.  <user> Where is Valero and is there any traffic on the way?
+<user> send me to the nearest gas station. <system> The nearest gas station is Valero at 200 Alester Ave, 7 miles away. Setting directions now.  <user> Where is Valero and is there any traffic on the way? <system> Valero is at 200 Alester Ave and moderate traffic is being noted.  <user> Thank you.
+<user> Is there going to be frost in Los Angeles on Tuesday? 
+<user> Is there going to be frost in Los Angeles on Tuesday?  <system> There will not be frost in Los Angeles on Tuesday. <user> Thank you.
+<user> schedule a new meeting.
+<user> schedule a new meeting. <system> What date and time should I schedule your meeting? <user> It is today at 1 pm with HR to go over the budget.
+<user> schedule a new meeting. <system> What date and time should I schedule your meeting? <user> It is today at 1 pm with HR to go over the budget. <system> I am setting a new meeting in your calendar for today at 1 pm with HR to go over the budget. <user> Nothing else for now. 
+<user> Will it be hot in exeter or the next few days?
+<user> Will it be hot in exeter or the next few days? <system> It will be between 80-100F on Tuesday in Exeter. <user> Thanks.
+<user> Will it be drizzle in Camarillo tomorrow?
+<user> Will it be drizzle in Camarillo tomorrow? <system> It will be raining in Camarillo on Tuesday. <user> Thank you.
+<user> Find pizza.
+<user> Find pizza. <system> There is a Dominos and a Pizza My Heart. <user> Is any of them within 5 miles from our position?
+<user> Find pizza. <system> There is a Dominos and a Pizza My Heart. <user> Is any of them within 5 miles from our position? <system> They are both within 5 miles. Dominos is 3 miles away and Pizza My Heart is 2 miles away.  <user> Then let's go at Pizza my Heart, please pick a route with no traffic!
+<user> Find pizza. <system> There is a Dominos and a Pizza My Heart. <user> Is any of them within 5 miles from our position? <system> They are both within 5 miles. Dominos is 3 miles away and Pizza My Heart is 2 miles away.  <user> Then let's go at Pizza my Heart, please pick a route with no traffic! <system> Setting route to Pizza My Heart at 528 Anton Ct now. <user> Thank you car!
+<user> i'm looking for a place to eat can you show me directions to the nearest fast food restaurant.
+<user> i'm looking for a place to eat can you show me directions to the nearest fast food restaurant. <system> There is Pizza My Heart	6 miles away: is it okay for you? <user> Sure, let's go there, just pick a route with no traffic please.
+<user> set a reminder for my conference call tomorrow.
+<user> set a reminder for my conference call tomorrow. <system> Okay, reminder set for conference call tomorrow. <user> thank you.
+<user> what's the forecast going to be for today and tomorrow.
+<user> what's the forecast going to be for today and tomorrow. <system> In what city can I check today and tomorrow's forecast? <user> Brentwood, please: there will be any blizzard?
+<user> what's the forecast going to be for today and tomorrow. <system> In what city can I check today and tomorrow's forecast? <user> Brentwood, please: there will be any blizzard? <system> There will be no blizzard in Brentwood next week. <user> thank you.
+<user> Will it be misty on Friday in Exeter?
+<user> Will it be misty on Friday in Exeter? <system> It will not be misty on Friday in Exeter. <user> Thanks.
+<user> give me directions to the nearest place where i can have a cup of tea.
+<user> give me directions to the nearest place where i can have a cup of tea. <system> You are two miles away from Starbucks, would you like to get its address? <user> Yes, please, and also pick the fastest route for me!
+<user> give me directions to the nearest place where i can have a cup of tea. <system> You are two miles away from Starbucks, would you like to get its address? <user> Yes, please, and also pick the fastest route for me! <system> Then we're going at 792 Bedoin Street, no traffic on our way, enjoy the trip! <user> Thanks!
+<user> What will be the highest temperature in downtown chicago on tuesday?
+<user> What will be the highest temperature in downtown chicago on tuesday? <system> On tuesday the highest temperature in downtown chicago is 70F. <user> Thanks.
+<user> what is the forecast for the city this week.
+<user> what is the forecast for the city this week. <system> What city do you need the forecast for? <user> Can you tell me if it will be cloudy in San Francisco this week?
+<user> what is the forecast for the city this week. <system> What city do you need the forecast for? <user> Can you tell me if it will be cloudy in San Francisco this week? <system> It will not be cloudy in San Francisco this week. <user> great, thank you.
+<user> Where does my friend live?
+<user> Where does my friend live? <system> 347 Alta Mesa Ave. is the address. <user> Thank you.
+<user> Where does my friend live? <system> 347 Alta Mesa Ave. is the address. <user> Thank you. <system> Anything else? <user> How far away am I now from the house?
+<user> Where does my friend live? <system> 347 Alta Mesa Ave. is the address. <user> Thank you. <system> Anything else? <user> How far away am I now from the house? <system> You're 3 miles away. <user> Thanks!
+<user> set date for a meeting.
+<user> set date for a meeting. <system> what is the date and time for the meeting ? <user> August 3rd at 11AM.
+<user> set date for a meeting. <system> what is the date and time for the meeting ? <user> August 3rd at 11AM. <system> Meeting has been set on August 3rd  at 11 AM.  <user> Thanks.
+<user> tell me when my dinner reservations are scheduled for.
+<user> tell me when my dinner reservations are scheduled for. <system> Your dinner reservations are set for Monday at 5pm.  <user> Alright, thanks.
+<user> Will San Jose be hot any time this week?
+<user> Will San Jose be hot any time this week? <system> San Jose will be hot on Monday, Thursday and Saturday. <user> Thanks.
+<user> I wanna go to my friends' house, it should be nearby, can you show me their position on the map?
+<user> I wanna go to my friends' house, it should be nearby, can you show me their position on the map? <system> Jack lives at 864 Almanor Ln, it is shown on the map. <user> Thanks.
+<user> what's the weather like.
+<user> what's the weather like. <system> For which day and city would you like to know the weather? <user> The current weather in San Mateo.
+<user> what's the weather like. <system> For which day and city would you like to know the weather? <user> The current weather in San Mateo. <system> Currently in San Mateo it is cloudy with a low of 30F and a high of 40F. <user> Thanks.
+<user> What is the date and time of my next football activity?
+<user> What is the date and time of my next football activity? <system> Your next football activity is on Friday at 1pm. <user> Thank you kindly. 
+<user> put my optometrist appointment in my calendar.
+<user> put my optometrist appointment in my calendar. <system> What date and time is your optometrist appointment at? <user> My optometrist appointment is at 10am on Sunday. 
+<user> i'm looking for some takeout chinese food.
+<user> i'm looking for some takeout chinese food. <system> The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there? <user> Yes where is it?
+<user> i'm looking for some takeout chinese food. <system> The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there? <user> Yes where is it? <system> Jing Jing is located at 113 Arbol Dr. Setting navigation now.  <user> Please direct me via the route that avoids all heavy traffic.
+<user> i'm looking for some takeout chinese food. <system> The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there? <user> Yes where is it? <system> Jing Jing is located at 113 Arbol Dr. Setting navigation now.  <user> Please direct me via the route that avoids all heavy traffic. <system> Avoiding heavy traffic on the way to Jing Jing. <user> Thank you car!
+<user> Is it misty in Oakland now?
+<user> Is it misty in Oakland now? <system> There is drizzle but no mist in Oakland now.  <user> Thank you.
+<user> is it raining next week.
+<user> is it raining next week. <system> Which city do you want to know if it's gonna rain next week? <user> San Francisco.
+<user> is it raining next week. <system> Which city do you want to know if it's gonna rain next week? <user> San Francisco. <system> It's gonna rain in San Francisco on Tuesday and Sunday. <user> Okay, thank you car!
+<user> give me directions to the nearest starbucks.
+<user> give me directions to the nearest starbucks. <system> There is no Starbucks in the area, I'm sorry.  <user> Are there any other coffee shops with the least traffic?
+<user> give me directions to the nearest starbucks. <system> There is no Starbucks in the area, I'm sorry.  <user> Are there any other coffee shops with the least traffic? <system> Cafe Venetia located at 269 Alger Dr is 4 miles away without any traffic. <user> Please direct me there, thank you.
+<user> give me directions to the nearest starbucks. <system> There is no Starbucks in the area, I'm sorry.  <user> Are there any other coffee shops with the least traffic? <system> Cafe Venetia located at 269 Alger Dr is 4 miles away without any traffic. <user> Please direct me there, thank you. <system> Navigating to 269 Alger Dr now. <user> Thanks car!
+<user> give me a quick route to a grocery store.
+<user> give me a quick route to a grocery store. <system> We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go? <user> Yes, what is the address?
+<user> give me a quick route to a grocery store. <system> We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go? <user> Yes, what is the address? <system> Sorry, I didn't understand which address would you like me to give you. Would you prefer to go at Safeway or at Trader Joes? <user> I want the quickest one available please. 
+<user> give me a quick route to a grocery store. <system> We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go? <user> Yes, what is the address? <system> Sorry, I didn't understand which address would you like me to give you. Would you prefer to go at Safeway or at Trader Joes? <user> I want the quickest one available please.  <system> Then let's go at Safeway, better if you get some coffee, the address is 452 Arcadia Pl. <user> Thank you car!
+<user> what's the temperature in city.
+<user> what's the temperature in city. <system> What city would you like to know the temperature about? <user> Redwood city, what is the temperature for this week?
+<user> what's the temperature in city. <system> What city would you like to know the temperature about? <user> Redwood city, what is the temperature for this week? <system> The temperature range for next week goes from lows in the 20s to highs in the 100s for Redwood City.  <user> Thank you.
+<user> Set a reminder for yoga activity at 11 am on the 4th with Martha.
+<user> Set a reminder for yoga activity at 11 am on the 4th with Martha. <system> Setting reminder for yoga activity at 11 am on the 4th with Martha. <user> Okay, thanks.
+<user> I'm looking for a place to shop for clothes that is around me. Can you find such a place?
+<user> I'm looking for a place to shop for clothes that is around me. Can you find such a place? <system> Yes Ravenswood Shopping Center is 3 miles away. Do you want the address? <user> Oh yes that sounds great. 
+<user> I'm looking for a place to shop for clothes that is around me. Can you find such a place? <system> Yes Ravenswood Shopping Center is 3 miles away. Do you want the address? <user> Oh yes that sounds great.  <system> Ravenswood is located at 434 Arastradero Rd. Do you want me to set the GPS? <user> Sure, thanks!
+<user> I need a gas station.
+<user> I need a gas station. <system> I have one gas station listed. Want more info? <user> What is the address?
+<user> I need a gas station. <system> I have one gas station listed. Want more info? <user> What is the address? <system> 76 is at 91 El Camino Real. <user> Thank you!
+<user> Where can I go shopping?
+<user> Where can I go shopping? <system> There is two shopping center, Town and Country and Stanford Shopping Center. Do you have a preference? <user> Which is closer?
+<user> Where can I go shopping? <system> There is two shopping center, Town and Country and Stanford Shopping Center. Do you have a preference? <user> Which is closer? <system> Town and Country is closer. <user> Then pick the route through the shortest distance and let's go there, thank you!
+<user> is it snowing out.
+<user> is it snowing out. <system> What city would you like to know if it is snowing in? <user> Check to see if it'll be snowing in Boston during the week.
+<user> is it snowing out. <system> What city would you like to know if it is snowing in? <user> Check to see if it'll be snowing in Boston during the week. <system> It might snow on Sunday, do you need to know anything else? <user> Nope, thanks.
+<user> Schedule dinner with Martha on the 15th of this month at 10am.
+<user> Schedule dinner with Martha on the 15th of this month at 10am. <system> Reminder for dinner on the 15th at 10am with martha is set. <user> Thanks!

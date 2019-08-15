@@ -1,0 +1,784 @@
+remind me to take my pills.
+remind me to take my pills at 7 pm.
+What gas stations are here?
+That's good! Please pick the quickest route to get to the gas station Chevron and avoid all heavy traffic!
+What is the address of the gas station Chevron?
+Perfect. Thank you.
+Set reminder for dinner at 11AM with mom on Friday.
+Thank you, we are done for now.
+show me the weather for the next 7 days.
+Will it be humid the next 7 days in Compton?
+Thanks.
+Where does my friend live?
+Ok set the GPS for Tom at 580 Van Ness Ave. Thanks.
+remind me to watch the football game on the 1st.
+remind me to watch the football game on the 1st at 2 pm.
+Thanks.
+give me weather forecast for today.
+give me weather forecast for today in Downtown Chicago.
+thanks.
+Which temperature there will be in Alhambra on Thursday?
+Thanks!
+what is the weather like in the city.
+what is the weather like in Durham.
+Will there be a blizzard in Durham?
+Thanks.
+what's the weather like in new york.
+what's the weather like Friday in new york.
+Thanks.
+Is it cloudy in Cleveland today?
+Thanks.
+I need the closest hospital. 
+Yes, please give me directions to the hospital Palo Alto Medical Foundation 4 miles away at 611 Ames Ave via the route with no traffic.
+Thank you car!
+Info about football please. 
+Thanks, that's all. 
+what are the directions to the closest parking garage.
+Thank you.
+take me to the nearest grocery store.
+Yes.
+Thank you car, pick a route to the grocery store Safeway 2 miles away 452 Arcadia Pl with no traffic and let's go to the grocery store Safeway 2 miles away 452 Arcadia Pl!
+Where is the nearest grocery store with no traffic?
+Yes please set the GPS for the grocery store Safeway 2 miles away at 452 Arcadia Pl with moderate traffic.
+Thank you. 
+Is it currently hailing in Manhattan? 
+Thank you car!
+is it going to be cloudy this week.
+is it going to be cloudy this week in Boston.
+Thanks car, that works. 
+check weather for new york city.
+I need current weather data about New York, specifically information about the temperature. 
+Awesome.
+what's the temperature going to be like this week.
+what's the temperature going to be like this week in manhattan.
+Thank you very much car!
+Set a reminder for me to take my medicine at 9am on Sunday with by brother Frank.
+Thank you.
+I need to know my conference agenda, date and who is attending. 
+Great, and who all will be at the conference Monday with the boss to go over the budget?
+Thanks.
+Thank you.
+Where does my friend live?
+Thanks.
+get me directions to the nearest starbucks.
+Any coffee shops locally?
+OK, please give me the directions to the coffee shop Teavana 5 miles away at 145 Amherst St with moderate traffic via the fastest route.
+Great, thank you.
+Where can I find a parking garage?
+Is the route to the parking garage Palo Alto Garage R at 481 Amaranta Ave the quickest route to a parking garage?
+Ok thanks for the notification. 
+give me directions to the nearest shopping center.
+Thanks.
+Will there be clear skies in fresno on wednesday?
+thank you.
+directions to the grocery store.
+OK, please give me directions to the grocery store Whole Foods 1 mile away at 819 Alma St with a car collision nearby via the quickest route.
+OK, thank you. 
+What time is my next dinner event and who will be attending?
+That will do, thanks.
+is there a chance of snow in this weeks weather forecast.
+is there a chance of snow in this weeks weather forecast for San Mateo.
+Thank you!
+what is the current temperature.
+what is the current temperature in Alameda.
+Okay, thank you.
+Will there be clear skies in San Francisco on Friday?
+Thanks.
+find me a hotel somewhere near my current location.
+Can you send me the fastest route to go to the hotel The Clement Hotel 8 miles away at 657 Ames Ave?
+Thank you.
+what is the weather going to be like today and tomorrow.
+what is the weather going to be like today and tomorrow in Los Angeles.
+Awesome, thanks.
+what's the weather forecast.
+Find out if there is hail outside right now, for Seattle please. 
+Thank you!
+will it snow this week.
+will it snow this week in Alameda.
+Thank you car!
+Find the address to a hospital or clinic.
+Thank you.
+remind me to watch football on sunday.
+remind me to watch football on sunday at 2 pm.
+Thank you.
+schedule a dentist appointment at 3 next month on the 12th.
+Can you confirm you set the dentist appointment at 3pm on the 12th for NEXT MONTH on the 12th?
+Where is the closest tea house?
+How's the traffic to the tea house Peets Coffee 2 miles away at 9981 Archuleta Ave?
+Sounds good, let's get going to the tea house Peets Coffee 2 miles away at 9981 Archuleta Ave with moderate traffic.
+Thanks for the help. 
+Will you find me the fastest route to a rest stop.
+Pick the fastest route to the rest stop The westin 7 miles away at 329 El Camino Real please, thank you car!
+Thank you car!
+Who's showing up for tennis, and what's the date on that?
+What time will Jon and Jeff be at the tennis activity?
+Thank you assistant!
+what's the forecast report.
+Tell me if it will be foggy on Friday in Camarillo, please.
+Thank you.
+Will it snow in Fresno during this week?
+Thank you very much!
+check my agenda for my meetings.
+Okay, I want to find out what time my meeting to discuss the merger is and where the meeting to discuss the merger and what day the meeting to discuss the merger please.
+Perfect, thank you.
+Will it be cloudy in Inglewood next week?
+Okay, thanks.
+when am i going swimming?
+Thank you kindly.
+is it going to snow this week.
+is it going to snow this week in Corona?
+Thank you car!
+navigate home.
+Is that route to home 5 miles away at 5671 Barringer Street avoiding heavy traffic?
+That is ok.
+Schedule a swimming activity with Marie on Sunday at 6pm.
+Thank you. 
+find the nearest hotel.
+Yes sounds great. 
+Set my GPS to the hotel Hotel Keen 3 miles away at 578 Arbol Dr with no traffic for the quickest route possible please.
+Thank you car!
+What is a quick route home?
+Please direct me to home 1 mile away via the quickest possible route.
+Thank you car!
+will the weather be cloudy next week.
+will the weather be cloudy next week in grand rapids.
+Thanks.
+Where is there a parking garage?
+What is the quickest route to the parking garage Webster Garage 2 miles away at 880 Ames Ct?
+Okay perfect, thanks!
+What time is my doctor's appointment and who is going with me?
+Okay perfect, thank you!
+assistant schedule an appointment at the dentist, 9am of the 12th of current month. bring Martha with me.
+Thank you!
+set a reminder for my swimming plans.
+set a reminder for my swimming plans at 11 am on friday.
+Perfect. Nothing else for now. 
+Where can I get tea?
+Which tea shop, either the tea shop Teavana 4 miles away or the tea shop Cafe Venetia 5 miles away, is the quickest, is there any traffic to either the tea shop Teavana 4 miles away or the tea shop Cafe Venetia 5 miles away?
+Yes tea shop Teavana 4 miles away with no traffic please.
+Ok can you tell me the address of the tea shop Teavana 4 miles away please?
+Thanks for all the help. 
+I need a reminder for dinner. 
+Set my reminder for dinner at 7 pm, for the 6th of this month with my beloved Marie. 
+thanks.
+Is it gonna be any blizzard on Tuesday in Alhambra?
+Thank you.
+Is it gonna be foggy in Exeter on next week?
+Thanks.
+give me directions to the local starbucks.
+Yes, please! Which one is the address of the coffee place? There is any quick route to the coffee place available?
+Perfect!
+What's the highest temperature going to be in Cleveland this week?
+Thank you. 
+I need a route to the shopping center with no traffic. 
+What does the traffic to the nearby shopping center Stanford Shopping Center look like?
+Ouch, patience, please pick the route to the nearby shopping center Stanford Shopping Center with least traffic and let's go to the nearby shopping center Stanford Shopping Center, thank you!
+Thank you car!
+Find out the date and parties attending for my optometrist appointment. 
+Thanks for the info.
+find a coffee place.
+Sounds great, let's go to the coffee place Philz 6 miles away at 583 Alester Ave.
+Thank you. 
+can you give me the weather this week for new york city.
+Then no clear skies for me, I'm sad.. Thank you car!
+I need the quickest route to a pizza restaurant near me.
+Pick the quickest route to the pizza restaurant Pizza My Heart 6 miles away at 528 Anton Ct and let's go to the pizza restaurant Pizza My Heart 6 miles away at 528 Anton Ct please.
+Where are there Chinese restaurants around?
+Where are there Chinese restaurants around, either the Chinese restaurant Chef Chu's or the Chinese restaurant Tai Pan, whichever is the fastest to get to.
+What is the address of the Chinese restaurant Chef Chu's?
+Thank you.
+Will it be warm in Compton on Wednesday?
+Thank you.
+What is the rest stop with the quickest route nearby?
+What is the address of the rest stop Hotel Keen 3 miles away?
+Is there a quick route to reach the rest stop Hotel Keen 3 miles away at 578 Arbol Dr with a car collision nearby?
+Thank you car!
+Have a good day. 
+check the weather forecast.
+I want to know if it will be stormy in manhattan over the next 7 days.
+Thank you car!
+Please give me the address and directions via a route with no traffic to the nearest pizza restaurant.
+Yes, let's go to the pizza restaurant Round Table 3 miles away at 113 Anton Ct with no traffic, thank you!
+This week will it be warm in Los Angeles?
+Thank you car!
+Find location and address to home that is nearest me.
+Thanks, set the GPS for home at 56 cadwell street.
+Please give me the address and directions via a route that avoids all heavy traffic to a hospital around me. 
+Thank you very much car!
+set an appointment to swim next week.
+set an appointment to swim next week Thursday at 10 am.
+Thanks. 
+I need to find out the parties attending and the date for my lab appointment, thanks. 
+Great, thank you so much!
+Thank you.
+Find me the nearest gas station. 
+Please pick the quickest route to get to the gas station 5 miles away, thank you!
+Display address of the gas station Valero 5 miles away on screen please.
+Thanks for the information. 
+What is the weather forecast in Cleveland for Thursday?
+Thanks.
+Set me a reminder for football activity at 1pm, this month on the 11th, with Marie. 
+Thanks buddy.
+Need the quickest route to home.
+Could you confirm the address of home 4 miles away for me please?
+Thank you.
+Is it going to be hot this weekend in Boston?
+I was asking about Boston not Seattle, do you have information for Boston, too?
+Thank you so much for the information. 
+Schedule a swimming activity with my brother for the 7th at 11am.
+Great, thank you.
+Where is the nearby shopping center?
+Please pick the quickest route to go to the shopping center Stanford Shopping Center 4 miles away and send me the info on screen, thanks!
+Thanks!
+What is the date and location for my conference and who is attending?
+What is the date and location for my conference at 6 pm and who is attending the conference at 6 pm?
+Thanks!
+Will it be windy in Los Angeles on Sunday?
+Thanks.
+Schedule a dentist appointment on the 8th at 1 pm. Ana will be joining you.
+Thanks!
+I need a rest stop within a 2 mile radius. 
+What is the address of the rest stop Travelers Lodge one mile away?
+Set GPS for shortest route to the rest stop Travelers Lodge one mile away at 333 Arbol Dr.
+Thanks!
+What date is my dentist appointment and who is attending?
+Thank you, that was helpful.
+What is the date of my yoga activity and who will be attending it?
+Thank you. 
+set an appointment for swimming.
+set an appointment for swimming at 3pm on Saturday.
+Schedule taking medicine with Martha at 5PM next Wednesday.
+Thank you!
+is the weather cloudy right now.
+is the weather cloudy right now in Fresno.
+Thanks.
+give me the location for the nearest starbucks.
+Yes please.
+Okay thank you.
+Please set the GPS to the coffee shop Cafe Venetia 4 miles away at 269 Alger Dr to avoid all heavy traffic and let's go to the coffee shop Cafe Venetia 4 miles away at 269 Alger Dr, thank you!
+find directions to the nearest starbucks.
+Let's go at Cafe Venetia 3 miles away please, send the address of Cafe Venetia 3 miles away on my screen and pich the quickest route to Cafe Venetia 3 miles away.
+Yes. Set GPS for the quickest route to Cafe Venetia 3 miles away at 269 Alger Drive now.
+Thanks.
+is it supposed to snow today.
+is it supposed to snow today in Corona.
+Thank you so much. 
+give me directions to a place to sleep.
+Yes, please, pick a quick route to the place to sleep Travelers Lodge 6 miles away!
+Thanks. 
+I'm desiring to eat at some Chinese restaurant, is there anything in this local area?
+Yes, please, and pick a route to the Chinese restaurant P.F. Changs 5 miles away to avoid all heavy traffic.
+What is the address of the Chinese restaurant PF Changs 5 miles away?
+Sounds good, set the navigation to the Chinese restaurant PF Changs 5 miles away at 669 El Camino real please.
+which days are rain forecasted.
+Tell me if it is raining in Oakland right now.
+Thanks.
+Schedule a conference at 6 pm on the tenth with sales team.
+Thank you. 
+Please set a reminder to take medicine at 7pm Tuesday with Ana.
+Thanks.
+I need gas.
+What is the address of the gas station Valero 4 miles away?
+Can I have some route to the gas station Valero 4 miles away at 200 Alester Avenue details? I would like to avoid any heavy traffic to the gas station Valero 4 miles away at 200 Alester Avenue.
+It's okay, thank you car!
+Find me a gas station.
+Are there any other gas stations, besides the gas station Chevron 6 miles away, that will take less time to reach?
+Ok send me the address of the gas station Chevron 6 miles away please.
+Thank you. 
+Great!
+Are there any chinese restaurants nearby?
+Which Chinese restaurant, either the Chinese restaurant Chef Chu's 3 miles away or the Chinese restaurant Mandarin Roots 6 miles away, has the fastest route?
+What is the address of the Chinese restaurant Chef Chu's 3 miles away?
+How long will it take to get to the Chinese restaurant Chef Chu's 3 miles away at 593 Arrowhead Way?
+Thank you.
+Where is the nearest hospital that we can get to quick?
+Yes sounds great. 
+give me the location for the nearest starbucks.
+Sure, just pick the fastest route to Cafe Venetia 4 miles away for me, thanks!
+remind me to go swimming at 4:50
+remind me to go swimming at 4:50 pm the 12th of this month.
+Thanks.
+Please tell me the location, time and parties that are attending my meeting.
+Great, thank you so much!
+That is all, thanks!
+What's the current weather in San Francisco?
+Okay thanks.
+What time is the doctors appointment and who is attending?
+What time is the doctors appointment on the 9th with Tom and who is attending the doctors appointment on the 9th with Tom?
+Set a reminder for the conference. 
+Set a reminder for the conference on August 14th at 4pm.
+Set a reminder for the conference on August 14th at 4pm with the executive team.
+Thanks.
+Car, find out the time and parties attending for my tennis activity. 
+Thanks.
+what's the temperature going to be like on friday.
+what's the temperature going to be like on friday in Alhambra?
+And what's the temperature going to be like on friday in Alhambra?
+Thank you.
+take me to my friend's house.
+What about the address of my home.
+Thanks for the help.
+what's the temperature going to be this week.
+what's the temperature going to be this week in San Jose.
+Thanks!
+How is gonna be the weather forecast in San Mateo for the next weekend?
+Okay, thank you.
+what's the temperature going to be like this week.
+what's the temperature going to be like this week in Los Angeles.
+Thanks!
+please check the weather for this week.
+Will it be stormy this week in Camarillo?
+Thank you!
+Schedule a conference with the boss for this month on the 5th at 1pm.
+Great, thanks. 
+Schedule a tennis activity with Martha for Friday at 4pm.
+Thanks.
+Will it be windy in Atherton in the next two days?
+Thanks.
+Where is a nearby rest stop?
+Yes, please give me directions to the rest stop Travelers Lodge 4 miles away at 333 Arbol Dr via the fastest route.
+Thank you. 
+Hi car I would like to schedule a reminder for my tennis activity at 5pm on the tenth with Jon.
+Perfect, thank you!
+What is the address of my friend's house?
+Get me the address to my friends house nearest my current location.
+Set the GPS for the quickest route to my friend Jacks house at 864 Almanor Ln possible.
+Thanks!
+Where can I go shopping?
+Sounds amazing. Set the GPS to go to the shopping center Midtown Shopping Center 3 miles away with no traffic.
+Thanks!
+I need to find out some info for my Optometrist appointment, the date and time please. 
+That will do, thanks.
+get me directions to the mall.
+Let's go at the mall Ravenswood Shopping Center 3 miles away and pick a route to the mall Ravenswood Shopping Center 3 miles away with no traffic please!
+What's the address of the mall Ravenswood Shopping Center 3 miles away?
+Thanks so much for all your help. 
+Is there a grocery store within 3 miles of me?
+OK, please give me directions to the grocery store Trader Joes 2 miles away at 408 University Ave via the route with least traffic.
+Thank you. 
+find out if it's supposed to rain.
+find out if it's supposed to rain in Redwood City.
+Thank you.
+show me the nearby hospital.
+Does Stanford Express Care have heavy traffic nearby?
+Does hospital Stanford Express Care have heavy traffic nearby?
+Any other local hospital's with no heavy traffic besides the hospital Stanford Express Care with heavy traffic?
+Yes, please give me the address of the hospital Stanford Childrens Health 1 mile away.
+Quickly reboot your system car and then send me the address of the hospital Stanford Childrens Health 1 mile away, thank you!
+I need a coffee shop within 4 miles. 
+Is there a quickest route to reach the coffee shop Cafe Venetia 2 miles away at 269 Alger Dr?
+Thanks!
+Find me a hotel that is near my location.
+Please pick a quick route to go to the hotel The Westin 6 miles away.
+Thanks!  What is the address of the hotel The Westin 6 miles away?
+Ok set the GPS for the hotel The Westin 6 miles away at 329 El Camino Real please. Thanks for the help.
+Where can I buy groceries?
+What is the address of the grocery store Safeway 4 miles away?
+Ouch, this sounds awful.. But patience, please set the GPS to go to the grocery store Safeway 4 miles away at 452 Arcadia Pl with a road block nearby.
+Thank you car!
+what's the temperature going to be this week.
+what's the temperature going to be this week in Fresno.
+Thanks.
+what is the weather going to be like today and tomorrow.
+Will it be windy today and tomorrow in Seatlle?
+Thank you.
+does the forecast call for snow today.
+does the forecast call for snow today in Cleveland.
+Thanks.
+get me directions to the nearest starbucks.
+Then let's go to the coffee or tea place Coupa mile away car! Please send me the address of the coffee or tea place Coupa mile away on screen and pick the fastest route to the coffee or tea place Coupa mile away for me.
+Thanks so much for the information. 
+Is it gonna be dry in Redwood City in next few days?
+the next few days please.
+Thanks.
+Which one is gonna be the highest temperature in Fresno this week?
+Thank you.
+Schedule a swimming activity with Tom on the 6th of this month at 2pm.
+Thank you. 
+take me to the mall to buy some clothes.
+Yes.
+I wish to find a route to the shopping center Midtown Shopping Center 2 miles away at 338 Alester Ave with no traffic but it's okay, please send the info on the GPS, thanks!
+Thank you car!
+I need the address to my friend's house please. 
+Could you please send on my screen the fastest route to get to my friend Jills house at 347 Alta Mesa Ave?
+Will do, thank you. 
+find me a tea house.
+Is there an alternate route to the tea house Cafe Venetia 4 miles away at 269 Alger Dr, and is this the quickest way to the tea house Cafe Venetia 4 miles away at 269 Alger Dr?
+Thank you. 
+when is the football game.
+Thank you. 
+what's the temperature going to be for the week.
+what's the temperature going to be for the week in Durham.
+Thank you car.
+Where do I live?
+Home at 56 Caldwell Street should be nearby, please pick a quick route to get to home at 56 Caldwell Street.
+Thanks!
+get me directions to a local cafe.
+Yes.
+Thanks can you provide the address of the cafe Starbucks 5 miles away and is this the fastest route to the cafe Starbucks 5 miles away?
+Car please give me the address of a good pizza restaurant in the shortest possible distance.
+Nice, what's the address of the pizza restaurant Pizza Chicago 2 miles away?
+Set GPS for shortest route to the pizza restaurant Pizza Chicago 2 miles away at 915 Arbol Dr now.
+find the nearest shopping mall on the map.
+Let's go to the shopping mall Ravenswood Shopping Center 2 miles farther with no traffic then.
+Okay, thanks.
+Where can I get groceries?
+Okay, tell me the quickest route to the grocery store Whole Foods 4 miles away.
+Sounds great, set the navigation for the grocery store Whole Foods 4 miles away at 819 Alma Street with no traffic.
+I want tea.
+Yes, what is the address of the Starbucks 5 miles away?
+Thanks!
+take me to a place where i can get some hot tea.
+How's the traffic to the nearby tea place Coupa?
+Give me the address of the nearby tea place Coupa.
+Is there an alternate route to the tea place Coupa at 394 Van Ness Ave with no traffic?
+It sounds great! Thank you car, let's navigate to Palo Alto Cafe 1 mile away with moderate traffic please!
+directions to nearest barista.
+Is there another coffee shop, besides the cafe Cafe Venetia 2 miles away, that situated on a route with no traffic?
+OK thank you. 
+when is the next cloudy day.
+Will it be cloudy on Monday in Manhattan, please?
+Thank you. 
+what's the weather forecast for tomorrow.
+Will it be hot in Atherton tomorrow?
+Thank you!
+are there clear skies in the forecast today.
+are there clear skies in the forecast today in San Jose.
+Thanks.
+Closest coffee.
+Is there any available?
+Please direct me to the coffee place Starbucks 3 miles away at 792 Bedoin Street via the shortest distance.
+Thank you car!
+Schedule conference with sales team on the 11th of this month 9am .
+Thanks.
+Is it going to be windy in San Francisco tomorrow?
+Thank you car!
+please let me know the weather forecast for tomorrow.
+please let me know the weather forecast for tomorrow in Los Angeles.
+Thank you.
+Please give me information about my conference. 
+Thanks.
+what time is my meeting tomorrow and what is the agenda.
+Thanks.
+Thanks again. 
+is there snow in the forecast for the week.
+is there snow in the forecast for the week in San Jose.
+Thanks.
+When's the football activity and who's attending?
+Thanks.
+Set a reminder for a football activity at 10 am, on Friday, with Tom. 
+Thanks for your help.
+Please give the directions to a nearby hospital. 
+And how is the traffic to the hospital Stanford Express Care 5 miles away?
+Could you give me the address of the hospital Stanford Express Care 5 miles away and directions to the hospital Stanford Express Care 5 miles away via a quick route?
+Okay thank you.
+set reminder for doctor's appointment for the tenth.
+set reminder for doctor's appointment for the tenth at 1 pm.
+give me directions to the closest shopping mall.
+Is the route to the shopping center Town and County 3 miles away the fastest?
+Give me the address of the shopping center Town and County 3 miles away.
+Thanks.
+What time is my Doctor apartment and who is it with?
+What time is my Doctor appointment on Wednesday and who is my Doctor appointment on Wednesday with?
+What time is my Doctor appointment on the 5th and who is my Doctor appointment on the 5th with?
+Very good, thank you.
+car what is the temperature going to be today and tomorrow.
+car what is the temperature going to be today and tomorrow in Grand Rapids.
+Thanks.
+Where can I get coffee?
+Is the route to the coffee place Coupa 5 miles away the shortest route to a coffee place available?
+Yes please. Thanks. 
+is it going to snow today.
+is it going to snow today in Oakland.
+Thank you car!
+What day is the swimming party and who will be attending?
+Thanks!
+What time is my lab appointment and who will be attending?
+Thanks!
+Great.
+What is a good Chinese restaurant?
+What is a good nearby Chinese restaurant?
+Is that the fastest option?
+Okay great, please set the navigation to take me to the Chinese restaurant Panda Express 4 miles away.
+Thank you car!
+What is the date and time of my next meeting and who will be attending it?
+Thank you.
+check today's forecast for rain.
+check today's forecast for rain in Fresno.
+thank you.
+I need to find out the date and time for my swimming activity! 
+Thanks!
+search today's forecast.
+Will it be humid in Oakland today?
+Thank you. 
+what's the weather forecast for today and tomorrow.
+what's the weather forecast for today and tomorrow in Los Angeles.
+Thanks.
+what's the weather like in grand rapids.
+I would like to know the weather for Friday in grand rapids.
+Thank you.
+Thanks again!
+what is the weather like in new york city.
+what is the weather like today in new york city.
+Thank you.
+is it raining today.
+is it raining today in New York.
+Thank you.
+remind me about my lab appointment.
+My doctor's appointment is at 7pm on Monday the 1st. 
+OK, thanks.
+Please give me the address and directions to home within 5 miles of here, avoiding all heavy traffic. 
+Ok that will do. Thank you. 
+Is it snowing in Redwood City right now?
+But it's not snowing right now in Redwood City?
+Thank you.
+take me to the mall to buy some clothes.
+I am guessing the mall Ravenswood Shopping Center 1 mile away with a road block nearby would be faster. Let's go to the mall Ravenswood Shopping Center 1 mile away.
+Thank you very much car!
+What is the date and time for my yoga activity?
+Thank you. 
+navigate home.
+Okay, thank you.
+[end conversation]
+i'm in the mood for some tea can you show me directions to the nearest cafe.
+Hope the cafe Cafe Venetia doesn't have any traffic.
+What is the address of the cafe Cafe Venetia 2 miles away?
+Thank you very much car!
+give me directions to the nearest shopping mall.
+Yes please that sounds perfect. 
+That will be all, thanks.
+Remind me about tennis at 10am at the end of March with Martha.
+Just set tennis at 10am with Martha for the end of march.
+Thanks.
+Please give me the address and directions via the shortest distance to the nearest pizza place. 
+Yes, please show me the route to the pizza place Pizza Chicago 5 miles away at 915 Arbol Dr with the shortest distance, thank you!
+Thank you car!
+give me a location to a local parking lot.
+Yes and please provide a quick route to get to the parking garage 2 miles away.
+Please pick the quickest route to the parking garage Palo Alto Garage R 2 miles away, thank you!
+what is the forecast for the next 7 days.
+Will it be windy the next 7 days in Cleveland?
+Thank you.
+show me directions to the nearest grocery store.
+Pick the fastest route to the grocery store 6 miles away at 452 Arcadia Pl and with the least traffic, then send the address of the grocery store 6 miles away at 452 Arcadia Pl on my screen please.
+Hope you picked the fastest route to the grocery store Safeway 6 miles away at 452 Arcadia Pl or no more gasoline for you, car.. Just kidding, thank you!
+Schedule a conference with the executive team for the 15th of this month at 9am.
+Thanks.
+Find me the quickest route to the grocery store. 
+OK, please give me the address of the grocery store Hacienda Market 1 mile away and directions to the grocery store Hacienda Market 1 mile away via the quickest route.
+Thank you. 
+give me the forecast for the next 7 days.
+give me the forecast for the next 7 days in downtown chicago.
+Okay, thank you car!
+give me directions to the closest grocery store.
+I need directions to the closest grocery store, either the grocery store Whole Foods 2 miles away or the grocery store Sigona Farmers Market 4 miles away, that avoids all heavy traffic.
+Thank you. 
+Car, find the date and time for my Tennis activity.
+Thanks.
+schedule meeting.
+I need the meeting for Saturday at 1pm with Sales Team to go over budget.
+Okay nice, thank you. 
+what is the weather going to be today and tomorrow.
+I want to know if it will drizzle today and tomorrow in Durham.
+Thank you.
+check forecast for today and tomorrow.
+check forecast for today and tomorrow in mountain view.
+Thanks.
+what's the weather going to be like this week.
+Will it be hot this week in Brentwood?
+Thank you.
+Where is a nearby parking garage?
+Oh great job. Thanks. 
+Will there be drizzle in Redwood City this weekend?
+Thanks.
+Car please send me the fastest route to go back home.
+What is the address of home?
+Please send me the fastest route to home at 5671 Barringer Street on screen and let's go to home at 5671 Barringer Street, thank you!
+Thanks for all your help. 
+make an appointment for the doctor on the 12th.
+Set the appointment for the doctor on the 12th at 7 pm please.
+Thank you.
+what is the temperature for the next 7 days weather forecast.
+what is the temperature for the next 7 days weather forecast in Compton.
+Thank you very much car!
+What will the weather in Fresno be in the next 48 hours?
+Thanks.
+What will be the highest temperature on friday in mountain view?
+Thanks.
+Remind me about my yoga activity with mother on the 15th of this month, it is at 3 pm.
+Schedule the yoga activity with mother on the 15th of this month for 3 pm.
+Thank you.
+What time is my next tennis activity and who will be attending?
+Thanks!
+Car I need a hospital, please send me a quick route to the one near me in the direction we're driving.
+Please pick a quick route to the hospital Stanford Express Care and let's go to the hospital Stanford Express Care, thank you!
+Ok, thanks car!
+Schedule a swimming activity on Monday the 1st with my father at 4pm.
+Thanks.
+Will there be clear skies in Danville on Thursday?
+Thank you!
+Is it gonna snow in Durham during the week?
+Thank you.
+what is the weather like this week.
+what is the weather like this week in Cleveland.
+Thank.
+Will it be dry in New York on Wednesday?
+Thank you so much. 
+check weather forecast for seattle.
+Please tell me the forecast in Seattle this week.
+Thank you.
+Where is home .
+Okay, how far away am I from home at 56 cadwell street and send me the quickest route to home at 56 cadwell street.
+Thank you very much car!
+no response needed.
+Find me a chinese restaurant with a no traffic route. 
+Send me the address of the Chinese restaurant Chef Chu's anyway.
+Please pick a route with no traffic to get to the Chinese restaurant Chef Chu's at 593 Arrowhead Way, thanks!
+That is ok, thank you.
+Can you find me a Chinese restaurant that is within 5 miles?
+How is the traffic to the Chinese restaurant Chef Chu's 5 miles away?
+Sounds good, set the GPS to the Chinese restaurant Chef Chu's 5 miles away with no traffic please.
+what is the weather forecast for the weekend.
+What is the forecast for this week in Compton?
+Thanks.
+Will it be humid in Fresno during the next week?
+Thanks.
+Find out the parties joining me and date for my doctor appointment.
+Cool, thanks.
+when's my tennis match.
+Okay great. Thank you.
+When is my dentist appointment, the date and time?
+That will do, thanks.
+will it rain next week.
+will it rain next week in Los Angeles.
+Thank you.
+Will it be warm in Grand Rapids on Saturday?
+Thank you.
+Bye.
+i need directions to a local fast food restaurant please.
+Please give me the address and directions to whichever fast food restaurant, either the fast food restaurant Panda Express 3 miles away or the fast food restaurant Pizza Hut 5 miles away, is on a route where I can avoid heavy traffic.
+Sounds good. Set the GPS for the fast food restaurant Panda Express 3 miles away at 842 Arrowhead Way with no traffic. Thanks.
+where is the closest grocery store.
+where is the grocery store safeway 4 miles away.
+Pick the quickest route to go to the grocery store Safeway 4 miles away at 452 Arcadia Pl and send the info on my screen please.
+get me the weather report for this week.
+get me the weather report for this week in Exeter.
+Thanks!
+What will be the temperature in manhattan on wednesday?
+Thank you car!
+tell me all the events and meetings scheduled on my calendar for today.
+Thank you.
+what's the weather like today and tomorrow.
+I need to know if it is going to be foggy in Fresno today and tomorrow CAR.
+Thanks buddy.
+Will there be drizzle in Cleveland tomorrow?
+Thanks.
+Tell me the weather report in durham for this week.
+The entire week.
+Perfect.
+Schedule a conference with the vice president on the 5th at 11am.
+Perfect.
+when is my dentist appointment.
+Thank you.
+Please give me the address and directions via the fastest route to a pizza restaurant within 4 miles of me. 
+OK, please direct me to the pizza restaurant Pizza Chicago 2 miles away at 915 Arbol Dr with no traffic via the fastest route.
+Okay thanks.
+pull up directions to 5672 barringer street.
+Pick a route to 5672 barringer street with no traffic and let's go to 5672 barringer street, thank you!
+Yes, patience, I need to get to 5672 barringer street anyway.. Thank you car, send the info on my screen please!
+Thanks. 
+give me directions to the closest grocery store.
+What is the next closest grocery store besides the grocery store Willows Market 3 miles away with a car collision nearby?
+Ok, well make a route to the grocery store Willows Market 3 miles away with a car collision nearby then, try to avoid the car accident.
+That's great! Thank you car!
+Car I need to go back home, it's in the area, please pick a route with no traffic.
+What is the address of home?
+Set GPS for a route home 3 miles away at 5671 barringer street with zero to no traffic.
+Thank you.
+Where can I get tea?
+Yes.
+Sounds great. Thank you. 
+is it going to be overcast or cloudy at all any day this week.
+is it going to be overcast or cloudy at all any day this week in Carson.
+Thanks.
+I need shopping center. 
+Yes, please.
+Thank you car, pick the shortest distance to the shopping center Midtown Shopping Center 3 miles away at 338 Alester Avenue for me please!
+what's the weather forecast.
+what's the weather forecast in Grand Rapids.
+Thank you very much car!
+Schedule a football activity with Ana for today at 11am.
+Thank you. 
+what is the weather like right now.
+Is it humid right now in Exeter?
+Thank you!
+Will it be raining this week in Redwood City?
+Thank you.
+what is the weather going to be like tomorrow show me the 7 day forecast.
+There will be hail tomorrow in Fresno?
+So no hail tomorrow in Fresno?
+Thanks.
+what is the weather like in the city.
+What is the weather in Compton on Sunday?
+Thanks.
+Where does my friend live?
+.
+I was thinking about something that happened to Jill yesterday, long story.. Please pick a quick route to get to my friend Jill's house 5 miles away at 347 Alta Mesa Avenue, thank you!
+Thank you!
+what's the temperature going to be like today and tomorrow.
+what's the temperature going to be like today and tomorrow in Seattle.
+Thank you.
+Is there a parking garage within 2 miles?
+That's great! Please pick the quickest route to the parking garage 1 mile away and send me the address of the parking garage 1 mile away on screen, thank you!
+Fantastic. Thanks, car!
+find starbucks.
+Is the Starbucks 3 miles away with a road block the quickest Starbucks available? I really need my morning coffee!
+Where is the Starbucks 3 miles away?
+ Thank you. 
+Will it be foggy on Tuesday in Redwood City?
+Thank you.
+directions to the mall.
+Thank you car, please pick the fastest route to the mall Town and Country.
+Sounds great and can you tell me the address of the mall Town and Country?
+Awesome, goodbye.
+What time do I go to yoga and who is going with me?
+Thanks.
+Car I need to get to a gas station, please show me the nearest one.
+Alright, where is the gas station Valero 7 miles away located?
+Please pick the fastest route to get to the gas station Valero 7 miles away at 200 Alester Ave.
+Thank you car!
+I want to find the agenda, location, and time for my meeting.
+Thanks.
+take me to the parking garage closest to my destination.
+Sure, thank you, just pick the quickest route to the parking garage Palo Alto Garage R 1 mile away and send me the address of the parking garage Palo Alto Garage R 1 mile away on screen.
+Schedule a swimming activity with Jon for December 10th at 3pm.
+Thank you. 
+What is the highest temperature in Brentwood over the next two days?
+Thank you very much car!
+I would like to know who is attending my meeting and when it is. 
+Thanks. 
+is it going to snow this week.
+is it going to snow this week in Mountain View.
+Thanks.
+i need to schedule a doctor's appointment.
+The doctor's appointment is at 1 pm today.
+show me the nearest shopping mall.
+Okay, where is the shopping mall Topanga Mall 3 miles away located?
+Direction to the shopping mall Topanga Mall 3 miles away at 171 Oak Rd please.
+Thank you. 
+[end conversation]
+Car I need a rest stop in the area, please pick something and avoid all heavy traffic.
+Sounds great. Send me that address of the rest stop The Westin 4 miles away.
+Sure, please do!
+Can you find out for me the date and parties attending my dinner?
+Thanks.
+Look up san francisco's two day weather info to see if it will be warm.
+Thank you.
+I need to find out the date and time for my lab appointment. 
+Thanks that will do car.
+is it going to rain in the next 7 days.
+is it going to rain in the next 7 days in San Francisco.
+Thanks.
+what's the weather like today and tomorrow.
+I want to know if it will be foggy today and tomorrow in Seatlle.
+Thanks!
